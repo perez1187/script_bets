@@ -1,0 +1,308 @@
+stan,league,match,bet,outcome,sb,sb_id,date,original_odds,real_odds,value (%)
+active,AUT2,SV Lafnitz - Floridsdorfer AC,HOME_GOALS,-1.5,1.50,,2022-05-13 17:30:00,1.418,1.478,1.49
+active,AUT2,SV Lafnitz - Floridsdorfer AC,GOALS,-3.5,1.32,,2022-05-13 17:30:00,1.268,1.32,0
+active,AUT2,SV Lafnitz - Floridsdorfer AC,GOALS_H1,0.5,1899-12-31 10:04:48,,2022-05-13 17:30:00,1.372,1.428,-0.56
+active,AUT2,SV Horn - A.Lustenau,1X2,2,1899-12-31 17:16:48,,2022-05-13 17:30:00,1.645,1.702,1.06
+active,AUT2,St.Polten - W.Innsbruck,1X2,1,1899-12-31 15:07:12,,2022-05-13 17:30:00,1.568,1.621,0.56
+active,AUT2,BW Linz - FC Liefering,1X2,1,1.73,,2022-05-13 17:30:00,1.667,1.726,0.23
+active,BRA,Palmeiras SP - Bragantino,1X2,1,1899-12-31 15:07:12,,2022-05-14 20:30:00,1.592,1.63,0
+active,BRA,Atl. Mineiro MG - Atl. Goianiense,1X2,1,1899-12-31 07:12:00,,2022-05-14 23:00:00,1.268,1.292,0.62
+active,BRA,Sao Paulo SP - Cuiaba MT,1X2,1,1.53,,2022-05-15 20:00:00,1.478,1.511,1.26
+active,BRA,Coritiba - America MG,GOALS,-3.5,1899-12-31 06:43:12,,2022-05-15 21:30:00,1.249,1.288,-0.62
+active,BRA,Coritiba - America MG,HOME_GOALS,-1.5,1899-12-31 14:52:48,,2022-05-15 21:30:00,1.562,1.617,0.19
+active,BRA,Goias GO - Santos SP,AWAY_GOALS,-1.5,1899-12-31 11:16:48,,2022-05-15 23:00:00,1.437,1.483,-0.88
+active,BRA2,Ponte Preta SP - G. Novorizontino SP,GOALS,-3.5,1899-12-31 04:48:00,,2022-05-13 23:00:00,1.169,1.206,-0.5
+active,CHI,Colo Colo - Coquimbo Unido,1X2,1,1.33,,2022-05-14 23:00:00,1.274,1.302,2.15
+active,COL,Junior Club - Jaguares de Cordoba,1X2,1,1899-12-31 12:00:00,,2022-05-15 00:00:00,1.474,1.512,-0.79
+active,CRC,Herediano - Guadalupe,1X2,1,1.60,,2022-05-13 00:30:00,1.556,1.607,-0.44
+active,CRC,Guadalupe - Guanacasteca,GOALS_H1,-1.5,1899-12-31 11:16:48,,2022-05-15 19:00:00,1.38,1.481,-0.74
+active,CRO,Hajduk S. - Istra 1961,1X2,1,1.22,,2022-05-14 18:00:00,1.187,1.219,0.08
+active,CRO,Osijek - Lokomotiva Z.,GOALS_H1,-1.5,1.40,,2022-05-15 16:00:00,1.278,1.379,1.52
+active,CRO,Sibenik - Dinamo Z.,AWAY_GOALS,-2.5,1.65,,2022-05-15 18:05:00,1.552,1.625,1.54
+active,CRO,Sibenik - Dinamo Z.,1X2,2,1.28,,2022-05-15 18:05:00,1.243,1.276,0.31
+active,ENG,Tottenham - Burnley,1X2,1,1.30,,2022-05-15 12:00:00,1.263,1.294,0.46
+active,ENG,Wolverhampton - Norwich,1X2,1,1.50,,2022-05-15 14:00:00,1.437,1.477,1.56
+active,ENG,Watford - Leicester,GOALS,-3.5,1.45,,2022-05-15 14:00:00,1.407,1.466,-1.09
+active,ENG,Leeds - Brighton,HOME_GOALS,-1.5,1.70,,2022-05-15 14:00:00,1.595,1.665,2.1
+active,ENG,Aston Villa - Crystal Palace,GOALS,-3.5,1899-12-31 08:52:48,,2022-05-15 14:00:00,1.333,1.369,0.07
+active,ENG,Wolverhampton - Norwich,GOALS_H1,0.5,1.42,,2022-05-15 14:00:00,1.394,1.428,-0.56
+active,ENG,Watford - Leicester,HOME_GOALS,-1.5,1899-12-31 12:28:48,,2022-05-15 14:00:00,1.441,1.477,2.91
+active,ENG,West Ham - Manchester City,GOALS,-3.5,1.65,,2022-05-15 14:00:00,1.592,1.637,0.79
+active,ENG,West Ham - Manchester City,1X2,2,1.42,,2022-05-15 16:30:00,1.391,1.429,-0.63
+active,ENG,Everton - Brentford,HOME_GOALS,-1.5,1899-12-31 19:12:00,,2022-05-15 16:30:00,1.719,1.771,1.64
+active,ENG,Southampton - Liverpool,1X2,2,1899-12-31 09:36:00,,2022-05-17 19:45:00,1.368,1.404,-0.28
+active,ESP,Espanyol - Valencia,GOALS_H1,0.5,1.45,,2022-05-14 17:30:00,1.402,1.451,-0.07
+active,ESP,Celta - Elche,1X2,1,1.72,,2022-05-14 20:00:00,1.676,1.723,-0.17
+active,ESP,Villarreal - Sociedad,GOALS_H1,0.5,1.45,,2022-05-15 17:30:00,1.389,1.441,0.62
+active,ESP,Betis - Granada,1X2,1,1.43,,2022-05-15 17:30:00,1.405,1.444,-0.97
+active,ESP,Atl.Madryt - Sevilla,HOME_GOALS,-1.5,1.60,,2022-05-15 17:30:00,1.524,1.588,0.76
+active,ESP,Bilbao - Osasuna,1X2,1,1.62,,2022-05-15 17:30:00,1.571,1.618,0.12
+active,ESP,Celta - Elche,HOME_GOALS,-1.5,1.65,,2022-05-15 17:30:00,1.581,1.65,0
+active,ESP,Getafe - Barcelona,1X2,2,1.65,,2022-05-15 17:30:00,1.613,1.663,-0.78
+active,ESP,Celta - Elche,GOALS_H1,0.5,1899-12-31 12:00:00,,2022-05-15 17:30:00,1.444,1.501,-0.07
+active,ESP,Cadiz - Real Madryt,GOALS,-3.5,1899-12-31 08:24:00,,2022-05-15 17:30:00,1.301,1.352,-0.15
+active,ESP,Villarreal - Sociedad,GOALS,-3.5,1.40,,2022-05-15 17:30:00,1.333,1.386,1.01
+active,ESP,Levante - Alaves,GOALS,-3.5,1.45,,2022-05-15 17:30:00,1.395,1.453,-0.21
+active,ESP,Bilbao - Osasuna,GOALS_H1,0.5,1.45,,2022-05-15 17:30:00,1.405,1.459,-0.62
+active,ESP,Getafe - Barcelona,GOALS_H1,-1.5,1.40,,2022-05-15 17:30:00,1.36,1.41,-0.71
+active,ESP2,Amorebieta - Huesca,AWAY_GOALS,-1.5,1.45,,2022-05-14 13:00:00,1.42,1.465,-1.02
+active,ESP2,Burgos - Cartagena,HOME_GOALS,-1.5,1.50,,2022-05-14 15:00:00,1.463,1.511,-0.73
+active,ESP2,Burgos - Cartagena,AWAY_GOALS,-1.5,1.45,,2022-05-14 15:00:00,1.417,1.461,-0.75
+active,ESP2,Lugo - Fuenlabrada,GOALS,-3.5,1.22,,2022-05-14 15:00:00,1.196,1.231,-0.89
+active,ESP2,Valladolid - Ponferradina,1X2,1,1.57,,2022-05-14 17:15:00,1.535,1.585,-0.95
+active,ESP2,Valladolid - Ponferradina,GOALS,2.5,1899-12-31 16:48:00,,2022-05-14 17:15:00,1.637,1.698,0.12
+active,ESP2,Valladolid - Ponferradina,HOME_GOALS,1.5,1.60,,2022-05-14 17:15:00,1.549,1.602,-0.12
+active,ESP2,Leganes - Eibar,GOALS,-3.5,1899-12-31 07:12:00,,2022-05-14 20:00:00,1.254,1.292,0.62
+active,ESP2,Alcorcon - Las Palmas,1X2,2,1.73,,2022-05-15 13:00:00,1.662,1.702,1.65
+active,ESP2,Mirandes - Ibiza,GOALS_H1,0.5,1899-12-31 11:16:48,,2022-05-15 15:00:00,1.413,1.458,0.82
+active,ESP2,Oviedo - Zaragoza,1X2,1,1899-12-31 15:36:00,,2022-05-16 20:00:00,1.588,1.625,1.54
+active,FIN,VPS Vaasa - Seinajoen JK,HOME_GOALS,-1.5,1899-12-31 12:00:00,,2022-05-13 16:00:00,1.463,1.501,-0.07
+active,FIN,Ilves - Mariehamn,GOALS_H1,0.5,1899-12-31 09:36:00,,2022-05-15 13:00:00,1.375,1.413,-0.92
+active,FRA,Lyon - Nantes,1X2,1,1.40,,2022-05-14 20:00:00,1.365,1.402,-0.14
+active,FRA,Nice - Lille,GOALS_H1,0.5,1.42,,2022-05-14 20:00:00,1.372,1.423,-0.21
+active,FRA,Monaco - Brest,1X2,1,1.27,,2022-05-14 20:00:00,1.241,1.274,-0.31
+active,FRA,Troyes - Lens,GOALS_H1,-1.5,1.42,,2022-05-14 20:00:00,1.336,1.428,-0.56
+active,FRA,St.Etienne - Reims,GOALS_H1,0.5,1.42,,2022-05-14 20:00:00,1.383,1.421,-0.07
+active,FRA,Rennes - Marsylia,AWAY_GOALS,-1.5,1.50,,2022-05-14 20:00:00,1.465,1.507,-0.46
+active,FRA,Lyon - Nantes,GOALS,2.5,1.48,,2022-05-14 20:00:00,1.446,1.493,-0.87
+active,FRA,Monaco - Brest,GOALS,2.5,1899-12-31 11:16:48,,2022-05-14 20:00:00,1.418,1.469,0.07
+active,FRA,Troyes - Lens,GOALS_H1,0.5,1899-12-31 09:36:00,,2022-05-14 20:00:00,1.37,1.403,-0.21
+active,FRA,Metz - Angers,GOALS_H1,0.5,1899-12-31 09:36:00,,2022-05-14 20:00:00,1.377,1.411,-0.78
+active,FRA,Nice - Lille,1X2,1,1899-12-31 18:28:48,,2022-05-14 20:00:00,1.735,1.766,0.23
+active,FRA2,Quevilly R. - Dunkerque,GOALS,-3.5,1.28,,2022-05-14 18:00:00,1.224,1.264,1.27
+active,FRA2,Niort - Valenciennes,GOALS_H1,-1.5,1.35,,2022-05-14 18:00:00,1.25,1.334,1.2
+active,FRA2,Paris FC - Grenoble,GOALS,-3.5,1.30,,2022-05-14 18:00:00,1.262,1.306,-0.46
+active,FRA2,Nancy - Pau,AWAY_GOALS,-1.5,1.50,,2022-05-14 18:00:00,1.459,1.512,-0.79
+active,FRA2,Quevilly R. - Dunkerque,GOALS,-2.5,1.75,,2022-05-14 18:00:00,1.662,1.731,1.1
+active,FRA2,Niort - Valenciennes,HOME_GOALS,-1.5,1.57,,2022-05-14 18:00:00,1.515,1.57,0
+active,FRA2,Paris FC - Grenoble,GOALS,-2.5,1.80,,2022-05-14 18:00:00,1.73,1.804,-0.22
+active,FRA2,Sochaux - Dijon,1X2,1,1.72,,2022-05-14 18:00:00,1.685,1.732,-0.69
+active,FRA2,Rodez - Caen,HOME_GOALS,-1.5,1.57,,2022-05-14 18:00:00,1.526,1.583,-0.82
+active,FRA2,Auxerre - Amiens,1X2,1,1899-12-31 10:19:12,,2022-05-14 18:00:00,1.373,1.406,1.71
+active,FRA2,Paris FC - Grenoble,GOALS_H1,0.5,1899-12-31 10:04:48,,2022-05-14 18:00:00,1.364,1.41,0.71
+active,FRA2,Quevilly R. - Dunkerque,GOALS_H1,0.5,1899-12-31 10:04:48,,2022-05-14 18:00:00,1.379,1.426,-0.42
+active,FRA2,Paris FC - Grenoble,GOALS,1.5,1.30,,2022-05-14 18:00:00,1.268,1.312,-0.91
+active,FRA2,Paris FC - Grenoble,1X2,1,1899-12-31 18:00:00,,2022-05-14 18:00:00,1.694,1.743,0.4
+active,FRA2,Auxerre - Amiens,GOALS,2.5,1899-12-31 17:16:48,,2022-05-14 18:00:00,1.654,1.721,-0.06
+active,FRA2,AC Ajaccio - Toulouse,GOALS_H1,0.5,1.40,,2022-05-14 18:00:00,1.366,1.413,-0.92
+active,FRA2,AC Ajaccio - Toulouse,1X2,1,1899-12-31 15:07:12,,2022-05-14 18:00:00,1.575,1.617,0.8
+active,GER,Union Berlin - Bochum,1X2,1,1.45,,2022-05-14 14:30:00,1.389,1.427,1.61
+active,GER,A.Bielefeld - RB Lipsk,1X2,2,1.38,,2022-05-14 14:30:00,1.341,1.377,0.22
+active,GER,Dortmund - Hertha,HOME_GOALS_H1,-1.5,1.50,,2022-05-14 14:30:00,1.446,1.514,-0.92
+active,GER,Augsburg - Greuther Furth,GOALS,2.5,1.50,,2022-05-14 14:30:00,1.457,1.503,-0.2
+active,GER,Dortmund - Hertha,1X2,1,1.50,,2022-05-14 14:30:00,1.476,1.504,-0.27
+active,GER,Wolfsburg - Bayern M.,GOALS,-4.5,1.50,,2022-05-14 14:30:00,1.452,1.514,-0.92
+active,GER,Leverkusen - SC Freiburg,GOALS,2.5,1.47,,2022-05-14 14:30:00,1.424,1.484,-0.94
+active,GER,Dortmund - Hertha,AWAY_GOALS,-1.5,1.55,,2022-05-14 14:30:00,1.481,1.525,1.64
+active,GER,Mainz - Eintracht F.,1X2,1,1.70,,2022-05-14 14:30:00,1.68,1.715,-0.87
+active,GER,Mainz - Eintracht F.,GOALS,2.5,1.50,,2022-05-14 14:30:00,1.435,1.481,1.28
+active,GER,Leverkusen - SC Freiburg,GOALS,-4.5,1899-12-31 08:52:48,,2022-05-14 14:30:00,1.33,1.37,0
+active,GER,M'gladbach - Hoffenheim,HOME_GOALS,-2.5,1899-12-31 15:36:00,,2022-05-14 14:30:00,1.581,1.631,1.16
+active,GER,Wolfsburg - Bayern M.,GOALS_H1,1.5,1899-12-31 19:12:00,,2022-05-14 14:30:00,1.752,1.805,-0.28
+active,GER2,Darmstadt - Paderborn,GOALS,-5.5,1899-12-31 04:48:00,,2022-05-15 14:30:00,1.167,1.196,0.33
+active,GER2,Hannover - Ingolstadt,GOALS,-4.5,1899-12-31 05:16:48,,2022-05-15 14:30:00,1.198,1.229,-0.73
+active,GER2,Darmstadt - Paderborn,AWAY_GOALS,-1.5,1899-12-31 12:00:00,,2022-05-15 14:30:00,1.452,1.495,0.33
+active,GER2,Darmstadt - Paderborn,GOALS,-4.5,1899-12-31 11:16:48,,2022-05-15 14:30:00,1.431,1.477,-0.47
+active,GER3,1860 Monachium - Borussia Dortmund II,GOALS,1.5,1.20,,2022-05-14 12:30:00,1.174,1.211,-0.91
+active,IRE,Shamrock Rovers - Derry City,GOALS,-3.5,1.25,,2022-05-13 19:45:00,1.2,1.246,0.32
+active,IRE,Dundalk - Bohemians Dublin,GOALS,-3.5,1.42,,2022-05-13 19:45:00,1.373,1.42,0
+active,IRE,Shamrock Rovers - Derry City,GOALS,-2.5,1.70,,2022-05-13 19:45:00,1.625,1.702,-0.12
+active,IRE,Shelbourne - Drogheda Utd,GOALS,-3.5,1899-12-31 05:16:48,,2022-05-13 19:45:00,1.195,1.23,-0.81
+active,IRE,Sligo Rovers - St. Patrick's Athletic,GOALS,-3.5,1.22,,2022-05-14 19:45:00,1.191,1.226,-0.49
+active,IRE,Sligo Rovers - St. Patrick's Athletic,GOALS,-2.5,1.65,,2022-05-14 19:45:00,1.575,1.63,1.23
+active,ITA,Empoli - Salernitana,GOALS,-3.5,1.65,,2022-05-14 14:00:00,1.606,1.651,-0.06
+active,ITA,Empoli - Salernitana,HOME_GOALS,-1.5,1899-12-31 15:36:00,,2022-05-14 14:00:00,1.61,1.653,-0.18
+active,ITA,Roma - Venezia,1X2,1,1.28,,2022-05-14 19:45:00,1.245,1.278,0.16
+active,ITA,Roma - Venezia,GOALS,-3.5,1.75,,2022-05-14 19:45:00,1.704,1.76,-0.57
+active,ITA,Roma - Venezia,GOALS,2.5,1899-12-31 11:16:48,,2022-05-14 19:45:00,1.435,1.481,-0.74
+active,ITA,Napoli - Genoa,GOALS,-3.5,1.45,,2022-05-15 14:00:00,1.408,1.453,-0.21
+active,ITA,Napoli - Genoa,1X2,1,1899-12-31 18:00:00,,2022-05-15 14:00:00,1.725,1.755,-0.28
+active,ITA,AC Milan - Atalanta,AWAY_GOALS,-1.5,1.50,,2022-05-15 17:00:00,1.448,1.506,-0.4
+active,ITA,Cagliari - Inter M.,1X2,2,1.43,,2022-05-15 19:45:00,1.382,1.403,1.92
+active,ITA,Juventus - Lazio,GOALS,-3.5,1899-12-31 10:04:48,,2022-05-16 19:45:00,1.388,1.431,-0.77
+active,JPN,Urawa Red Diamonds - Sanfrecce Hiroshima,CORNERS_H1,3.5,1899-12-31 14:24:00,,2022-05-13 11:30:00,1.524,1.603,-0.19
+active,JPN,Kashiwa Reysol - Gamba Osaka,GOALS,-3.5,1.28,,2022-05-14 11:00:00,1.254,1.289,-0.7
+active,JPN,Urawa Red Diamonds - Yokohama F. Marinos,GOALS,1.5,1899-12-31 08:24:00,,2022-05-18 11:30:00,1.312,1.355,-0.37
+active,JPN2,Oita Trinita - Roasso Kumamoto,GOALS,-3.5,1.25,,2022-05-14 06:00:00,1.215,1.255,-0.4
+active,JPN2,V-Varen Nagasaki - Omiya Ardija,GOALS_H1,-1.5,1.33,,2022-05-14 06:00:00,1.254,1.338,-0.6
+active,JPN2,V-Varen Nagasaki - Omiya Ardija,GOALS,-3.5,1.28,,2022-05-14 06:00:00,1.243,1.285,-0.39
+active,JPN2,Machida Zelvia - Albirex Niigata,GOALS,-3.5,1.22,,2022-05-15 06:00:00,1.184,1.221,-0.08
+active,JPN2,Yokohama - Tokushima Vortis,GOALS,-3.5,1.20,,2022-05-15 06:00:00,1.174,1.211,-0.91
+active,KOR,Suwon FC - Jeju United,GOALS,-3.5,1.28,,2022-05-15 06:20:00,1.244,1.279,0.08
+active,KOR,Jeonbuk - Gangwon,GOALS,-3.5,1.33,,2022-05-15 08:30:00,1.27,1.306,1.84
+active,KOR,Seoul - Pohang Steelers,GOALS,-3.5,1.22,,2022-05-15 11:00:00,1.186,1.22,0
+active,KOR,Gangwon - Seoul,GOALS_H1,0.5,1899-12-31 12:00:00,,2022-05-18 11:30:00,1.455,1.502,-0.13
+active,MLS,New York City - Columbus Crew,GOALS,-3.5,1899-12-31 11:16:48,,2022-05-15 00:00:00,1.408,1.453,1.17
+active,MLS,Chicago Fire - Cincinnati,GOALS,1.5,1.28,,2022-05-15 01:00:00,1.248,1.283,-0.23
+active,MLS,Inter Miami - D.C. United,GOALS,-3.5,1.35,,2022-05-15 01:00:00,1.31,1.344,0.45
+active,MLS,Portland - Kansas City,GOALS,-3.5,1.40,,2022-05-15 03:00:00,1.37,1.412,-0.85
+active,MLS,Seattle - Minnesota Utd,GOALS,-3.5,1899-12-31 11:16:48,,2022-05-15 21:00:00,1.42,1.465,0.34
+active,MLS,Seattle - Minnesota Utd,1X2,1,1899-12-31 17:16:48,,2022-05-15 21:00:00,1.685,1.72,0
+active,NED,Zwolle - PSV,1X2,2,1899-12-31 12:00:00,,2022-05-15 13:30:00,1.459,1.486,0.94
+active,NED,Feyenoord - Twente Enschede,1X2,1,1.47,,2022-05-15 13:30:00,1.452,1.479,-0.61
+active,NED,NEC - Fortuna S.,HOME_GOALS,-1.5,1899-12-31 19:12:00,,2022-05-15 13:30:00,1.735,1.796,0.22
+active,NOR,Viking - Jerv,1X2,1,1899-12-31 06:28:48,,2022-05-16 17:00:00,1.247,1.27,0
+active,NOR,Lillestrom - Sarpsborg,GOALS_H1,0.5,1.40,,2022-05-16 17:00:00,1.364,1.401,-0.07
+active,NOR,Lillestrom - Sarpsborg,GOALS,1.5,1.28,,2022-05-16 17:00:00,1.251,1.285,-0.39
+active,NOR,Bodo/Glimt - Tromso,1X2,1,1899-12-31 11:16:48,,2022-05-16 17:00:00,1.455,1.483,-0.88
+active,NOR,Odd BK - Haugesund,GOALS,-3.5,1.45,,2022-05-16 17:00:00,1.415,1.46,-0.68
+active,NOR,Odd BK - Haugesund,AWAY_GOALS,-1.5,1899-12-31 13:40:48,,2022-05-16 17:00:00,1.495,1.539,2.01
+active,NOR,Bodo/Glimt - Tromso,GOALS,-3.5,1899-12-31 13:12:00,,2022-05-16 17:00:00,1.508,1.557,-0.45
+active,NOR2,Mjondalen - KFUM Oslo,GOALS,-3.5,1899-12-31 10:04:48,,2022-05-15 17:00:00,1.37,1.421,-0.07
+active,NOR2,Bryne - Asane,GOALS,-3.5,1899-12-31 13:12:00,,2022-05-15 17:00:00,1.465,1.524,1.71
+active,NOR2,Stjordals-Blink - Ranheim,GOALS,-3.5,1.53,,2022-05-15 17:00:00,1.459,1.516,0.92
+active,POL,Cracovia - W.Płock,HOME_GOALS,-1.5,1.80,,2022-05-13 17:00:00,1.741,1.81,-0.55
+active,POL,Jagiellonia - Legia,GOALS,-3.5,1.37,,2022-05-13 19:30:00,1.331,1.375,-0.36
+active,POL,Jagiellonia - Legia,AWAY_GOALS,-1.5,1899-12-31 16:48:00,,2022-05-13 19:30:00,1.645,1.705,-0.29
+active,POL,Nieciecza - Piast,AWAY_GOALS,-1.5,1.57,,2022-05-14 11:30:00,1.529,1.581,-0.7
+active,POL,Warta - Lech,1X2,2,1.45,,2022-05-14 14:00:00,1.422,1.453,-0.21
+active,POL,Warta - Lech,GOALS,-3.5,1899-12-31 10:48:00,,2022-05-14 14:00:00,1.413,1.462,-0.82
+active,POL,Zagłębie L. - Raków,GOALS_H1,-1.5,1.50,,2022-05-14 16:30:00,1.467,1.516,-1.06
+active,POL,Zagłębie L. - Raków,GOALS,-3.5,1.43,,2022-05-14 16:30:00,1.376,1.422,0.56
+active,POL,Lechia - Pogoń,GOALS,-3.5,1.47,,2022-05-14 19:00:00,1.398,1.446,1.66
+active,POL,Lechia - Pogoń,GOALS_H1,-1.5,1.50,,2022-05-14 19:00:00,1.467,1.514,-0.92
+active,POL,Lechia - Pogoń,HOME_GOALS,-1.5,1.60,,2022-05-14 19:00:00,1.493,1.542,3.76
+active,POL,Mielec - Śląsk,GOALS_H1,-1.5,1.45,,2022-05-15 11:30:00,1.31,1.411,2.76
+active,POL,Mielec - Śląsk,GOALS,-3.5,1.42,,2022-05-15 11:30:00,1.327,1.383,2.68
+active,POL,Mielec - Śląsk,AWAY_GOALS,-1.5,1.65,,2022-05-15 11:30:00,1.524,1.592,3.64
+active,POL,Mielec - Śląsk,HOME_GOALS,-1.5,1.60,,2022-05-15 11:30:00,1.535,1.604,-0.25
+active,POL,Górnik Z. - Łęczna,GOALS,-3.5,1899-12-31 12:00:00,,2022-05-15 14:00:00,1.444,1.495,0.33
+active,POL,Górnik Z. - Łęczna,GOALS,-4.5,1899-12-31 04:48:00,,2022-05-15 14:00:00,1.173,1.206,-0.5
+active,POL,Górnik Z. - Łęczna,1X2,1,1.63,,2022-05-15 14:00:00,1.568,1.605,1.56
+active,POL,Radomiak - W.Kraków,GOALS,-3.5,1899-12-31 09:36:00,,2022-05-15 16:30:00,1.336,1.38,1.45
+active,POL,Radomiak - W.Kraków,AWAY_GOALS,-1.5,1899-12-31 17:16:48,,2022-05-15 16:30:00,1.649,1.71,0.58
+active,POL,Radomiak - W.Kraków,HOME_GOALS,-1.5,1.55,,2022-05-15 16:30:00,1.498,1.548,0.13
+active,POL2,Skra Cz. - Niepołomice,HOME_GOALS,-1.5,1.47,,2022-05-13 17:00:00,1.403,1.452,1.24
+active,POL2,Skra Cz. - Niepołomice,GOALS,-3.5,1.30,,2022-05-13 17:00:00,1.265,1.309,-0.69
+active,POL2,Skra Cz. - Niepołomice,GOALS,-2.5,1899-12-31 19:12:00,,2022-05-13 17:00:00,1.725,1.798,0.11
+active,POL2,Kielce - GKS Katowice,HOME_GOALS,-1.5,1.75,,2022-05-14 11:40:00,1.667,1.737,0.75
+active,POL2,Legnica - Widzew Ł.,HOME_GOALS,-1.5,1899-12-31 16:48:00,,2022-05-15 11:40:00,1.613,1.68,1.19
+active,POR,Arouca - Belenenses,GOALS_H1,0.5,1899-12-31 12:00:00,,2022-05-14 15:30:00,1.472,1.51,-0.66
+active,POR,Maritimo - Portimonense,GOALS,2.5,1.75,,2022-05-14 18:00:00,1.699,1.754,-0.23
+active,POR,Maritimo - Portimonense,AWAY_GOALS,-1.5,1899-12-31 13:12:00,,2022-05-14 18:00:00,1.493,1.531,1.24
+active,POR,Sporting L. - Santa Clara,HOME_GOALS_H1,-1.5,1899-12-31 10:04:48,,2022-05-14 20:30:00,1.332,1.417,0.21
+active,POR2,Porto B - Benfica B,GOALS,-4.5,1899-12-31 05:16:48,,2022-05-13 15:30:00,1.178,1.215,0.41
+active,POR2,Acad. Viseu - Penafiel,GOALS,-3.5,1899-12-31 10:04:48,,2022-05-13 18:00:00,1.348,1.398,1.57
+active,POR2,Academica Coimbra - Farense,GOALS,-3.5,1.40,,2022-05-14 11:00:00,1.36,1.411,-0.78
+active,POR2,Academica Coimbra - Farense,GOALS,2.5,1899-12-31 18:00:00,,2022-05-14 11:00:00,1.671,1.739,0.63
+active,POR2,Vilafranquense - Trofense,GOALS,-3.5,1899-12-31 10:04:48,,2022-05-14 15:30:00,1.373,1.425,-0.35
+active,POR2,Leixoes - Casa Pia,GOALS,-3.5,1.40,,2022-05-15 11:00:00,1.31,1.357,3.17
+active,POR2,Rio Ave - Chaves,GOALS,-3.5,1.40,,2022-05-15 11:00:00,1.319,1.367,2.41
+active,POR2,Leixoes - Casa Pia,1X2,2,1.80,,2022-05-15 11:00:00,1.741,1.79,0.56
+active,POR2,Leixoes - Casa Pia,GOALS_H1,-1.5,1899-12-31 10:48:00,,2022-05-15 11:00:00,1.41,1.458,-0.55
+active,POR2,Varzim - Mafra,GOALS,-3.5,1899-12-31 08:24:00,,2022-05-15 15:30:00,1.289,1.334,1.2
+active,SLO,Maribor - Aluminij,GOALS,1.5,1.22,,2022-05-14 19:15:00,1.187,1.232,-0.97
+active,SLO,Maribor - Aluminij,1X2,1,1899-12-31 06:43:12,,2022-05-14 19:15:00,1.233,1.269,0.87
+active,SLO,Koper - Radomlje,1X2,1,1.72,,2022-05-16 16:30:00,1.654,1.711,0.53
+active,SWE,Mjallby - Varnamo,GOALS,-3.5,1899-12-31 07:12:00,,2022-05-14 14:00:00,1.267,1.303,-0.23
+active,SWE,Mjallby - Varnamo,HOME_GOALS,-1.5,1.70,,2022-05-14 14:00:00,1.658,1.706,-0.35
+active,SWE,Sirius - Elfsborg,1X2,2,1899-12-31 15:36:00,,2022-05-14 16:30:00,1.621,1.654,-0.24
+active,SWE,Norrkoping - GIF Sundsvall,1X2,1,1.42,,2022-05-15 16:30:00,1.398,1.424,-0.28
+active,SWE,Goteborg - Varbergs,GOALS,-3.5,1.28,,2022-05-15 16:30:00,1.249,1.284,-0.31
+active,SWE2,Trelleborgs FF - Vasteras SK,GOALS,1.5,1.28,,2022-05-14 12:00:00,1.251,1.293,-1.01
+active,SWE2,Trelleborgs FF - Vasteras SK,GOALS_H1,0.5,1.38,,2022-05-14 12:00:00,1.351,1.395,-1.08
+active,SWE2,Orebro - Osters IF,GOALS,-3.5,1899-12-31 07:55:12,,2022-05-14 12:00:00,1.278,1.323,0.53
+active,SWE2,Halmstads BK - AFC Eskilstuna,GOALS,1.5,1899-12-31 06:00:00,,2022-05-14 14:00:00,1.221,1.261,-0.87
+active,SWE2,Halmstads BK - AFC Eskilstuna,1X2,1,1899-12-31 14:24:00,,2022-05-14 14:00:00,1.565,1.607,-0.44
+active,SWE2,Ostersunds FK - IK Brage,GOALS,-3.5,1.40,,2022-05-15 14:00:00,1.341,1.39,0.72
+active,TUR,Goztepe SK - Besiktas,HOME_GOALS,-1.5,1899-12-31 11:16:48,,2022-05-15 14:00:00,1.437,1.478,-0.54
+active,TUR,Fenerbahce - F.Karagumruk,1X2,1,1899-12-31 12:00:00,,2022-05-15 17:00:00,1.469,1.497,0.2
+active,TUR,Alanyaspor - Gaziantep,1X2,1,1899-12-31 14:52:48,,2022-05-15 17:00:00,1.581,1.613,0.43
+active,TUR,Giresunspor - Basaksehir FK,GOALS_H1,0.5,1899-12-31 11:16:48,,2022-05-15 17:00:00,1.429,1.47,0
+active,TUR,C.Rizespor - Sivasspor,GOALS_H1,0.5,1.40,,2022-05-16 18:00:00,1.372,1.409,-0.64
+active,POL2,Podbeskidzie - Gdynia,GOALS,1.5,1.30,d7c90ee5,2022-05-13 19:30:00,1.254,1.289,0.85
+active,MLS,Vancouver - Dallas,GOALS_H1,-1.5,1.42,2.87E+06,2022-05-19 03:00:00,1.346,1.412,0.57
+active,POR,Arouca - Belenenses,GOALS,1.5,1.40,f0b9c311,2022-05-14 15:30:00,1.357,1.393,0.5
+active,,,,,,,,,,
+active,,,,,,,,,,
+active,GER2,Werder B. - Regensburg,GOALS,-4.5,1.50,7ed7854f,2022-05-15 14:30:00,1.45,1.497,0.2
+active,IRE,Finn Harps - UC Dublin,GOALS,-3.5,1.40,a0fbe59b,2022-05-13 20:00:00,1.361,1.398,0.14
+active,POR2,Rio Ave - Chaves,GOALS_H1,-1.5,1.45,b22ee224,2022-05-15 11:00:00,1.4,1.448,0.14
+active,,,,,,,,,,
+active,FIN,VPS Vaasa - Seinajoen JK,GOALS,-3.5,1.35,97f7973d,2022-05-13 16:00:00,1.316,1.35,0
+active,POL2,Polkowice - Resovia,GOALS_H1,0.5,1.45,ab35b212,2022-05-16 17:00:00,1.402,1.451,-0.07
+active,MLS,Philadelphia U. - Inter Miami,GOALS_H1,-1.5,1.50,fd364f8d,2022-05-19 00:30:00,1.433,1.501,-0.07
+active,GER3,Viktoria Berlin - SV Meppen,GOALS,-4.5,1.22,321b125e,2022-05-14 12:30:00,1.19,1.221,-0.08
+active,FRA2,Guingamp - Le Havre,GOALS,-4.5,1.22,52643760,2022-05-14 18:00:00,1.183,1.221,-0.08
+active,MLS,NY Red Bulls - Chicago Fire,GOALS,-3.5,1.40,cdf1fd01,2022-05-19 00:30:00,1.361,1.402,-0.14
+active,ESP2,Sociedad B - Almeria,GOALS,-3.5,1.40,8ffd2a59,2022-05-13 20:00:00,1.365,1.402,-0.14
+active,FRA2,AC Ajaccio - Toulouse,GOALS,-3.5,1.40,90d4c7c0,2022-05-14 18:00:00,1.353,1.403,-0.21
+active,SWE2,Dalkurd FF - Skovde Aik,GOALS,-3.5,1.42,fc7d9af1,2022-05-13 18:00:00,1.382,1.424,-0.28
+active,ALG,CR Belouizdad - ASO Chlef,1X2,1,1.35,f6d00547,2022-05-14 16:00:00,1.317,1.354,-0.3
+active,HUN,Puskas Akad. - Honved,HOME_GOALS,-1.5,1.72,37d4566b,2022-05-15 15:00:00,1.585,1.662,3.49
+active,IRE,Shelbourne - Drogheda Utd,CORNERS_H1,3.5,1.70,f5322cbe,2022-05-13 19:45:00,1.565,1.653,2.84
+active,FRA,Rennes - Marsylia,CORNERS,-10.5,1.67,cfa1412f,,1.568,1.636,2.08
+active,ITA,Cagliari - Inter M.,GOALS,-3.5,1.70,4011c741,2022-05-15 19:45:00,1.629,1.675,1.49
+active,ESP2,Gijon - Girona,AWAY_GOALS,-1.5,1.52,7aa9202b,2022-05-15 15:00:00,1.45,1.498,1.47
+active,SWE,Goteborg - Varbergs,GOALS,-2.5,1.75,361d64c8,2022-05-15 16:30:00,1.68,1.729,1.21
+active,BRA,Botafogo RJ - Fortaleza CE,HOME_GOALS,-1.5,1.55,a46fed90,2022-05-15 22:00:00,1.488,1.532,1.17
+active,NOR,Valerenga - Ham Kam,1X2,1,1.75,1e20b5cc,2022-05-16 19:00:00,1.694,1.73,1.16
+active,,,,,,,,,,
+active,FRA2,Sochaux - Dijon,GOALS,2.5,1.77,6b70b5c8,2022-05-14 18:00:00,1.69,1.762,0.45
+active,TUR,Trabzonspor - Altay Izmir,HOME_GOALS,-2.5,1.60,47dc250f,2022-05-15 14:00:00,1.552,1.595,0.31
+active,FRA,Nice - Lille,CORNERS,8.5,1.65,fa946c25,,1.578,1.646,0.24
+active,,,,,,,,,,
+active,NED,Heracles - Sparta R.,HOME_GOALS,-1.5,1.57,fb2b891d,2022-05-15 13:30:00,1.529,1.57,0
+active,COL,Aguilas Doradas - Cortulua,GOALS,-2.5,1.55,19e99228,2022-05-15 00:00:00,1.495,1.55,0
+active,GER2,Heidenheim - Karlsruher,AWAY_GOALS,-1.5,1.65,599fde7a,2022-05-15 14:30:00,1.606,1.651,-0.06
+active,BRA,Sao Paulo SP - Cuiaba MT,GOALS_H1,0.5,1.55,24eca1e0,2022-05-15 20:00:00,1.508,1.552,-0.13
+active,FRA2,AC Ajaccio - Toulouse,CORNERS_H1,3.5,1.70,a507dbec,2022-05-14 18:00:00,1.592,1.704,-0.23
+active,GER3,Waldhof Mannheim 07 - TSV Havelse,GOALS,-4.5,1.33,,2022-05-14 12:30:00,1.267,1.307,1.76
+active,SLO,Maribor - Aluminij,GOALS,-4.5,1.33,,2022-05-14 19:15:00,1.271,1.319,0.83
+active,MLS,Sp. Kansas City - Colorado,GOALS,-3.5,1.33,,2022-05-19 01:30:00,1.282,1.319,0.83
+active,ALG,RC Relizane - MC Oran,1X2,2,1.47,,2022-05-14 16:00:00,1.415,1.459,0.75
+active,,,,,,,,,,
+active,FRA2,Nimes - SC Bastia,GOALS,-3.5,1.47,,2022-05-14 18:00:00,1.417,1.462,0.55
+active,GER3,VfL Osnabruck - Magdeburg,GOALS,-4.5,1.33,,2022-05-14 12:30:00,1.287,1.324,0.45
+active,GER2,Werder B. - Regensburg,GOALS,-5.5,1.23,,2022-05-15 14:30:00,1.193,1.225,0.41
+active,ESP2,Valladolid - Ponferradina,GOALS,-4.5,1.25,,2022-05-14 17:15:00,1.216,1.245,0.4
+active,WTA-RABAT,C.Ferrando - P.Kania,1X2,1,1.20,,2022-05-14 11:00:00,1.164,1.197,0.25
+active,LTU,FA Siauliai - Hegelmann,GOALS_H1,-1.5,1.30,,2022-05-15 15:30:00,1.156,1.297,0.23
+active,BRA,Palmeiras SP - Bragantino,GOALS_H1,0.5,1.42,,2022-05-14 20:30:00,1.379,1.417,0.21
+active,ATP-ROME,N.Djokovic - C.Ruud,1X2_SET1,1,1.30,,2022-05-14 18:30:00,1.275,1.299,0.08
+active,POL,Nieciecza - Piast,GOALS,-3.5,1.32,,2022-05-14 11:30:00,1.29,1.323,-0.23
+active,POL2,Kielce - GKS Katowice,GOALS_H1,0.5,1.47,,2022-05-14 11:40:00,1.433,1.474,-0.27
+active,POR,Sporting L. - Santa Clara,1X2,1,1.23,,2022-05-14 20:30:00,1.216,1.234,-0.32
+active,GER3,Freiburg II - Saarbrucken,GOALS,-4.5,1.20,,2022-05-14 12:30:00,1.175,1.205,-0.41
+active,LAT,BFC Daugavpils - Liepaja,GOALS_H1,-1.5,1.42,,2022-05-14 12:00:00,1.291,1.426,-0.42
+active,POL2,GKS Jastrzębie - GKS Tychy,GOALS_H1,0.5,1.42,,2022-05-14 17:00:00,1.389,1.427,-0.49
+active,ARM,Ararat Armenia - Van,1X2,1,1.42,,2022-05-14 16:00:00,1.385,1.427,-0.49
+active,ESP2,Mirandes - Ibiza,GOALS,-3.5,1.40,,2022-05-15 15:00:00,1.361,1.407,-0.5
+active,BRA,Atl. Mineiro MG - Atl. Goianiense,CORNERS_H1,4.5,1.75,,2022-05-14 23:00:00,1.595,1.678,4.29
+active,GER,Augsburg - Greuther Furth,YELLOW,-3.5,1.60,,,1.472,1.573,1.72
+active,GER,Mainz - Eintracht F.,AWAY_GOALS,-1.5,1.57,,2022-05-14 14:30:00,1.51,1.55,1.29
+active,HUN,Kisvarda - Zalaegerszeg,1X2,1,1.72,,2022-05-15 15:00:00,1.645,1.702,1.06
+active,NED,AZ Alkmaar - Waalwijk,CORNERS,8.5,1.65,,2022-05-15 13:30:00,1.559,1.633,1.04
+active,TUR,Konyaspor - Hatayspor,1X2,1,1.65,,2022-05-15 17:00:00,1.61,1.637,0.79
+active,ESP2,Leganes - Eibar,GOALS,-2.5,1.70,,2022-05-14 20:00:00,1.641,1.687,0.77
+active,ITA,Udinese - Spezia,HOME_GOALS,1.5,1.70,,2022-05-14 17:00:00,1.649,1.691,0.53
+active,POL,Nieciecza - Piast,HOME_GOALS,-1.5,1.62,,2022-05-14 11:30:00,1.568,1.612,0.5
+active,GER2,Hansa R. - Hamburger SV,AWAY_GOALS,-2.5,1.72,,2022-05-15 14:30:00,1.645,1.713,0.41
+active,ESP2,Lugo - Fuenlabrada,CORNERS,-10.5,1.60,,2022-05-14 15:00:00,1.493,1.594,0.38
+active,ESP2,Amorebieta - Huesca,GOALS_H1,0.5,1.52,,2022-05-14 13:00:00,1.476,1.515,0.33
+active,FRA,Rennes - Marsylia,GOALS,-3.5,1.52,,2022-05-14 20:00:00,1.478,1.516,0.26
+active,FRA2,Guingamp - Le Havre,GOALS,2.5,1.60,,2022-05-14 18:00:00,1.549,1.598,0.13
+active,ATP-GENEVA,L.Gerch - V.Sachko,1X2_SET1,2,1.73,,2022-05-14 13:00:00,1.667,1.728,0.12
+active,ATP-GENEVA,L.Gerch - V.Sachko,1X2,2,1.67,,2022-05-14 13:00:00,1.613,1.669,0.06
+active,ESP2,Valladolid - Ponferradina,GOALS,-3.5,1.60,,2022-05-14 17:15:00,1.556,1.599,0.06
+active,POR,Moreirense - Vizela,CORNERS,-10.5,1.70,,2022-05-14 15:30:00,1.621,1.7,0
+active,TUR,Goztepe SK - Besiktas,1X2,2,1.60,,2022-05-15 14:00:00,1.575,1.601,-0.06
+active,ESP2,Valladolid - Ponferradina,HOME_GOALS,-2.5,1.57,,2022-05-14 17:15:00,1.532,1.573,-0.19
+active,ESP2,Oviedo - Zaragoza,GOALS_H1,0.5,1.52,,2022-05-16 20:00:00,1.474,1.523,-0.2
+active,NED,Zwolle - PSV,AWAY_GOALS,-2.5,1.75,,2022-05-15 13:30:00,1.704,1.754,-0.23
+active,GER,Dortmund - Hertha,GOALS,-4.5,1.45,51af132d,2022-05-14 14:30:00,1.403,1.443,0.49
+active,FIN,Inter Turku - HIFK,1X2,1,1899-12-31 10:48:00,4eec7073,2022-05-14 15:00:00,1.426,1.448,0.14
+active,POL,Warta - Lech,GOALS_H1,-1.5,1899-12-31 12:00:00,6f9aba75,2022-05-14 14:00:00,1.461,1.498,0.13
+active,SWE2,Jonkopings - Utsiktens BK,GOALS,-3.5,1899-12-31 11:16:48,071e44e4,2022-05-14 14:00:00,1.424,1.47,0
+active,SWE2,Landskrona Bois - Brommapojkarna,GOALS_H1,-1.5,1899-12-31 11:16:48,5ae1ae25,2022-05-15 12:00:00,1.403,1.47,0
+active,NED,AZ Alkmaar - Waalwijk,GOALS,-4.5,1899-12-31 10:04:48,d19b618e,2022-05-15 13:30:00,1.38,1.422,-0.14
+active,ESP2,Burgos - Cartagena,GOALS,-3.5,1899-12-31 08:24:00,24bc6a14,2022-05-14 15:00:00,1.321,1.356,-0.44
+active,SWE,Sirius - Elfsborg,GOALS,-4.5,1.20,5cdb39e7,2022-05-14 16:30:00,1.179,1.206,-0.5
+active,POR,Moreirense - Vizela,GOALS,-3.5,1.42,ec67ea49,2022-05-14 15:30:00,1.389,1.428,-0.56
+active,MLS,Philadelphia U. - Inter Miami,1X2,1,1899-12-31 10:04:48,7138bb88,2022-05-19 00:30:00,1.398,1.428,-0.56
+active,BRA,Coritiba PR - America MG,GOALS,-3.5,1899-12-31 06:43:12,8bd04b79,2022-05-15 21:30:00,1.254,1.289,-0.7
+active,FRA2,Sochaux - Dijon,GOALS,-4.5,1899-12-31 04:48:00,6b70b5c8,2022-05-14 18:00:00,1.179,1.209,-0.74
+active,POR,Tondela - Boavista,GOALS,-3.5,1.37,71dd5353,2022-05-14 15:30:00,1.345,1.381,-0.8
+active,MLS,NY Red Bulls - Chicago Fire,GOALS,1.5,1899-12-31 07:55:12,93f1f378,2022-05-19 00:30:00,1.303,1.341,-0.82
+active,POL2,Zagłębie S. - Olsztyn,GOALS_H1,0.5,1899-12-31 10:04:48,1e4833f7,2022-05-14 19:30:00,1.394,1.432,-0.84
+active,FRA,Lyon - Nantes,GOALS,-4.5,1899-12-31 10:04:48,f5a94907,2022-05-14 20:00:00,1.394,1.432,-0.84

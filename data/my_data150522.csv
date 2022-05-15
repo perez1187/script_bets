@@ -1,0 +1,1239 @@
+,stan,league,match,bet,outcome,sb,sb_id,date,original_odds,real_odds,value (%),Unnamed: 0,Unnamed: 6,is_ok
+0,active,AUT2,SV Lafnitz - Floridsdorfer AC,HOME_GOALS,-1.5,1.50,,2022-05-13 17:30:00,1.418,1.478,1.49,,,False
+1,active,AUT2,SV Lafnitz - Floridsdorfer AC,GOALS,-3.5,1.32,,2022-05-13 17:30:00,1.268,1.32,0.0,,,False
+2,active,AUT2,SV Lafnitz - Floridsdorfer AC,GOALS_H1,0.5,1899-12-31 10:04:48,,2022-05-13 17:30:00,1.372,1.428,-0.56,,,False
+3,active,AUT2,SV Horn - A.Lustenau,1X2,2.0,1899-12-31 17:16:48,,2022-05-13 17:30:00,1.645,1.702,1.06,,,False
+4,active,AUT2,St.Polten - W.Innsbruck,1X2,1.0,1899-12-31 15:07:12,,2022-05-13 17:30:00,1.568,1.621,0.56,,,False
+5,active,AUT2,BW Linz - FC Liefering,1X2,1.0,1.73,,2022-05-13 17:30:00,1.667,1.726,0.23,,,False
+6,active,BRA,Palmeiras SP - Bragantino,1X2,1.0,1899-12-31 15:07:12,,2022-05-14 20:30:00,1.592,1.63,0.0,,,False
+7,active,BRA,Atl. Mineiro MG - Atl. Goianiense,1X2,1.0,1899-12-31 07:12:00,,2022-05-14 23:00:00,1.268,1.292,0.62,,,False
+8,active,BRA,Sao Paulo SP - Cuiaba MT,1X2,1.0,1.53,,2022-05-15 20:00:00,1.478,1.511,1.26,,,False
+9,active,BRA,Coritiba - America MG,GOALS,-3.5,1899-12-31 06:43:12,,2022-05-15 21:30:00,1.249,1.288,-0.62,,,False
+10,active,BRA,Coritiba - America MG,HOME_GOALS,-1.5,1899-12-31 14:52:48,,2022-05-15 21:30:00,1.562,1.617,0.19,,,False
+11,active,BRA,Goias GO - Santos SP,AWAY_GOALS,-1.5,1899-12-31 11:16:48,,2022-05-15 23:00:00,1.437,1.483,-0.88,,,False
+12,active,BRA2,Ponte Preta SP - G. Novorizontino SP,GOALS,-3.5,1899-12-31 04:48:00,,2022-05-13 23:00:00,1.169,1.206,-0.5,,,False
+13,active,CHI,Colo Colo - Coquimbo Unido,1X2,1.0,1.33,,2022-05-14 23:00:00,1.274,1.302,2.15,,,False
+14,active,COL,Junior Club - Jaguares de Cordoba,1X2,1.0,1899-12-31 12:00:00,,2022-05-15 00:00:00,1.474,1.512,-0.79,,,False
+15,active,CRC,Herediano - Guadalupe,1X2,1.0,1.60,,2022-05-13 00:30:00,1.556,1.607,-0.44,,,False
+16,active,CRC,Guadalupe - Guanacasteca,GOALS_H1,-1.5,1899-12-31 11:16:48,,2022-05-15 19:00:00,1.38,1.481,-0.74,,,False
+17,active,CRO,Hajduk S. - Istra 1961,1X2,1.0,1.22,,2022-05-14 18:00:00,1.187,1.219,0.08,,,False
+18,active,CRO,Osijek - Lokomotiva Z.,GOALS_H1,-1.5,1.40,,2022-05-15 16:00:00,1.278,1.379,1.52,,,False
+19,active,CRO,Sibenik - Dinamo Z.,AWAY_GOALS,-2.5,1.65,,2022-05-15 18:05:00,1.552,1.625,1.54,,,False
+20,active,CRO,Sibenik - Dinamo Z.,1X2,2.0,1.28,,2022-05-15 18:05:00,1.243,1.276,0.31,,,False
+21,active,ENG,Tottenham - Burnley,1X2,1.0,1.30,,2022-05-15 12:00:00,1.263,1.294,0.46,,,False
+22,active,ENG,Wolverhampton - Norwich,1X2,1.0,1.50,,2022-05-15 14:00:00,1.437,1.477,1.56,,,False
+23,active,ENG,Watford - Leicester,GOALS,-3.5,1.45,,2022-05-15 14:00:00,1.407,1.466,-1.09,,,False
+24,active,ENG,Leeds - Brighton,HOME_GOALS,-1.5,1.70,,2022-05-15 14:00:00,1.595,1.665,2.1,,,False
+25,active,ENG,Aston Villa - Crystal Palace,GOALS,-3.5,1899-12-31 08:52:48,,2022-05-15 14:00:00,1.333,1.369,0.07,,,False
+26,active,ENG,Wolverhampton - Norwich,GOALS_H1,0.5,1.42,,2022-05-15 14:00:00,1.394,1.428,-0.56,,,False
+27,active,ENG,Watford - Leicester,HOME_GOALS,-1.5,1899-12-31 12:28:48,,2022-05-15 14:00:00,1.441,1.477,2.91,,,False
+28,active,ENG,West Ham - Manchester City,GOALS,-3.5,1.65,,2022-05-15 14:00:00,1.592,1.637,0.79,,,False
+29,active,ENG,West Ham - Manchester City,1X2,2.0,1.42,,2022-05-15 16:30:00,1.391,1.429,-0.63,,,False
+30,active,ENG,Everton - Brentford,HOME_GOALS,-1.5,1899-12-31 19:12:00,,2022-05-15 16:30:00,1.719,1.771,1.64,,,False
+31,active,ENG,Southampton - Liverpool,1X2,2.0,1899-12-31 09:36:00,,2022-05-17 19:45:00,1.368,1.404,-0.28,,,False
+32,active,ESP,Espanyol - Valencia,GOALS_H1,0.5,1.45,,2022-05-14 17:30:00,1.402,1.451,-0.07,,,False
+33,active,ESP,Celta - Elche,1X2,1.0,1.72,,2022-05-14 20:00:00,1.676,1.723,-0.17,,,False
+34,active,ESP,Villarreal - Sociedad,GOALS_H1,0.5,1.45,,2022-05-15 17:30:00,1.389,1.441,0.62,,,False
+35,active,ESP,Betis - Granada,1X2,1.0,1.43,,2022-05-15 17:30:00,1.405,1.444,-0.97,,,False
+36,active,ESP,Atl.Madryt - Sevilla,HOME_GOALS,-1.5,1.60,,2022-05-15 17:30:00,1.524,1.588,0.76,,,False
+37,active,ESP,Bilbao - Osasuna,1X2,1.0,1.62,,2022-05-15 17:30:00,1.571,1.618,0.12,,,False
+38,active,ESP,Celta - Elche,HOME_GOALS,-1.5,1.65,,2022-05-15 17:30:00,1.581,1.65,0.0,,,False
+39,active,ESP,Getafe - Barcelona,1X2,2.0,1.65,,2022-05-15 17:30:00,1.613,1.663,-0.78,,,False
+40,active,ESP,Celta - Elche,GOALS_H1,0.5,1899-12-31 12:00:00,,2022-05-15 17:30:00,1.444,1.501,-0.07,,,False
+41,active,ESP,Cadiz - Real Madryt,GOALS,-3.5,1899-12-31 08:24:00,,2022-05-15 17:30:00,1.301,1.352,-0.15,,,False
+42,active,ESP,Villarreal - Sociedad,GOALS,-3.5,1.40,,2022-05-15 17:30:00,1.333,1.386,1.01,,,False
+43,active,ESP,Levante - Alaves,GOALS,-3.5,1.45,,2022-05-15 17:30:00,1.395,1.453,-0.21,,,False
+44,active,ESP,Bilbao - Osasuna,GOALS_H1,0.5,1.45,,2022-05-15 17:30:00,1.405,1.459,-0.62,,,False
+45,active,ESP,Getafe - Barcelona,GOALS_H1,-1.5,1.40,,2022-05-15 17:30:00,1.36,1.41,-0.71,,,False
+46,active,ESP2,Amorebieta - Huesca,AWAY_GOALS,-1.5,1.45,,2022-05-14 13:00:00,1.42,1.465,-1.02,,,False
+47,active,ESP2,Burgos - Cartagena,HOME_GOALS,-1.5,1.50,,2022-05-14 15:00:00,1.463,1.511,-0.73,,,False
+48,active,ESP2,Burgos - Cartagena,AWAY_GOALS,-1.5,1.45,,2022-05-14 15:00:00,1.417,1.461,-0.75,,,False
+49,active,ESP2,Lugo - Fuenlabrada,GOALS,-3.5,1.22,,2022-05-14 15:00:00,1.196,1.231,-0.89,,,False
+50,active,ESP2,Valladolid - Ponferradina,1X2,1.0,1.57,,2022-05-14 17:15:00,1.535,1.585,-0.95,,,False
+51,active,ESP2,Valladolid - Ponferradina,GOALS,2.5,1899-12-31 16:48:00,,2022-05-14 17:15:00,1.637,1.698,0.12,,,False
+52,active,ESP2,Valladolid - Ponferradina,HOME_GOALS,1.5,1.60,,2022-05-14 17:15:00,1.549,1.602,-0.12,,,False
+53,active,ESP2,Leganes - Eibar,GOALS,-3.5,1899-12-31 07:12:00,,2022-05-14 20:00:00,1.254,1.292,0.62,,,False
+54,active,ESP2,Alcorcon - Las Palmas,1X2,2.0,1.73,,2022-05-15 13:00:00,1.662,1.702,1.65,,,False
+55,active,ESP2,Mirandes - Ibiza,GOALS_H1,0.5,1899-12-31 11:16:48,,2022-05-15 15:00:00,1.413,1.458,0.82,,,False
+56,active,ESP2,Oviedo - Zaragoza,1X2,1.0,1899-12-31 15:36:00,,2022-05-16 20:00:00,1.588,1.625,1.54,,,False
+57,active,FIN,VPS Vaasa - Seinajoen JK,HOME_GOALS,-1.5,1899-12-31 12:00:00,,2022-05-13 16:00:00,1.463,1.501,-0.07,,,False
+58,active,FIN,Ilves - Mariehamn,GOALS_H1,0.5,1899-12-31 09:36:00,,2022-05-15 13:00:00,1.375,1.413,-0.92,,,False
+59,active,FRA,Lyon - Nantes,1X2,1.0,1.40,,2022-05-14 20:00:00,1.365,1.402,-0.14,,,False
+60,active,FRA,Nice - Lille,GOALS_H1,0.5,1.42,,2022-05-14 20:00:00,1.372,1.423,-0.21,,,False
+61,active,FRA,Monaco - Brest,1X2,1.0,1.27,,2022-05-14 20:00:00,1.241,1.274,-0.31,,,False
+62,active,FRA,Troyes - Lens,GOALS_H1,-1.5,1.42,,2022-05-14 20:00:00,1.336,1.428,-0.56,,,False
+63,active,FRA,St.Etienne - Reims,GOALS_H1,0.5,1.42,,2022-05-14 20:00:00,1.383,1.421,-0.07,,,False
+64,active,FRA,Rennes - Marsylia,AWAY_GOALS,-1.5,1.50,,2022-05-14 20:00:00,1.465,1.507,-0.46,,,False
+65,active,FRA,Lyon - Nantes,GOALS,2.5,1.48,,2022-05-14 20:00:00,1.446,1.493,-0.87,,,False
+66,active,FRA,Monaco - Brest,GOALS,2.5,1899-12-31 11:16:48,,2022-05-14 20:00:00,1.418,1.469,0.07,,,False
+67,active,FRA,Troyes - Lens,GOALS_H1,0.5,1899-12-31 09:36:00,,2022-05-14 20:00:00,1.37,1.403,-0.21,,,False
+68,active,FRA,Metz - Angers,GOALS_H1,0.5,1899-12-31 09:36:00,,2022-05-14 20:00:00,1.377,1.411,-0.78,,,False
+69,active,FRA,Nice - Lille,1X2,1.0,1899-12-31 18:28:48,,2022-05-14 20:00:00,1.735,1.766,0.23,,,False
+70,active,FRA2,Quevilly R. - Dunkerque,GOALS,-3.5,1.28,,2022-05-14 18:00:00,1.224,1.264,1.27,,,False
+71,active,FRA2,Niort - Valenciennes,GOALS_H1,-1.5,1.35,,2022-05-14 18:00:00,1.25,1.334,1.2,,,False
+72,active,FRA2,Paris FC - Grenoble,GOALS,-3.5,1.30,,2022-05-14 18:00:00,1.262,1.306,-0.46,,,False
+73,active,FRA2,Nancy - Pau,AWAY_GOALS,-1.5,1.50,,2022-05-14 18:00:00,1.459,1.512,-0.79,,,False
+74,active,FRA2,Quevilly R. - Dunkerque,GOALS,-2.5,1.75,,2022-05-14 18:00:00,1.662,1.731,1.1,,,False
+75,active,FRA2,Niort - Valenciennes,HOME_GOALS,-1.5,1.57,,2022-05-14 18:00:00,1.515,1.57,0.0,,,False
+76,active,FRA2,Paris FC - Grenoble,GOALS,-2.5,1.80,,2022-05-14 18:00:00,1.73,1.804,-0.22,,,False
+77,active,FRA2,Sochaux - Dijon,1X2,1.0,1.72,,2022-05-14 18:00:00,1.685,1.732,-0.69,,,False
+78,active,FRA2,Rodez - Caen,HOME_GOALS,-1.5,1.57,,2022-05-14 18:00:00,1.526,1.583,-0.82,,,False
+79,active,FRA2,Auxerre - Amiens,1X2,1.0,1899-12-31 10:19:12,,2022-05-14 18:00:00,1.373,1.406,1.71,,,False
+80,active,FRA2,Paris FC - Grenoble,GOALS_H1,0.5,1899-12-31 10:04:48,,2022-05-14 18:00:00,1.364,1.41,0.71,,,False
+81,active,FRA2,Quevilly R. - Dunkerque,GOALS_H1,0.5,1899-12-31 10:04:48,,2022-05-14 18:00:00,1.379,1.426,-0.42,,,False
+82,active,FRA2,Paris FC - Grenoble,GOALS,1.5,1.30,,2022-05-14 18:00:00,1.268,1.312,-0.91,,,False
+83,active,FRA2,Paris FC - Grenoble,1X2,1.0,1899-12-31 18:00:00,,2022-05-14 18:00:00,1.694,1.743,0.4,,,False
+84,active,FRA2,Auxerre - Amiens,GOALS,2.5,1899-12-31 17:16:48,,2022-05-14 18:00:00,1.654,1.721,-0.06,,,False
+85,active,FRA2,AC Ajaccio - Toulouse,GOALS_H1,0.5,1.40,,2022-05-14 18:00:00,1.366,1.413,-0.92,,,False
+86,active,FRA2,AC Ajaccio - Toulouse,1X2,1.0,1899-12-31 15:07:12,,2022-05-14 18:00:00,1.575,1.617,0.8,,,False
+87,active,GER,Union Berlin - Bochum,1X2,1.0,1.45,,2022-05-14 14:30:00,1.389,1.427,1.61,,,False
+88,active,GER,A.Bielefeld - RB Lipsk,1X2,2.0,1.38,,2022-05-14 14:30:00,1.341,1.377,0.22,,,False
+89,active,GER,Dortmund - Hertha,HOME_GOALS_H1,-1.5,1.50,,2022-05-14 14:30:00,1.446,1.514,-0.92,,,False
+90,active,GER,Augsburg - Greuther Furth,GOALS,2.5,1.50,,2022-05-14 14:30:00,1.457,1.503,-0.2,,,False
+91,active,GER,Dortmund - Hertha,1X2,1.0,1.50,,2022-05-14 14:30:00,1.476,1.504,-0.27,,,False
+92,active,GER,Wolfsburg - Bayern M.,GOALS,-4.5,1.50,,2022-05-14 14:30:00,1.452,1.514,-0.92,,,False
+93,active,GER,Leverkusen - SC Freiburg,GOALS,2.5,1.47,,2022-05-14 14:30:00,1.424,1.484,-0.94,,,False
+94,active,GER,Dortmund - Hertha,AWAY_GOALS,-1.5,1.55,,2022-05-14 14:30:00,1.481,1.525,1.64,,,False
+95,active,GER,Mainz - Eintracht F.,1X2,1.0,1.70,,2022-05-14 14:30:00,1.68,1.715,-0.87,,,False
+96,active,GER,Mainz - Eintracht F.,GOALS,2.5,1.50,,2022-05-14 14:30:00,1.435,1.481,1.28,,,False
+97,active,GER,Leverkusen - SC Freiburg,GOALS,-4.5,1899-12-31 08:52:48,,2022-05-14 14:30:00,1.33,1.37,0.0,,,False
+98,active,GER,M'gladbach - Hoffenheim,HOME_GOALS,-2.5,1899-12-31 15:36:00,,2022-05-14 14:30:00,1.581,1.631,1.16,,,False
+99,active,GER,Wolfsburg - Bayern M.,GOALS_H1,1.5,1899-12-31 19:12:00,,2022-05-14 14:30:00,1.752,1.805,-0.28,,,False
+100,active,GER2,Darmstadt - Paderborn,GOALS,-5.5,1899-12-31 04:48:00,,2022-05-15 14:30:00,1.167,1.196,0.33,,,False
+101,active,GER2,Hannover - Ingolstadt,GOALS,-4.5,1899-12-31 05:16:48,,2022-05-15 14:30:00,1.198,1.229,-0.73,,,False
+102,active,GER2,Darmstadt - Paderborn,AWAY_GOALS,-1.5,1899-12-31 12:00:00,,2022-05-15 14:30:00,1.452,1.495,0.33,,,False
+103,active,GER2,Darmstadt - Paderborn,GOALS,-4.5,1899-12-31 11:16:48,,2022-05-15 14:30:00,1.431,1.477,-0.47,,,False
+104,active,GER3,1860 Monachium - Borussia Dortmund II,GOALS,1.5,1.20,,2022-05-14 12:30:00,1.174,1.211,-0.91,,,False
+105,active,IRE,Shamrock Rovers - Derry City,GOALS,-3.5,1.25,,2022-05-13 19:45:00,1.2,1.246,0.32,,,False
+106,active,IRE,Dundalk - Bohemians Dublin,GOALS,-3.5,1.42,,2022-05-13 19:45:00,1.373,1.42,0.0,,,False
+107,active,IRE,Shamrock Rovers - Derry City,GOALS,-2.5,1.70,,2022-05-13 19:45:00,1.625,1.702,-0.12,,,False
+108,active,IRE,Shelbourne - Drogheda Utd,GOALS,-3.5,1899-12-31 05:16:48,,2022-05-13 19:45:00,1.195,1.23,-0.81,,,False
+109,active,IRE,Sligo Rovers - St. Patrick's Athletic,GOALS,-3.5,1.22,,2022-05-14 19:45:00,1.191,1.226,-0.49,,,False
+110,active,IRE,Sligo Rovers - St. Patrick's Athletic,GOALS,-2.5,1.65,,2022-05-14 19:45:00,1.575,1.63,1.23,,,False
+111,active,ITA,Empoli - Salernitana,GOALS,-3.5,1.65,,2022-05-14 14:00:00,1.606,1.651,-0.06,,,False
+112,active,ITA,Empoli - Salernitana,HOME_GOALS,-1.5,1899-12-31 15:36:00,,2022-05-14 14:00:00,1.61,1.653,-0.18,,,False
+113,active,ITA,Roma - Venezia,1X2,1.0,1.28,,2022-05-14 19:45:00,1.245,1.278,0.16,,,False
+114,active,ITA,Roma - Venezia,GOALS,-3.5,1.75,,2022-05-14 19:45:00,1.704,1.76,-0.57,,,False
+115,active,ITA,Roma - Venezia,GOALS,2.5,1899-12-31 11:16:48,,2022-05-14 19:45:00,1.435,1.481,-0.74,,,False
+116,active,ITA,Napoli - Genoa,GOALS,-3.5,1.45,,2022-05-15 14:00:00,1.408,1.453,-0.21,,,False
+117,active,ITA,Napoli - Genoa,1X2,1.0,1899-12-31 18:00:00,,2022-05-15 14:00:00,1.725,1.755,-0.28,,,False
+118,active,ITA,AC Milan - Atalanta,AWAY_GOALS,-1.5,1.50,,2022-05-15 17:00:00,1.448,1.506,-0.4,,,False
+119,active,ITA,Cagliari - Inter M.,1X2,2.0,1.43,,2022-05-15 19:45:00,1.382,1.403,1.92,,,False
+120,active,ITA,Juventus - Lazio,GOALS,-3.5,1899-12-31 10:04:48,,2022-05-16 19:45:00,1.388,1.431,-0.77,,,False
+121,active,JPN,Urawa Red Diamonds - Sanfrecce Hiroshima,CORNERS_H1,3.5,1899-12-31 14:24:00,,2022-05-13 11:30:00,1.524,1.603,-0.19,,,False
+122,active,JPN,Kashiwa Reysol - Gamba Osaka,GOALS,-3.5,1.28,,2022-05-14 11:00:00,1.254,1.289,-0.7,,,False
+123,active,JPN,Urawa Red Diamonds - Yokohama F. Marinos,GOALS,1.5,1899-12-31 08:24:00,,2022-05-18 11:30:00,1.312,1.355,-0.37,,,False
+124,active,JPN2,Oita Trinita - Roasso Kumamoto,GOALS,-3.5,1.25,,2022-05-14 06:00:00,1.215,1.255,-0.4,,,False
+125,active,JPN2,V-Varen Nagasaki - Omiya Ardija,GOALS_H1,-1.5,1.33,,2022-05-14 06:00:00,1.254,1.338,-0.6,,,False
+126,active,JPN2,V-Varen Nagasaki - Omiya Ardija,GOALS,-3.5,1.28,,2022-05-14 06:00:00,1.243,1.285,-0.39,,,False
+127,active,JPN2,Machida Zelvia - Albirex Niigata,GOALS,-3.5,1.22,,2022-05-15 06:00:00,1.184,1.221,-0.08,,,False
+128,active,JPN2,Yokohama - Tokushima Vortis,GOALS,-3.5,1.20,,2022-05-15 06:00:00,1.174,1.211,-0.91,,,False
+129,active,KOR,Suwon FC - Jeju United,GOALS,-3.5,1.28,,2022-05-15 06:20:00,1.244,1.279,0.08,,,False
+130,active,KOR,Jeonbuk - Gangwon,GOALS,-3.5,1.33,,2022-05-15 08:30:00,1.27,1.306,1.84,,,False
+131,active,KOR,Seoul - Pohang Steelers,GOALS,-3.5,1.22,,2022-05-15 11:00:00,1.186,1.22,0.0,,,False
+132,active,KOR,Gangwon - Seoul,GOALS_H1,0.5,1899-12-31 12:00:00,,2022-05-18 11:30:00,1.455,1.502,-0.13,,,False
+133,active,MLS,New York City - Columbus Crew,GOALS,-3.5,1899-12-31 11:16:48,,2022-05-15 00:00:00,1.408,1.453,1.17,,,False
+134,active,MLS,Chicago Fire - Cincinnati,GOALS,1.5,1.28,,2022-05-15 01:00:00,1.248,1.283,-0.23,,,False
+135,active,MLS,Inter Miami - D.C. United,GOALS,-3.5,1.35,,2022-05-15 01:00:00,1.31,1.344,0.45,,,False
+136,active,MLS,Portland - Kansas City,GOALS,-3.5,1.40,,2022-05-15 03:00:00,1.37,1.412,-0.85,,,False
+137,active,MLS,Seattle - Minnesota Utd,GOALS,-3.5,1899-12-31 11:16:48,,2022-05-15 21:00:00,1.42,1.465,0.34,,,False
+138,active,MLS,Seattle - Minnesota Utd,1X2,1.0,1899-12-31 17:16:48,,2022-05-15 21:00:00,1.685,1.72,0.0,,,False
+139,active,NED,Zwolle - PSV,1X2,2.0,1899-12-31 12:00:00,,2022-05-15 13:30:00,1.459,1.486,0.94,,,False
+140,active,NED,Feyenoord - Twente Enschede,1X2,1.0,1.47,,2022-05-15 13:30:00,1.452,1.479,-0.61,,,False
+141,active,NED,NEC - Fortuna S.,HOME_GOALS,-1.5,1899-12-31 19:12:00,,2022-05-15 13:30:00,1.735,1.796,0.22,,,False
+142,active,NOR,Viking - Jerv,1X2,1.0,1899-12-31 06:28:48,,2022-05-16 17:00:00,1.247,1.27,0.0,,,False
+143,active,NOR,Lillestrom - Sarpsborg,GOALS_H1,0.5,1.40,,2022-05-16 17:00:00,1.364,1.401,-0.07,,,False
+144,active,NOR,Lillestrom - Sarpsborg,GOALS,1.5,1.28,,2022-05-16 17:00:00,1.251,1.285,-0.39,,,False
+145,active,NOR,Bodo/Glimt - Tromso,1X2,1.0,1899-12-31 11:16:48,,2022-05-16 17:00:00,1.455,1.483,-0.88,,,False
+146,active,NOR,Odd BK - Haugesund,GOALS,-3.5,1.45,,2022-05-16 17:00:00,1.415,1.46,-0.68,,,False
+147,active,NOR,Odd BK - Haugesund,AWAY_GOALS,-1.5,1899-12-31 13:40:48,,2022-05-16 17:00:00,1.495,1.539,2.01,,,False
+148,active,NOR,Bodo/Glimt - Tromso,GOALS,-3.5,1899-12-31 13:12:00,,2022-05-16 17:00:00,1.508,1.557,-0.45,,,False
+149,active,NOR2,Mjondalen - KFUM Oslo,GOALS,-3.5,1899-12-31 10:04:48,,2022-05-15 17:00:00,1.37,1.421,-0.07,,,False
+150,active,NOR2,Bryne - Asane,GOALS,-3.5,1899-12-31 13:12:00,,2022-05-15 17:00:00,1.465,1.524,1.71,,,False
+151,active,NOR2,Stjordals-Blink - Ranheim,GOALS,-3.5,1.53,,2022-05-15 17:00:00,1.459,1.516,0.92,,,False
+152,active,POL,Cracovia - W.Płock,HOME_GOALS,-1.5,1.80,,2022-05-13 17:00:00,1.741,1.81,-0.55,,,False
+153,active,POL,Jagiellonia - Legia,GOALS,-3.5,1.37,,2022-05-13 19:30:00,1.331,1.375,-0.36,,,False
+154,active,POL,Jagiellonia - Legia,AWAY_GOALS,-1.5,1899-12-31 16:48:00,,2022-05-13 19:30:00,1.645,1.705,-0.29,,,False
+155,active,POL,Nieciecza - Piast,AWAY_GOALS,-1.5,1.57,,2022-05-14 11:30:00,1.529,1.581,-0.7,,,False
+156,active,POL,Warta - Lech,1X2,2.0,1.45,,2022-05-14 14:00:00,1.422,1.453,-0.21,,,False
+157,active,POL,Warta - Lech,GOALS,-3.5,1899-12-31 10:48:00,,2022-05-14 14:00:00,1.413,1.462,-0.82,,,False
+158,active,POL,Zagłębie L. - Raków,GOALS_H1,-1.5,1.50,,2022-05-14 16:30:00,1.467,1.516,-1.06,,,False
+159,active,POL,Zagłębie L. - Raków,GOALS,-3.5,1.43,,2022-05-14 16:30:00,1.376,1.422,0.56,,,False
+160,active,POL,Lechia - Pogoń,GOALS,-3.5,1.47,,2022-05-14 19:00:00,1.398,1.446,1.66,,,False
+161,active,POL,Lechia - Pogoń,GOALS_H1,-1.5,1.50,,2022-05-14 19:00:00,1.467,1.514,-0.92,,,False
+162,active,POL,Lechia - Pogoń,HOME_GOALS,-1.5,1.60,,2022-05-14 19:00:00,1.493,1.542,3.76,,,False
+163,active,POL,Mielec - Śląsk,GOALS_H1,-1.5,1.45,,2022-05-15 11:30:00,1.31,1.411,2.76,,,False
+164,active,POL,Mielec - Śląsk,GOALS,-3.5,1.42,,2022-05-15 11:30:00,1.327,1.383,2.68,,,False
+165,active,POL,Mielec - Śląsk,AWAY_GOALS,-1.5,1.65,,2022-05-15 11:30:00,1.524,1.592,3.64,,,False
+166,active,POL,Mielec - Śląsk,HOME_GOALS,-1.5,1.60,,2022-05-15 11:30:00,1.535,1.604,-0.25,,,False
+167,active,POL,Górnik Z. - Łęczna,GOALS,-3.5,1899-12-31 12:00:00,,2022-05-15 14:00:00,1.444,1.495,0.33,,,False
+168,active,POL,Górnik Z. - Łęczna,GOALS,-4.5,1899-12-31 04:48:00,,2022-05-15 14:00:00,1.173,1.206,-0.5,,,False
+169,active,POL,Górnik Z. - Łęczna,1X2,1.0,1.63,,2022-05-15 14:00:00,1.568,1.605,1.56,,,False
+170,active,POL,Radomiak - W.Kraków,GOALS,-3.5,1899-12-31 09:36:00,,2022-05-15 16:30:00,1.336,1.38,1.45,,,False
+171,active,POL,Radomiak - W.Kraków,AWAY_GOALS,-1.5,1899-12-31 17:16:48,,2022-05-15 16:30:00,1.649,1.71,0.58,,,False
+172,active,POL,Radomiak - W.Kraków,HOME_GOALS,-1.5,1.55,,2022-05-15 16:30:00,1.498,1.548,0.13,,,False
+173,active,POL2,Skra Cz. - Niepołomice,HOME_GOALS,-1.5,1.47,,2022-05-13 17:00:00,1.403,1.452,1.24,,,False
+174,active,POL2,Skra Cz. - Niepołomice,GOALS,-3.5,1.30,,2022-05-13 17:00:00,1.265,1.309,-0.69,,,False
+175,active,POL2,Skra Cz. - Niepołomice,GOALS,-2.5,1899-12-31 19:12:00,,2022-05-13 17:00:00,1.725,1.798,0.11,,,False
+176,active,POL2,Kielce - GKS Katowice,HOME_GOALS,-1.5,1.75,,2022-05-14 11:40:00,1.667,1.737,0.75,,,False
+177,active,POL2,Legnica - Widzew Ł.,HOME_GOALS,-1.5,1899-12-31 16:48:00,,2022-05-15 11:40:00,1.613,1.68,1.19,,,False
+178,active,POR,Arouca - Belenenses,GOALS_H1,0.5,1899-12-31 12:00:00,,2022-05-14 15:30:00,1.472,1.51,-0.66,,,False
+179,active,POR,Maritimo - Portimonense,GOALS,2.5,1.75,,2022-05-14 18:00:00,1.699,1.754,-0.23,,,False
+180,active,POR,Maritimo - Portimonense,AWAY_GOALS,-1.5,1899-12-31 13:12:00,,2022-05-14 18:00:00,1.493,1.531,1.24,,,False
+181,active,POR,Sporting L. - Santa Clara,HOME_GOALS_H1,-1.5,1899-12-31 10:04:48,,2022-05-14 20:30:00,1.332,1.417,0.21,,,False
+182,active,POR2,Porto B - Benfica B,GOALS,-4.5,1899-12-31 05:16:48,,2022-05-13 15:30:00,1.178,1.215,0.41,,,False
+183,active,POR2,Acad. Viseu - Penafiel,GOALS,-3.5,1899-12-31 10:04:48,,2022-05-13 18:00:00,1.348,1.398,1.57,,,False
+184,active,POR2,Academica Coimbra - Farense,GOALS,-3.5,1.40,,2022-05-14 11:00:00,1.36,1.411,-0.78,,,False
+185,active,POR2,Academica Coimbra - Farense,GOALS,2.5,1899-12-31 18:00:00,,2022-05-14 11:00:00,1.671,1.739,0.63,,,False
+186,active,POR2,Vilafranquense - Trofense,GOALS,-3.5,1899-12-31 10:04:48,,2022-05-14 15:30:00,1.373,1.425,-0.35,,,False
+187,active,POR2,Leixoes - Casa Pia,GOALS,-3.5,1.40,,2022-05-15 11:00:00,1.31,1.357,3.17,,,False
+188,active,POR2,Rio Ave - Chaves,GOALS,-3.5,1.40,,2022-05-15 11:00:00,1.319,1.367,2.41,,,False
+189,active,POR2,Leixoes - Casa Pia,1X2,2.0,1.80,,2022-05-15 11:00:00,1.741,1.79,0.56,,,False
+190,active,POR2,Leixoes - Casa Pia,GOALS_H1,-1.5,1899-12-31 10:48:00,,2022-05-15 11:00:00,1.41,1.458,-0.55,,,False
+191,active,POR2,Varzim - Mafra,GOALS,-3.5,1899-12-31 08:24:00,,2022-05-15 15:30:00,1.289,1.334,1.2,,,False
+192,active,SLO,Maribor - Aluminij,GOALS,1.5,1.22,,2022-05-14 19:15:00,1.187,1.232,-0.97,,,False
+193,active,SLO,Maribor - Aluminij,1X2,1.0,1899-12-31 06:43:12,,2022-05-14 19:15:00,1.233,1.269,0.87,,,False
+194,active,SLO,Koper - Radomlje,1X2,1.0,1.72,,2022-05-16 16:30:00,1.654,1.711,0.53,,,False
+195,active,SWE,Mjallby - Varnamo,GOALS,-3.5,1899-12-31 07:12:00,,2022-05-14 14:00:00,1.267,1.303,-0.23,,,False
+196,active,SWE,Mjallby - Varnamo,HOME_GOALS,-1.5,1.70,,2022-05-14 14:00:00,1.658,1.706,-0.35,,,False
+197,active,SWE,Sirius - Elfsborg,1X2,2.0,1899-12-31 15:36:00,,2022-05-14 16:30:00,1.621,1.654,-0.24,,,False
+198,active,SWE,Norrkoping - GIF Sundsvall,1X2,1.0,1.42,,2022-05-15 16:30:00,1.398,1.424,-0.28,,,False
+199,active,SWE,Goteborg - Varbergs,GOALS,-3.5,1.28,,2022-05-15 16:30:00,1.249,1.284,-0.31,,,False
+200,active,SWE2,Trelleborgs FF - Vasteras SK,GOALS,1.5,1.28,,2022-05-14 12:00:00,1.251,1.293,-1.01,,,False
+201,active,SWE2,Trelleborgs FF - Vasteras SK,GOALS_H1,0.5,1.38,,2022-05-14 12:00:00,1.351,1.395,-1.08,,,False
+202,active,SWE2,Orebro - Osters IF,GOALS,-3.5,1899-12-31 07:55:12,,2022-05-14 12:00:00,1.278,1.323,0.53,,,False
+203,active,SWE2,Halmstads BK - AFC Eskilstuna,GOALS,1.5,1899-12-31 06:00:00,,2022-05-14 14:00:00,1.221,1.261,-0.87,,,False
+204,active,SWE2,Halmstads BK - AFC Eskilstuna,1X2,1.0,1899-12-31 14:24:00,,2022-05-14 14:00:00,1.565,1.607,-0.44,,,False
+205,active,SWE2,Ostersunds FK - IK Brage,GOALS,-3.5,1.40,,2022-05-15 14:00:00,1.341,1.39,0.72,,,False
+206,active,TUR,Goztepe SK - Besiktas,HOME_GOALS,-1.5,1899-12-31 11:16:48,,2022-05-15 14:00:00,1.437,1.478,-0.54,,,False
+207,active,TUR,Fenerbahce - F.Karagumruk,1X2,1.0,1899-12-31 12:00:00,,2022-05-15 17:00:00,1.469,1.497,0.2,,,False
+208,active,TUR,Alanyaspor - Gaziantep,1X2,1.0,1899-12-31 14:52:48,,2022-05-15 17:00:00,1.581,1.613,0.43,,,False
+209,active,TUR,Giresunspor - Basaksehir FK,GOALS_H1,0.5,1899-12-31 11:16:48,,2022-05-15 17:00:00,1.429,1.47,0.0,,,False
+210,active,TUR,C.Rizespor - Sivasspor,GOALS_H1,0.5,1.40,,2022-05-16 18:00:00,1.372,1.409,-0.64,,,False
+211,active,POL2,Podbeskidzie - Gdynia,GOALS,1.5,1.30,d7c90ee5,2022-05-13 19:30:00,1.254,1.289,0.85,,,False
+212,active,MLS,Vancouver - Dallas,GOALS_H1,-1.5,1.42,2.87E+06,2022-05-19 03:00:00,1.346,1.412,0.57,,,False
+213,active,POR,Arouca - Belenenses,GOALS,1.5,1.40,f0b9c311,2022-05-14 15:30:00,1.357,1.393,0.5,,,False
+214,active,,,,,,,,,,,,,False
+215,active,,,,,,,,,,,,,True
+216,active,GER2,Werder B. - Regensburg,GOALS,-4.5,1.50,7ed7854f,2022-05-15 14:30:00,1.45,1.497,0.2,,,False
+217,active,IRE,Finn Harps - UC Dublin,GOALS,-3.5,1.40,a0fbe59b,2022-05-13 20:00:00,1.361,1.398,0.14,,,False
+218,active,POR2,Rio Ave - Chaves,GOALS_H1,-1.5,1.45,b22ee224,2022-05-15 11:00:00,1.4,1.448,0.14,,,False
+219,active,,,,,,,,,,,,,True
+220,active,FIN,VPS Vaasa - Seinajoen JK,GOALS,-3.5,1.35,97f7973d,2022-05-13 16:00:00,1.316,1.35,0.0,,,False
+221,active,POL2,Polkowice - Resovia,GOALS_H1,0.5,1.45,ab35b212,2022-05-16 17:00:00,1.402,1.451,-0.07,,,False
+222,active,MLS,Philadelphia U. - Inter Miami,GOALS_H1,-1.5,1.50,fd364f8d,2022-05-19 00:30:00,1.433,1.501,-0.07,,,False
+223,active,GER3,Viktoria Berlin - SV Meppen,GOALS,-4.5,1.22,321b125e,2022-05-14 12:30:00,1.19,1.221,-0.08,,,False
+224,active,FRA2,Guingamp - Le Havre,GOALS,-4.5,1.22,52643760,2022-05-14 18:00:00,1.183,1.221,-0.08,,,False
+225,active,MLS,NY Red Bulls - Chicago Fire,GOALS,-3.5,1.40,cdf1fd01,2022-05-19 00:30:00,1.361,1.402,-0.14,,,False
+226,active,ESP2,Sociedad B - Almeria,GOALS,-3.5,1.40,8ffd2a59,2022-05-13 20:00:00,1.365,1.402,-0.14,,,False
+227,active,FRA2,AC Ajaccio - Toulouse,GOALS,-3.5,1.40,90d4c7c0,2022-05-14 18:00:00,1.353,1.403,-0.21,,,False
+228,active,SWE2,Dalkurd FF - Skovde Aik,GOALS,-3.5,1.42,fc7d9af1,2022-05-13 18:00:00,1.382,1.424,-0.28,,,False
+229,active,ALG,CR Belouizdad - ASO Chlef,1X2,1.0,1.35,f6d00547,2022-05-14 16:00:00,1.317,1.354,-0.3,,,False
+230,active,HUN,Puskas Akad. - Honved,HOME_GOALS,-1.5,1.72,37d4566b,2022-05-15 15:00:00,1.585,1.662,3.49,,,False
+231,active,IRE,Shelbourne - Drogheda Utd,CORNERS_H1,3.5,1.70,f5322cbe,2022-05-13 19:45:00,1.565,1.653,2.84,,,False
+232,active,FRA,Rennes - Marsylia,CORNERS,-10.5,1.67,cfa1412f,,1.568,1.636,2.08,,,False
+233,active,ITA,Cagliari - Inter M.,GOALS,-3.5,1.70,4011c741,2022-05-15 19:45:00,1.629,1.675,1.49,,,False
+234,active,ESP2,Gijon - Girona,AWAY_GOALS,-1.5,1.52,7aa9202b,2022-05-15 15:00:00,1.45,1.498,1.47,,,False
+235,active,SWE,Goteborg - Varbergs,GOALS,-2.5,1.75,361d64c8,2022-05-15 16:30:00,1.68,1.729,1.21,,,False
+236,active,BRA,Botafogo RJ - Fortaleza CE,HOME_GOALS,-1.5,1.55,a46fed90,2022-05-15 22:00:00,1.488,1.532,1.17,,,False
+237,active,NOR,Valerenga - Ham Kam,1X2,1.0,1.75,1e20b5cc,2022-05-16 19:00:00,1.694,1.73,1.16,,,False
+238,active,,,,,,,,,,,,,True
+239,active,FRA2,Sochaux - Dijon,GOALS,2.5,1.77,6b70b5c8,2022-05-14 18:00:00,1.69,1.762,0.45,,,False
+240,active,TUR,Trabzonspor - Altay Izmir,HOME_GOALS,-2.5,1.60,47dc250f,2022-05-15 14:00:00,1.552,1.595,0.31,,,False
+241,active,FRA,Nice - Lille,CORNERS,8.5,1.65,fa946c25,,1.578,1.646,0.24,,,False
+242,active,,,,,,,,,,,,,True
+243,active,NED,Heracles - Sparta R.,HOME_GOALS,-1.5,1.57,fb2b891d,2022-05-15 13:30:00,1.529,1.57,0.0,,,False
+244,active,COL,Aguilas Doradas - Cortulua,GOALS,-2.5,1.55,19e99228,2022-05-15 00:00:00,1.495,1.55,0.0,,,False
+245,active,GER2,Heidenheim - Karlsruher,AWAY_GOALS,-1.5,1.65,599fde7a,2022-05-15 14:30:00,1.606,1.651,-0.06,,,False
+246,active,BRA,Sao Paulo SP - Cuiaba MT,GOALS_H1,0.5,1.55,24eca1e0,2022-05-15 20:00:00,1.508,1.552,-0.13,,,False
+247,active,FRA2,AC Ajaccio - Toulouse,CORNERS_H1,3.5,1.70,a507dbec,2022-05-14 18:00:00,1.592,1.704,-0.23,,,False
+248,active,GER3,Waldhof Mannheim 07 - TSV Havelse,GOALS,-4.5,1.33,,2022-05-14 12:30:00,1.267,1.307,1.76,,,False
+249,active,SLO,Maribor - Aluminij,GOALS,-4.5,1.33,,2022-05-14 19:15:00,1.271,1.319,0.83,,,False
+250,active,MLS,Sp. Kansas City - Colorado,GOALS,-3.5,1.33,,2022-05-19 01:30:00,1.282,1.319,0.83,,,False
+251,active,ALG,RC Relizane - MC Oran,1X2,2.0,1.47,,2022-05-14 16:00:00,1.415,1.459,0.75,,,False
+252,active,,,,,,,,,,,,,True
+253,active,FRA2,Nimes - SC Bastia,GOALS,-3.5,1.47,,2022-05-14 18:00:00,1.417,1.462,0.55,,,False
+254,active,GER3,VfL Osnabruck - Magdeburg,GOALS,-4.5,1.33,,2022-05-14 12:30:00,1.287,1.324,0.45,,,False
+255,active,GER2,Werder B. - Regensburg,GOALS,-5.5,1.23,,2022-05-15 14:30:00,1.193,1.225,0.41,,,False
+256,active,ESP2,Valladolid - Ponferradina,GOALS,-4.5,1.25,,2022-05-14 17:15:00,1.216,1.245,0.4,,,False
+257,active,WTA-RABAT,C.Ferrando - P.Kania,1X2,1.0,1.20,,2022-05-14 11:00:00,1.164,1.197,0.25,,,False
+258,active,LTU,FA Siauliai - Hegelmann,GOALS_H1,-1.5,1.30,,2022-05-15 15:30:00,1.156,1.297,0.23,,,False
+259,active,BRA,Palmeiras SP - Bragantino,GOALS_H1,0.5,1.42,,2022-05-14 20:30:00,1.379,1.417,0.21,,,False
+260,active,ATP-ROME,N.Djokovic - C.Ruud,1X2_SET1,1.0,1.30,,2022-05-14 18:30:00,1.275,1.299,0.08,,,False
+261,active,POL,Nieciecza - Piast,GOALS,-3.5,1.32,,2022-05-14 11:30:00,1.29,1.323,-0.23,,,False
+262,active,POL2,Kielce - GKS Katowice,GOALS_H1,0.5,1.47,,2022-05-14 11:40:00,1.433,1.474,-0.27,,,False
+263,active,POR,Sporting L. - Santa Clara,1X2,1.0,1.23,,2022-05-14 20:30:00,1.216,1.234,-0.32,,,False
+264,active,GER3,Freiburg II - Saarbrucken,GOALS,-4.5,1.20,,2022-05-14 12:30:00,1.175,1.205,-0.41,,,False
+265,active,LAT,BFC Daugavpils - Liepaja,GOALS_H1,-1.5,1.42,,2022-05-14 12:00:00,1.291,1.426,-0.42,,,False
+266,active,POL2,GKS Jastrzębie - GKS Tychy,GOALS_H1,0.5,1.42,,2022-05-14 17:00:00,1.389,1.427,-0.49,,,False
+267,active,ARM,Ararat Armenia - Van,1X2,1.0,1.42,,2022-05-14 16:00:00,1.385,1.427,-0.49,,,False
+268,active,ESP2,Mirandes - Ibiza,GOALS,-3.5,1.40,,2022-05-15 15:00:00,1.361,1.407,-0.5,,,False
+269,active,BRA,Atl. Mineiro MG - Atl. Goianiense,CORNERS_H1,4.5,1.75,,2022-05-14 23:00:00,1.595,1.678,4.29,,,False
+270,active,GER,Augsburg - Greuther Furth,YELLOW,-3.5,1.60,,,1.472,1.573,1.72,,,False
+271,active,GER,Mainz - Eintracht F.,AWAY_GOALS,-1.5,1.57,,2022-05-14 14:30:00,1.51,1.55,1.29,,,False
+272,active,HUN,Kisvarda - Zalaegerszeg,1X2,1.0,1.72,,2022-05-15 15:00:00,1.645,1.702,1.06,,,False
+273,active,NED,AZ Alkmaar - Waalwijk,CORNERS,8.5,1.65,,2022-05-15 13:30:00,1.559,1.633,1.04,,,False
+274,active,TUR,Konyaspor - Hatayspor,1X2,1.0,1.65,,2022-05-15 17:00:00,1.61,1.637,0.79,,,False
+275,active,ESP2,Leganes - Eibar,GOALS,-2.5,1.70,,2022-05-14 20:00:00,1.641,1.687,0.77,,,False
+276,active,ITA,Udinese - Spezia,HOME_GOALS,1.5,1.70,,2022-05-14 17:00:00,1.649,1.691,0.53,,,False
+277,active,POL,Nieciecza - Piast,HOME_GOALS,-1.5,1.62,,2022-05-14 11:30:00,1.568,1.612,0.5,,,False
+278,active,GER2,Hansa R. - Hamburger SV,AWAY_GOALS,-2.5,1.72,,2022-05-15 14:30:00,1.645,1.713,0.41,,,False
+279,active,ESP2,Lugo - Fuenlabrada,CORNERS,-10.5,1.60,,2022-05-14 15:00:00,1.493,1.594,0.38,,,False
+280,active,ESP2,Amorebieta - Huesca,GOALS_H1,0.5,1.52,,2022-05-14 13:00:00,1.476,1.515,0.33,,,False
+281,active,FRA,Rennes - Marsylia,GOALS,-3.5,1.52,,2022-05-14 20:00:00,1.478,1.516,0.26,,,False
+282,active,FRA2,Guingamp - Le Havre,GOALS,2.5,1.60,,2022-05-14 18:00:00,1.549,1.598,0.13,,,False
+283,active,ATP-GENEVA,L.Gerch - V.Sachko,1X2_SET1,2.0,1.73,,2022-05-14 13:00:00,1.667,1.728,0.12,,,False
+284,active,ATP-GENEVA,L.Gerch - V.Sachko,1X2,2.0,1.67,,2022-05-14 13:00:00,1.613,1.669,0.06,,,False
+285,active,ESP2,Valladolid - Ponferradina,GOALS,-3.5,1.60,,2022-05-14 17:15:00,1.556,1.599,0.06,,,False
+286,active,POR,Moreirense - Vizela,CORNERS,-10.5,1.70,,2022-05-14 15:30:00,1.621,1.7,0.0,,,False
+287,active,TUR,Goztepe SK - Besiktas,1X2,2.0,1.60,,2022-05-15 14:00:00,1.575,1.601,-0.06,,,False
+288,active,ESP2,Valladolid - Ponferradina,HOME_GOALS,-2.5,1.57,,2022-05-14 17:15:00,1.532,1.573,-0.19,,,False
+289,active,ESP2,Oviedo - Zaragoza,GOALS_H1,0.5,1.52,,2022-05-16 20:00:00,1.474,1.523,-0.2,,,False
+290,active,NED,Zwolle - PSV,AWAY_GOALS,-2.5,1.75,,2022-05-15 13:30:00,1.704,1.754,-0.23,,,False
+291,active,GER,Dortmund - Hertha,GOALS,-4.5,1.45,51af132d,2022-05-14 14:30:00,1.403,1.443,0.49,,,False
+292,active,FIN,Inter Turku - HIFK,1X2,1.0,1899-12-31 10:48:00,4eec7073,2022-05-14 15:00:00,1.426,1.448,0.14,,,False
+293,active,POL,Warta - Lech,GOALS_H1,-1.5,1899-12-31 12:00:00,6f9aba75,2022-05-14 14:00:00,1.461,1.498,0.13,,,False
+294,active,SWE2,Jonkopings - Utsiktens BK,GOALS,-3.5,1899-12-31 11:16:48,071e44e4,2022-05-14 14:00:00,1.424,1.47,0.0,,,False
+295,active,SWE2,Landskrona Bois - Brommapojkarna,GOALS_H1,-1.5,1899-12-31 11:16:48,5ae1ae25,2022-05-15 12:00:00,1.403,1.47,0.0,,,False
+296,active,NED,AZ Alkmaar - Waalwijk,GOALS,-4.5,1899-12-31 10:04:48,d19b618e,2022-05-15 13:30:00,1.38,1.422,-0.14,,,False
+297,active,ESP2,Burgos - Cartagena,GOALS,-3.5,1899-12-31 08:24:00,24bc6a14,2022-05-14 15:00:00,1.321,1.356,-0.44,,,False
+298,active,SWE,Sirius - Elfsborg,GOALS,-4.5,1.20,5cdb39e7,2022-05-14 16:30:00,1.179,1.206,-0.5,,,False
+299,active,POR,Moreirense - Vizela,GOALS,-3.5,1.42,ec67ea49,2022-05-14 15:30:00,1.389,1.428,-0.56,,,False
+300,active,MLS,Philadelphia U. - Inter Miami,1X2,1.0,1899-12-31 10:04:48,7138bb88,2022-05-19 00:30:00,1.398,1.428,-0.56,,,False
+301,active,BRA,Coritiba PR - America MG,GOALS,-3.5,1899-12-31 06:43:12,8bd04b79,2022-05-15 21:30:00,1.254,1.289,-0.7,,,False
+302,active,FRA2,Sochaux - Dijon,GOALS,-4.5,1899-12-31 04:48:00,6b70b5c8,2022-05-14 18:00:00,1.179,1.209,-0.74,,,False
+303,active,POR,Tondela - Boavista,GOALS,-3.5,1.37,71dd5353,2022-05-14 15:30:00,1.345,1.381,-0.8,,,False
+304,active,MLS,NY Red Bulls - Chicago Fire,GOALS,1.5,1899-12-31 07:55:12,93f1f378,2022-05-19 00:30:00,1.303,1.341,-0.82,,,False
+305,active,POL2,Zagłębie S. - Olsztyn,GOALS_H1,0.5,1899-12-31 10:04:48,1e4833f7,2022-05-14 19:30:00,1.394,1.432,-0.84,,,False
+306,active,FRA,Lyon - Nantes,GOALS,-4.5,1899-12-31 10:04:48,f5a94907,2022-05-14 20:00:00,1.394,1.432,-0.84,,,False
+0,,WTA-STRASBOURG,D.Parry - A.Kerber,GAMES,-20.5,1.9,,2022-05-16 09:00:00,1.709,1.782,6.62,,,False
+1,,WTA-STRASBOURG,A.Konjuh - O.Dodin,GAMES,-20.5,2.05,,2022-05-16 09:00:00,1.87,1.956,4.81,,,False
+2,,WTA-STRASBOURG,D.Saville - A.Friedsam,GAMES,-20.5,1.9,,2022-05-16 09:00:00,1.741,1.817,4.57,,,False
+3,,WTA-STRASBOURG,M.Zanevska - Shu.Zhang,GAMES,-21.5,1.9,,2022-05-16 09:00:00,1.741,1.817,4.57,,,False
+4,,WTA-STRASBOURG,B.Pera - G.Ruse,GAMES,-21.5,1.9,,2022-05-16 09:00:00,1.752,1.827,4.0,,,False
+5,,WTA-STRASBOURG,E.Jacquemot - H.Watson,GAMES,-21.5,1.9,,2022-05-16 09:00:00,1.752,1.827,4.0,,,False
+6,,WTA-STRASBOURG,Car.Garcia - F.Ferro,GAMES,-21.5,1.9,,2022-05-16 09:00:00,1.758,1.834,3.6,,,False
+7,,WTA-STRASBOURG,D.Parry - A.Kerber,GAMES,-19.5,2.1,,2022-05-16 09:00:00,1.935,2.028,3.55,,,False
+8,,ATP-LYON,A.Rinderknech - H.V.N.Rune,AWAY_HANDI,-3.5,1.65,,2022-05-15 14:30:00,1.535,1.594,3.51,,,False
+9,,WTA-STRASBOURG,E.Mertens - C.Monnet,HOME_HANDI,-7.5,2.55,,2022-05-16 09:00:00,2.33,2.467,3.36,,,False
+10,,WTA-STRASBOURG,D.Saville - A.Friedsam,GAMES,-19.5,2.15,,2022-05-16 09:00:00,1.99,2.09,2.87,,,False
+11,,ATP-LYON,B.Bonzi - S.Baez,GAMES,21.5,1.9,,2022-05-16 10:00:00,1.769,1.848,2.81,,,False
+12,,ATP-LYON,F.Cerundolo - J.Duckworth,1X2_SET1,2.0,5.15,,2022-05-15 11:30:00,4.67,5.011,2.77,,,False
+13,,WTA-STRASBOURG,M.Zanevska - Shu.Zhang,GAMES,-20.5,2.05,,2022-05-16 09:00:00,1.917,2.009,2.04,,,False
+14,,WTA-STRASBOURG,D.Parry - A.Kerber,AWAY_HANDI,-4.5,2.05,,2022-05-16 09:00:00,1.917,2.009,2.04,,,False
+15,,WTA-STRASBOURG,E.Jacquemot - H.Watson,GAMES,-20.5,2.05,,2022-05-16 09:00:00,1.926,2.018,1.59,,,False
+16,,WTA-STRASBOURG,A.Konjuh - O.Dodin,GAMES,-21.5,1.8,,2022-05-16 09:00:00,1.704,1.776,1.35,,,False
+17,,WTA-STRASBOURG,E.Mertens - C.Monnet,HOME_HANDI,-5.5,1.47,,2022-05-16 09:00:00,1.402,1.451,1.31,,,False
+18,,ATP-LYON,A.Rinderknech - H.V.N.Rune,AWAY_HANDI,-4.5,2.0,,2022-05-15 14:30:00,1.885,1.978,1.11,,,False
+19,,WTA-STRASBOURG,Car.Garcia - F.Ferro,GAMES,-20.5,2.05,,2022-05-16 09:00:00,1.935,2.028,1.08,,,False
+20,,WTA-STRASBOURG,E.Mertens - C.Monnet,HOME_HANDI,-6.5,1.9,,2022-05-16 09:00:00,1.8,1.882,0.96,,,False
+21,,ATP-GENEVA,T.Paul - T.Griekspoor,GAMES,21.5,1.75,,2022-05-15 13:00:00,1.68,1.741,0.52,,,False
+22,,ATP-LYON,L.Pouille - O.Otte,GAMES,21.5,1.85,,2022-05-16 10:00:00,1.763,1.841,0.49,,,False
+23,,ATP-LYON,A.Molcan - J.Tsonga,GAMES,21.5,1.9,,2022-05-16 10:00:00,1.813,1.893,0.37,,,False
+24,,WTA-STRASBOURG,D.Parry - A.Kerber,AWAY_HANDI,-5.5,2.5,,2022-05-16 09:00:00,2.35,2.491,0.36,,,False
+25,,WTA-RABAT,I.Burillo E. - A.Tomljanovic,1X2,2.0,1.2,,2022-05-15 15:15:00,1.172,1.196,0.33,,,False
+26,,WTA-STRASBOURG,Car.Garcia - F.Ferro,HOME_HANDI,1.5,1.85,,2022-05-16 09:00:00,1.769,1.844,0.33,,,False
+27,,ATP-LYON,L.Pouille - O.Otte,HOME_HANDI,2.5,2.3,,2022-05-16 10:00:00,2.17,2.293,0.31,,,False
+28,,ATP-LYON,A.Rinderknech - H.V.N.Rune,1X2,2.0,1.28,,2022-05-15 14:30:00,1.249,1.276,0.31,,,False
+29,,ATP-LYON,B.Bonzi - S.Baez,GAMES,20.5,1.7,,2022-05-16 10:00:00,1.629,1.696,0.24,,,False
+30,,ATP-LYON,A.Molcan - J.Tsonga,GAMES,20.5,1.7,,2022-05-16 10:00:00,1.633,1.698,0.12,,,False
+31,,WTA-PARIS,Claire Liu - Beatriz Haddad Maia,1X2,1.0,1.95,,2022-05-15 13:00:00,1.855,1.948,0.1,,,False
+32,,ATP-LYON,L.Pouille - O.Otte,1X2,1.0,2.9,,2022-05-16 10:00:00,2.76,2.897,0.1,,,False
+33,,ATP-GENEVA,F.Bagnis - V.Sachko,1X2_SET1,2.0,3.2,,2022-05-15 11:30:00,3.0,3.199,0.03,,,False
+34,,ATP-LYON,F.Cerundolo - J.Duckworth,GAMES,19.5,1.95,,2022-05-15 11:30:00,1.877,1.955,-0.26,,,False
+35,,ATP-ROME,N.Djokovic - S.Tsitsipas,GAMES,23.5,2.15,,2022-05-15 15:00:00,2.07,2.156,-0.28,,,False
+36,,ATP-LYON,L.Pouille - O.Otte,HOME_HANDI,3.5,1.9,,2022-05-16 10:00:00,1.826,1.909,-0.47,,,False
+37,,WTA-STRASBOURG,E.Mertens - C.Monnet,1X2,1.0,1.08,,2022-05-16 09:00:00,1.068,1.087,-0.64,,,False
+38,,ATP-ROME,N.Djokovic - S.Tsitsipas,GAMES,21.5,1.7,,2022-05-15 15:00:00,1.658,1.712,-0.7,,,False
+39,,ATP-LYON,A.Mannarino - A.Karatsev,1X2,2.0,1.3,,2022-05-15 13:00:00,1.286,1.31,-0.76,,,False
+40,,ATP-LYON,F.Cerundolo - J.Duckworth,HOME_HANDI,-5.5,1.8,,2022-05-15 11:30:00,1.746,1.816,-0.88,,,False
+41,,ATP-LYON,F.Cerundolo - J.Duckworth,AWAY_HANDI,6.5,1.45,,2022-05-15 11:30:00,1.418,1.463,-0.89,,,False
+42,,WTA-STRASBOURG,B.Pera - G.Ruse,GAMES,-20.5,2.0,,2022-05-16 09:00:00,1.926,2.018,-0.89,,,False
+43,,ATP-GENEVA,B.Paire - E.Ruusuvuori,1X2_SET1,2.0,1.57,,2022-05-16 13:00:00,1.543,1.585,-0.95,,,False
+44,,ATP-ROME,N.Djokovic - S.Tsitsipas,GAMES,22.5,1.95,,2022-05-15 15:00:00,1.893,1.969,-0.96,,,False
+45,,ATP-GENEVA,R.Gasquet - J.Millman,1X2_SET1,2.0,2.18,,2022-05-16 13:00:00,2.12,2.202,-1.0,,,False
+46,,WTA-STRASBOURG,B.Pera - G.Ruse,HOME_HANDI,-2.5,2.2,,2022-05-16 09:00:00,2.11,2.223,-1.03,,,False
+47,,WTA-STRASBOURG,Ka.Pliskova - M.Kostyuk,GAMES,-21.5,1.9,,2022-05-16 09:00:00,1.84,1.921,-1.09,,,False
+48,,WTA-STRASBOURG,E.Jacquemot - H.Watson,HOME_HANDI,-2.5,2.15,,2022-05-16 09:00:00,2.07,2.175,-1.15,,,False
+49,,WTA-ROME,I.Świątek - O.Jabeur,GAMES,-19.5,1.8,,2022-05-15 12:00:00,1.769,1.821,-1.15,,,False
+50,,ATP-GENEVA,R.Gasquet - J.Millman,AWAY_HANDI,2.5,1.9,,2022-05-16 13:00:00,1.84,1.926,-1.35,,,False
+51,,ATP-GENEVA,F.Delbonis - R.Berankis,1X2,1.0,1.35,,2022-05-16 13:00:00,1.338,1.369,-1.39,,,False
+52,,WTA-STRASBOURG,Y.Morderger - E.Makarova (1988),1X2,2.0,1.42,,2022-05-15 10:15:00,1.397,1.44,-1.39,,,False
+53,,ATP-ROME,N.Djokovic - S.Tsitsipas,1X2,1.0,1.45,,2022-05-15 15:00:00,1.441,1.471,-1.43,,,False
+54,,ATP-LYON,A.Molcan - J.Tsonga,1X2_SET1,2.0,3.55,,2022-05-16 10:00:00,3.4,3.607,-1.58,,,False
+55,,WTA-RABAT,I.Burillo E. - A.Tomljanovic,AWAY_HANDI,-4.5,1.53,,2022-05-15 15:15:00,1.5,1.555,-1.61,,,False
+56,,ATP-LYON,F.Cerundolo - J.Duckworth,GAMES,18.5,1.7,,2022-05-15 11:30:00,1.667,1.728,-1.62,,,False
+57,,WTA-ROME,I.Świątek - O.Jabeur,GAMES,-18.5,2.15,,2022-05-15 12:00:00,2.11,2.187,-1.69,,,False
+58,,WTA-RABAT,I.Burillo E. - A.Tomljanovic,AWAY_HANDI,-5.5,1.85,,2022-05-15 15:15:00,1.8,1.882,-1.7,,,False
+59,,WTA-STRASBOURG,M.Linette - V.Gracheva,GAMES,-21.5,1.9,,2022-05-15 12:15:00,1.847,1.934,-1.76,,,False
+60,,ATP-LYON,S.W.Kwon - A.Bedene,HOME_HANDI,-3.5,1.9,,2022-05-16 10:00:00,1.847,1.934,-1.76,,,False
+61,,ATP-LYON,F.Cerundolo - J.Duckworth,1X2,1.0,1.1,,2022-05-15 11:30:00,1.102,1.12,-1.79,,,False
+62,,ATP-ROME,N.Djokovic - S.Tsitsipas,AWAY_GAMES,11.5,1.8,,2022-05-15 15:00:00,1.758,1.834,-1.85,,,False
+63,,WTA-STRASBOURG,Car.Garcia - F.Ferro,1X2,1.0,2.0,,2022-05-16 09:00:00,1.971,2.038,-1.86,,,False
+64,,WTA-STRASBOURG,Ha.Tan - S.Stosur,1X2,1.0,1.2,,2022-05-15 11:00:00,1.202,1.223,-1.88,,,False
+65,,ATP-GENEVA,B.Hassan - C.O'Connell,1X2_SET1,1.0,3.55,,2022-05-15 10:00:00,3.35,3.618,-1.88,,,False
+66,,ATP-LYON,S.W.Kwon - A.Bedene,1X2,1.0,1.4,,2022-05-16 10:00:00,1.394,1.428,-1.96,,,False
+67,,WTA-ROME,I.Świątek - O.Jabeur,1X2,1.0,1.2,,2022-05-15 12:00:00,1.208,1.226,-2.12,,,False
+68,,ATP-GENEVA,F.Bagnis - V.Sachko,GAMES,20.5,1.8,,2022-05-15 11:30:00,1.769,1.84,-2.17,,,False
+69,,ATP-LYON,B.Bonzi - S.Baez,AWAY_HANDI,-3.5,1.8,,2022-05-16 10:00:00,1.763,1.841,-2.23,,,False
+70,,WTA-STRASBOURG,A.Konjuh - O.Dodin,HOME_HANDI,-3.5,2.0,,2022-05-16 09:00:00,1.952,2.046,-2.25,,,False
+71,,WTA-PARIS,Claire Liu - Beatriz Haddad Maia,GAMES,21.5,1.8,,2022-05-15 13:00:00,1.758,1.842,-2.28,,,False
+72,,WTA-RABAT,I.Burillo E. - A.Tomljanovic,1X2_SET1,2.0,1.28,,2022-05-15 15:15:00,1.274,1.31,-2.29,,,False
+73,,WTA-RABAT,Y.Cavalle-R. - Xia.You,1X2_SET1,1.0,1.53,,2022-05-15 12:00:00,1.515,1.566,-2.3,,,False
+74,,ATP-GENEVA,P.Andujar A. - J.Sousa,1X2,1.0,1.65,,2022-05-16 13:00:00,1.641,1.689,-2.31,,,False
+75,,ATP-LYON,L.Pouille - O.Otte,HOME_HANDI,4.5,1.5,,2022-05-16 10:00:00,1.481,1.536,-2.34,,,False
+76,,ATP-GENEVA,B.Paire - E.Ruusuvuori,1X2,2.0,1.5,,2022-05-16 13:00:00,1.498,1.537,-2.41,,,False
+77,,WTA-STRASBOURG,E.Mertens - C.Monnet,GAMES,-18.5,1.77,,2022-05-16 09:00:00,1.741,1.814,-2.43,,,False
+78,,ATP-LYON,D.Altmaier - F.Coria,1X2_SET1,1.0,1.88,,2022-05-16 10:00:00,1.87,1.928,-2.49,,,False
+79,,ATP-GENEVA,M.Cecchinato - P.Cuevas,1X2,2.0,1.55,,2022-05-15 11:00:00,1.538,1.59,-2.52,,,False
+80,,WTA-STRASBOURG,M.Linette - V.Gracheva,1X2,1.0,1.85,,2022-05-15 12:15:00,1.84,1.899,-2.58,,,False
+81,,ATP-GENEVA,F.Delbonis - R.Berankis,1X2_SET1,1.0,1.42,,2022-05-16 13:00:00,1.422,1.458,-2.61,,,False
+82,,WTA-STRASBOURG,Y.Morderger - E.Makarova (1988),AWAY_HANDI,-3.5,1.75,,2022-05-15 10:15:00,1.73,1.797,-2.62,,,False
+83,,WTA-STRASBOURG,M.Zanevska - Shu.Zhang,AWAY_HANDI,-1.5,1.85,,2022-05-16 09:00:00,1.82,1.901,-2.68,,,False
+84,,ATP-LYON,A.Molcan - J.Tsonga,1X2,1.0,1.2,,2022-05-16 10:00:00,1.21,1.235,-2.83,,,False
+85,,WTA-STRASBOURG,D.Saville - A.Friedsam,1X2,1.0,1.4,,2022-05-16 09:00:00,1.408,1.442,-2.91,,,False
+86,,WTA-STRASBOURG,M.Zanevska - Shu.Zhang,1X2_SET1,2.0,1.75,,2022-05-16 09:00:00,1.735,1.803,-2.94,,,False
+87,,ATP-LYON,B.Bonzi - S.Baez,HOME_HANDI,4.5,1.57,,2022-05-16 10:00:00,1.556,1.618,-2.97,,,False
+88,,ATP-LYON,B.Bonzi - S.Baez,1X2,2.0,1.37,,2022-05-16 10:00:00,1.379,1.412,-2.97,,,False
+89,,TUR,Konyaspor - Hatayspor,Y1X2,1.0,4.4,,2022-05-15 17:00:00,2.6,2.8,57.14,,cb8a9b1a,False
+90,,TUR,Fenerbahce - F.Karagumruk,Y1X2,1.0,4.6,,2022-05-15 17:00:00,2.9,3.141,46.45,,249fae2f,False
+91,,NED,AZ Alkmaar - Waalwijk,Y1X2,2.0,2.8,,2022-05-15 13:30:00,1.92,2.018,38.75,,327a1696,False
+92,,TUR,Alanyaspor - Gaziantep,Y1X2,1.0,4.0,,2022-05-15 17:00:00,2.8,3.024,32.28,,7d17bc39,False
+93,,TUR,Trabzonspor - Altay Izmir,Y1X2,1.0,4.5,,2022-05-15 14:00:00,3.3,3.641,23.59,,474ef775,False
+94,,TUR,Goztepe SK - Besiktas,Y1X2,2.0,2.9,,2022-05-15 14:00:00,2.25,2.411,20.28,,3eb9c277,False
+95,,NED,Feyenoord - Twente Enschede,Y1X2,1.0,3.6,,2022-05-15 13:30:00,2.9,3.135,14.83,,d9064ba0,False
+96,,NED,Vitesse - Ajax,YELLOW,3.5,2.9,,2022-05-15 13:30:00,2.35,2.536,14.35,,ab2f97ce,False
+97,,NED,Heerenveen - G.A. Eagles,Y1X2,1.0,3.3,,2022-05-15 13:30:00,2.7,2.913,13.29,,8df6b436,False
+98,,NED,Willem II - Utrecht,Y1X2,2.0,2.25,,2022-05-15 13:30:00,1.92,2.021,11.33,,4e6ed691,False
+99,,NED,Vitesse - Ajax,YELLOW,2.5,1.85,,2022-05-15 13:30:00,1.57,1.664,11.18,,686e4a67,False
+100,,ITA,Bologna - Sassuolo,YELLOW,4.5,2.1,,,1.77,1.892,10.99,,d13c1abb,False
+101,,NED,Groningen - Cambuur,YELLOW,-2.5,2.1,,2022-05-15 13:30:00,1.78,1.897,10.7,,95027861,False
+102,,ITA,Bologna - Sassuolo,YELLOW,3.5,1.55,,,1.33,1.404,10.4,,c951cf5f,False
+103,,NED,Zwolle - PSV,Y1X2,2.0,3.25,,2022-05-15 13:30:00,2.75,2.957,9.91,,30ebe51a,False
+104,,ESP,Bilbao - Osasuna,FOULS,24.5,1.8,,,1.55,1.652,8.96,,ae8e7430,False
+105,,TUR,Goztepe SK - Besiktas,YELLOW,-6.5,1.55,,2022-05-15 14:00:00,1.36,1.427,8.62,,e6e4823f,False
+106,,ESP,Villarreal - Sociedad,HOME_YELLOW,-2.5,2.15,,,1.87,2.0,7.5,,2b8f1c9a,False
+107,,NED,Groningen - Cambuur,YELLOW,-3.5,1.47,,2022-05-15 13:30:00,1.3,1.368,7.46,,e62c2675,False
+108,,TUR,Konyaspor - Hatayspor,YELLOW,-4.5,1.55,,2022-05-15 17:00:00,1.38,1.449,6.97,,201efcc8,False
+109,,ESP,Villarreal - Sociedad,AWAY_YELLOW,-2.5,2.15,,,1.87,2.012,6.86,,40809422,False
+110,,TUR,Konyaspor - Hatayspor,YELLOW,-3.5,2.2,,2022-05-15 17:00:00,1.93,2.065,6.54,,fd57c7cb,False
+111,,TUR,Goztepe SK - Besiktas,YELLOW,-5.5,2.0,,2022-05-15 14:00:00,1.77,1.878,6.5,,4a5b95b1,False
+112,,ESP,Bilbao - Osasuna,OFFSIDES,3.5,1.8,,,1.6,1.694,6.26,,be11458b,False
+113,,ITA,AC Milan - Atalanta,YELLOW,5.5,1.8,,,1.6,1.694,6.26,,bb5578f3,False
+114,,TUR,Trabzonspor - Altay Izmir,YELLOW,-4.5,1.5,,2022-05-15 14:00:00,1.35,1.416,5.93,,7e8a6780,False
+115,,ESP,Villarreal - Sociedad,YELLOW,-5.5,1.85,,,1.65,1.753,5.53,,ec193116,False
+116,,TUR,Alanyaspor - Gaziantep,YELLOW,-4.5,1.7,,2022-05-15 17:00:00,1.53,1.617,5.13,,e0977444,False
+117,,ITA,AC Milan - Atalanta,YELLOW,4.5,1.38,,,1.25,1.317,4.78,,3cbd6d2d,False
+118,,NED,Vitesse - Ajax,YELLOW,1.5,1.3,,2022-05-15 13:30:00,1.2,1.241,4.75,,4d84bc7a,False
+119,,TUR,Fenerbahce - F.Karagumruk,YELLOW,3.5,1.45,,2022-05-15 17:00:00,1.33,1.394,4.02,,f5b4c6c9,False
+120,,ESP,Mallorca - Rayo Vallecano,YELLOW,5.5,2.05,,,1.85,1.972,3.96,,c198d0d5,False
+121,,TUR,Trabzonspor - Altay Izmir,YELLOW,-3.5,2.05,,2022-05-15 14:00:00,1.87,2.0,2.5,,ec2f9475,False
+122,,ITA,Cagliari - Inter M.,YELLOW,3.5,1.4,,,1.3,1.368,2.34,,f40a8d8c,False
+123,,ESP,Atl.Madryt - Sevilla,AWAY_FOULS,12.5,1.7,,,1.57,1.664,2.16,,066c875d,False
+124,,ITA,Cagliari - Inter M.,YELLOW,4.5,1.85,,,1.7,1.817,1.82,,af2b3e1c,False
+125,,ESP,Mallorca - Rayo Vallecano,YELLOW,4.5,1.52,,,1.42,1.499,1.4,,7d552695,False
+126,,ITA,Napoli - Genoa,YELLOW,3.5,1.47,,,1.37,1.45,1.38,,23c5cda4,False
+127,,ITA,Cagliari - Inter M.,OFFSIDES,2.5,1.6,,,1.5,1.589,0.69,,bdf6ab51,False
+128,,ENG,Everton - Brentford,OFFSIDES,-3.5,1.65,,,1.55,1.64,0.61,,7dd9f779,False
+129,,NED,NEC - Fortuna S.,Y1X2,2.0,1.9,,2022-05-15 13:30:00,1.8,1.892,0.42,,f8270b8e,False
+130,,ENG,Watford - Leicester,FOULS,19.5,1.67,,,1.57,1.664,0.36,,3453108b,False
+131,,ENG,Watford - Leicester,FOULS,20.5,1.95,,,1.82,1.944,0.31,,ae84537d,False
+132,,ITA,Bologna - Sassuolo,FOULS,25.5,1.85,,,1.72,1.849,0.05,,cb801f1c,False
+133,,ITA,Napoli - Genoa,YELLOW,4.5,2.0,,,1.87,2.0,0.0,,e68813a9,False
+134,,ITA,Cagliari - Inter M.,OFFSIDES,1.5,1.22,,,1.18,1.223,-0.25,,b8653a58,False
+135,,ENG,Everton - Brentford,OFFSIDES,-4.5,1.27,,,1.22,1.274,-0.31,,a5a881dc,False
+136,,ITA,AC Milan - Atalanta,AWAY_FOULS,14.5,1.75,,,1.67,1.764,-0.79,,f320d563,False
+137,,ESP,Atl.Madryt - Sevilla,SHOTS_ON_TARGET,6.5,1.65,,,1.57,1.664,-0.84,,445f58b5,False
+138,,ITA,AC Milan - Atalanta,HOME_FOULS,-13.5,1.85,,,1.75,1.867,-0.91,,09e0a42d,False
+139,,ESP,Bilbao - Osasuna,YELLOW,4.5,1.85,,,1.75,1.867,-0.91,,1c6690ca,False
+140,,TUR,Fenerbahce - F.Karagumruk,YELLOW,4.5,1.9,,2022-05-15 17:00:00,1.8,1.918,-0.94,,25bd7c05,False
+141,,ESP,Bilbao - Osasuna,YELLOW,3.5,1.4,,,1.35,1.416,-1.13,,cb91f0fa,False
+142,,POR,Famalicao - Braga,YELLOW,-4.5,1.55,,2022-05-15 18:00:00,1.48,1.568,-1.15,,b0e9c3e9,False
+143,,ITA,AC Milan - Atalanta,YELLOW,6.5,2.3,,,2.15,2.328,-1.2,,dc8157f5,False
+144,,ENG,Watford - Leicester,FOULS,21.5,2.3,,,2.15,2.328,-1.2,,4ca7ea4c,False
+145,,ENG,Everton - Brentford,FOULS,-21.5,1.62,,,1.55,1.64,-1.22,,9c1e9ba2,False
+146,,ITA,AC Milan - Atalanta,OFFSIDES,2.5,1.35,,,1.3,1.368,-1.32,,3d0f4926,False
+147,,ESP,Cadiz - Real Madryt,OFFSIDES,2.5,1.38,,,1.33,1.399,-1.36,,baab6df2,False
+148,,ESP,Villarreal - Sociedad,YELLOW,-6.5,1.4,,,1.35,1.421,-1.48,,07ce006b,False
+149,,ITA,AC Milan - Atalanta,HOME_YELLOW,2.5,1.8,,,1.72,1.829,-1.59,,fac560ed,False
+150,,ESP,Getafe - Barcelona,OFFSIDES,3.5,1.45,,,1.4,1.474,-1.63,,a7ba14b0,False
+151,,TUR,Alanyaspor - Gaziantep,YELLOW,-3.5,2.4,,2022-05-15 17:00:00,2.25,2.441,-1.68,,bd031e93,False
+152,,ESP,Betis - Granada,SHOTS_ON_TARGET,8.5,1.6,,,1.53,1.629,-1.78,,8860f404,False
+153,,ESP,Mallorca - Rayo Vallecano,FOULS,28.5,1.75,,,1.67,1.782,-1.8,,78ee1c76,False
+154,,ESP,Atl.Madryt - Sevilla,FOULS,26.5,1.75,,,1.67,1.782,-1.8,,570c1c93,False
+155,,NED,Heracles - Sparta R.,YELLOW,2.5,1.55,,2022-05-15 13:30:00,1.5,1.579,-1.84,,fb39b74f,False
+156,,NED,NEC - Fortuna S.,YELLOW,3.5,1.72,,2022-05-15 13:30:00,1.65,1.753,-1.88,,1d6b955e,False
+157,,NED,Zwolle - PSV,YELLOW,1.5,1.3,,2022-05-15 13:30:00,1.27,1.332,-2.4,,1f1253b7,False
+158,,NED,NEC - Fortuna S.,YELLOW,2.5,1.3,,2022-05-15 13:30:00,1.27,1.332,-2.4,,92f56586,False
+159,,ENG,Leeds - Brighton,OFFSIDES,2.5,1.6,,,1.55,1.64,-2.44,,84375f0d,False
+160,,ESP,Villarreal - Sociedad,YELLOW,-4.5,2.5,,,2.35,2.563,-2.46,,164a845a,False
+161,,ESP,Getafe - Barcelona,FOULS,27.5,1.95,,,1.87,2.0,-2.5,,5baafe34,False
+162,,ESP,Betis - Granada,FOULS,-25.5,1.95,,,1.87,2.0,-2.5,,8f82eb2e,False
+163,,TUR,Konyaspor - Hatayspor,Y1X2,0.5,4.75,,2022-05-15 17:00:00,4.3,4.875,-2.56,,cb8a9b1a,False
+164,,ITA,AC Milan - Atalanta,OFFSIDES,3.5,1.75,,,1.7,1.798,-2.67,,ec8a9ea4,False
+165,,ESP,Atl.Madryt - Sevilla,YELLOW,5.5,1.75,,,1.7,1.798,-2.67,,3ed07d97,False
+166,,ENG,Tottenham - Burnley,OFFSIDES,-4.5,1.35,,,1.32,1.389,-2.81,,433c9587,False
+167,,ENG,West Ham - Manchester City,OFFSIDES,2.5,1.37,,,1.33,1.41,-2.84,,8924c3cc,False
+168,,ENG,Watford - Leicester,OFFSIDES,2.5,1.42,,,1.38,1.463,-2.94,,85275d3d,False
+169,,POL,Mielec - Śląsk,1X2,0.5,3.4,,2022-05-15 11:30:00,3.06,3.144,8.14,,b3e11397,False
+170,,ITA,AC Milan - Atalanta,YELLOW,5.5,1.8,,,1.602,1.704,5.63,,bb5578f3,True
+171,,TUR,Kasimpasa - Antaliaspor,CORNERS_H1,4.5,2.2,,2022-05-15 17:00:00,1.962,2.083,5.62,,a72e8de6,False
+172,,ALG,MC Alger - USM Alger,1X2,0.5,2.9,,2022-05-15 19:00:00,2.51,2.767,4.81,,405fa0dc,False
+173,,POL,Górnik Z. - Łęczna,1X2,1.0,1.6,,2022-05-15 14:00:00,1.51,1.534,4.3,,7a679ff6,True
+174,,ENG,Aston Villa - Crystal Palace,GOALS,-1.5,3.75,,2022-05-15 14:00:00,3.37,3.608,3.94,,0f29cda5,False
+175,,JPN,Urawa Red Diamonds - Yokohama F. Marinos,1X2,2.0,2.75,,2022-05-18 11:30:00,2.57,2.649,3.81,,0565fa35,False
+176,,POL2,Polkowice - Resovia,AWAY_GOALS,1.5,2.7,,2022-05-16 17:00:00,2.45,2.604,3.69,,66108019,False
+177,,TUR,Fenerbahce - F.Karagumruk,CORNERS_H1,4.5,2.2,,2022-05-15 17:00:00,2.01,2.132,3.19,,d54ac61f,False
+178,,NED,AZ Alkmaar - Waalwijk,CORNERS_H1,4.5,2.2,,2022-05-15 13:30:00,1.98,2.133,3.14,,545bef9f,False
+179,,ESP,Villarreal - Sociedad,YELLOW,5.5,1.85,,,1.694,1.799,2.83,,ec193116,False
+180,,POL2,Legnica - Widzew Ł.,1X2,2.0,3.1,,2022-05-15 11:40:00,2.92,3.017,2.75,,ad0ac41f,False
+181,,ENG,Tottenham - Burnley,YELLOW,3.5,1.8,,,1.649,1.752,2.74,,4c1ed994,False
+182,,NED,NEC - Fortuna S.,CORNERS,-8.5,2.8,,2022-05-15 13:30:00,2.46,2.728,2.64,,29f96433,False
+183,,ESP2,Oviedo - Zaragoza,HOME_GOALS,1.5,1.95,,2022-05-16 20:00:00,1.826,1.9,2.63,,59913563,False
+184,,POR2,Rio Ave - Chaves,GOALS,-3.5,1.33,,2022-05-15 11:00:00,1.261,1.297,2.54,,ce7c472c,True
+185,,ENG,West Ham - Manchester City,HOME_HANDI,1.5,1.8,,2022-05-15 14:00:00,1.719,1.756,2.51,,f4422227,False
+186,,TUR,Konyaspor - Hatayspor,CORNERS_H1,4.5,2.0,,2022-05-15 17:00:00,1.847,1.952,2.46,,02961290,False
+187,,ESP,Getafe - Barcelona,YELLOW,5.5,1.9,,,1.752,1.855,2.43,,3f844f7f,False
+188,,IRE,Drogheda Utd - Finn Harps,GOALS_H1,-1.5,1.36,,2022-05-20 19:45:00,1.253,1.328,2.41,,fed900f6,False
+189,,JPN,Cerezo Osaka - Gamba Osaka,GOALS,3.5,4.0,,2022-05-21 06:00:00,3.6,3.906,2.41,,5e98c7be,False
+190,,SLO,Domzale - Celje,GOALS,-1.5,4.4,,2022-05-15 14:00:00,3.86,4.297,2.4,,6216441f,False
+191,,IRE,St. Patrick's Athletic - Shelbourne,GOALS,-1.5,3.0,,2022-05-20 19:45:00,2.69,2.936,2.18,,cec42048,False
+192,,ITA,Bologna - Sassuolo,1X2,0.5,4.0,,2022-05-15 11:30:00,3.78,3.917,2.12,,b61b58ae,False
+193,,JPN,Shonan Bellmare - Vissel Kobe,GOALS,-1.5,3.0,,2022-05-21 07:00:00,2.76,2.938,2.11,,343df96a,False
+194,,SWE2,AFC Eskilstuna - Norrby IF,GOALS,2.5,1.85,,2022-05-19 18:00:00,1.741,1.814,1.98,,ab390512,False
+195,,BRA,Coritiba PR - America MG,CORNERS_H1,4.5,1.9,,2022-05-15 21:30:00,1.769,1.864,1.93,,162f8eb7,False
+196,,NED,Heerenveen - G.A. Eagles,CORNERS_H1,4.5,1.95,,2022-05-15 13:30:00,1.82,1.915,1.83,,17eef613,False
+197,,KOR,Incheon United - Daegu,1X2,2.0,3.0,,2022-05-17 11:30:00,2.87,2.949,1.73,,9c317bfb,False
+198,,POL2,Legnica - Widzew Ł.,AWAY_GOALS,1.5,2.9,,2022-05-15 11:40:00,2.7,2.851,1.72,,5d75773e,False
+199,,JPN2,Mito Hollyhock - Iwate Grulla Morioka,GOALS_H1,-1.5,1.36,,2022-05-21 08:00:00,1.256,1.34,1.49,,9e754e9f,False
+200,,POR2,Estrela Amadora - Covilha,GOALS,-3.5,1.33,,2022-05-15 15:30:00,1.275,1.311,1.45,,c1d51d85,False
+201,,IRE,St. Patrick's Athletic - Shelbourne,GOALS,-2.5,1.7,,2022-05-20 19:45:00,1.602,1.676,1.43,,941bc138,False
+202,,SUI,Luzern - Young Boys,HOME_GOALS,-1.5,1.7,,2022-05-19 19:30:00,1.606,1.676,1.43,,e40de587,False
+203,,ESP,Bilbao - Osasuna,1X2,1.0,1.65,,2022-05-15 18:30:00,1.606,1.628,1.35,,5d6e5fef,True
+204,,ENG,West Ham - Manchester City,AWAY_GOALS,-2.5,1.65,,2022-05-15 14:00:00,1.592,1.628,1.35,,88b7ea37,False
+205,,ITA,Napoli - Genoa,YELLOW,4.5,2.0,,,1.87,1.974,1.32,,e68813a9,True
+206,,MOR,Chabab Mohammedia - Maghreb AS de Fes,1X2,0.5,2.65,,2022-05-15 18:15:00,2.45,2.617,1.26,,839fee96,False
+207,,JPN,FC Tokyo - Kashiwa Reysol,GOALS,-1.5,3.0,,2022-05-21 07:00:00,2.77,2.964,1.21,,ec74fd3b,False
+208,,ENG,Wolverhampton - Norwich,1X2,1.0,1.47,,2022-05-15 14:00:00,1.431,1.453,1.17,,36ffc14f,True
+209,,ENG,Everton - Brentford,AWAY_HANDI,1.5,1.3,,2022-05-15 16:30:00,1.262,1.285,1.17,,9267af25,False
+210,,POL2,Nowy Sącz - Głogów,GOALS,-2.5,1.85,,2022-05-15 14:00:00,1.769,1.829,1.15,,4f717b3d,False
+211,,NED,NEC - Fortuna S.,GOALS,2.5,1.6,,2022-05-15 13:30:00,1.541,1.582,1.14,,e475f82b,False
+212,,USL,Phoenix Rising - Tampa Bay Rowdies,1X2,2.0,3.3,,2022-05-16 03:00:00,3.05,3.265,1.07,,60d6944e,False
+213,,IRE,St. Patrick's Athletic - Shelbourne,GOALS,-3.5,1.25,,2022-05-20 19:45:00,1.192,1.237,1.05,,3ce1e846,False
+214,,ESP2,Oviedo - Zaragoza,AWAY_HANDI,1.5,1.47,,2022-05-16 20:00:00,1.41,1.455,1.03,,c8788524,False
+215,,ENG,West Ham - Manchester City,GOALS,-2.5,2.6,,2022-05-15 14:00:00,2.48,2.576,0.93,,3501b9d2,False
+216,,JPN2,Albirex Niigata - Yokohama,GOALS,-1.5,3.2,,2022-05-21 06:00:00,2.93,3.172,0.88,,9d043c11,False
+217,,NED,AZ Alkmaar - Waalwijk,CORNERS,9.5,2.1,,2022-05-15 13:30:00,1.952,2.082,0.86,,c22a552b,False
+218,,ENG,West Ham - Manchester City,GOALS,-3.5,1.65,,2022-05-15 14:00:00,1.599,1.636,0.86,,3501b9d2,True
+219,,ESP,Mallorca - Rayo Vallecano,HOME_GOALS,-1.5,1.85,,2022-05-15 18:30:00,1.787,1.835,0.82,,12fa4924,False
+220,,POL,Radomiak - W.Kraków,CORNERS,-9.5,2.4,,,2.22,2.382,0.76,,5b0bb142,False
+221,,ENG,Tottenham - Burnley,1X2,1.0,1.35,,2022-05-15 12:00:00,1.325,1.34,0.75,,6a0c74b2,True
+222,,POL2,Nowy Sącz - Głogów,GOALS,-3.5,1.32,,2022-05-15 14:00:00,1.275,1.311,0.69,,4f717b3d,False
+223,,JPN,Vissel Kobe - Kawasaki Frontale,1X2,2.0,1.95,,2022-05-18 11:00:00,1.893,1.937,0.67,,a9b1eb5d,False
+224,,JPN,FC Tokyo - Kashiwa Reysol,GOALS,-3.5,1.25,,2022-05-21 07:00:00,1.206,1.242,0.64,,09cc8931,False
+225,,JPN2,Albirex Niigata - Yokohama,GOALS,-3.5,1.28,,2022-05-21 06:00:00,1.231,1.272,0.63,,3acad588,False
+226,,ENG,Aston Villa - Crystal Palace,HOME_GOALS,-1.5,1.75,,2022-05-15 14:00:00,1.69,1.74,0.57,,eddba4a0,False
+227,,SWE2,Landskrona Bois - Brommapojkarna,GOALS,-3.5,1.47,,2022-05-15 12:00:00,1.417,1.462,0.55,,1c426552,False
+228,,ENG,Wolverhampton - Norwich,HOME_GOALS,1.5,1.65,,2022-05-15 14:00:00,1.595,1.641,0.55,,69b1305c,False
+229,,ARG2,Independ. Rivadavia - Atletico Rafaela,1X2,0.5,3.0,,2022-05-15 21:00:00,2.85,2.984,0.54,,b9ae53ba,False
+230,,POL2,Polkowice - Resovia,GOALS,2.5,2.08,,2022-05-16 17:00:00,1.98,2.07,0.48,,c029989e,False
+231,,BRA2,Guarani SP - Vasco Da Gama RJ,GOALS,-0.5,6.5,,2022-05-20 01:30:00,5.55,6.47,0.46,,71410b46,False
+232,,ARG2,Gimnasia y E. Jujuy - CA Belgrano,1X2,0.5,2.9,,2022-05-15 23:10:00,2.77,2.887,0.45,,01c0e74b,False
+233,,POL,Górnik Z. - Łęczna,HOME_GOALS,1.5,1.6,,2022-05-15 14:00:00,1.552,1.593,0.44,,37143ce8,False
+234,,POL2,Polkowice - Resovia,1X2,2.0,2.65,,2022-05-16 17:00:00,2.54,2.64,0.38,,db526edf,False
+235,,IRE,Bohemians Dublin - Sligo Rovers,GOALS,2.5,2.25,,2022-05-20 19:45:00,2.11,2.242,0.36,,369c39e3,False
+236,,ENG,Watford - Leicester,1X2,2.0,1.88,,2022-05-15 14:00:00,1.84,1.874,0.32,,f452d110,False
+237,,JPN,Shonan Bellmare - Vissel Kobe,GOALS,-3.5,1.25,,2022-05-21 07:00:00,1.213,1.246,0.32,,cdea6504,False
+238,,JPN,Sanfrecce Hiroshima - Kyoto Sanga,1X2,1.0,1.75,,2022-05-21 05:00:00,1.704,1.745,0.29,,03cd921c,False
+239,,CRO,Sibenik - Dinamo Z.,AWAY_GOALS,2.5,2.15,,2022-05-15 18:05:00,2.03,2.144,0.28,,ce085838,False
+240,,ENG,Everton - Brentford,YELLOW,3.5,1.85,,,1.741,1.845,0.27,,8ca3b550,False
+241,,JPN,Cerezo Osaka - Gamba Osaka,1X2,1.0,1.85,,2022-05-21 06:00:00,1.806,1.846,0.22,,f70e24b9,False
+242,,NED,AZ Alkmaar - Waalwijk,GOALS,-5.5,1.18,,2022-05-15 13:30:00,1.15,1.178,0.17,,d19b618e,False
+243,,GER2,Darmstadt - Paderborn,GOALS,-5.5,1.22,,2022-05-15 14:30:00,1.19,1.218,0.16,,058e2b28,True
+244,,ENG,Tottenham - Burnley,HOME_HANDI,-1.5,1.98,,2022-05-15 12:00:00,1.935,1.977,0.15,,3deb3ea3,False
+245,,MLS,Minnesota Utd - LA Galaxy,GOALS,-2.5,2.1,,2022-05-19 01:00:00,2.03,2.097,0.14,,a746e3a2,False
+246,,NOR,Bodo/Glimt - Tromso,AWAY_HANDI,1.5,1.7,,2022-05-16 17:00:00,1.658,1.698,0.12,,0ade8935,False
+247,,SWE,Hacken - Kalmar FF,1X2,1.0,1.87,,2022-05-15 14:00:00,1.833,1.868,0.11,,779a288a,False
+248,,IRE,Bohemians Dublin - Sligo Rovers,1X2,1.0,2.1,,2022-05-20 19:45:00,2.02,2.098,0.1,,e0fff731,False
+249,,TUR,Alanyaspor - Gaziantep,CORNERS_H1,4.5,1.95,,2022-05-15 17:00:00,1.847,1.948,0.1,,a2124c76,False
+250,,GER2,Nurnberg - Schalke 04,GOALS,-5.5,1.16,,2022-05-15 14:30:00,1.135,1.159,0.09,,4cb46d4c,False
+251,,SWE2,Landskrona Bois - Brommapojkarna,GOALS,-4.5,1.18,,2022-05-15 12:00:00,1.151,1.179,0.08,,1d8ccda1,False
+252,,MLS,Atlanta Utd - New England,GOALS,-4.5,1.22,,2022-05-15 18:30:00,1.191,1.219,0.08,,aee9ac7f,False
+253,,NED,NEC - Fortuna S.,HOME_GOALS,1.5,1.8,,2022-05-15 13:30:00,1.746,1.799,0.06,,65a055bd,False
+254,,GER2,Werder B. - Regensburg,GOALS_H1,1.5,1.9,,2022-05-15 14:30:00,1.84,1.899,0.05,,879b417c,False
+255,,POL2,Polkowice - Resovia,GOALS,3.5,3.7,,2022-05-16 17:00:00,3.37,3.698,0.05,,c029989e,False
+256,,GER2,Darmstadt - Paderborn,AWAY_GOALS,-1.5,1.55,,2022-05-15 14:30:00,1.51,1.55,0.0,,005f367b,True
+257,,JPN,Sagan Tosu - Kawasaki Frontale,1X2,1.0,3.4,,2022-05-21 09:00:00,3.26,3.402,-0.06,,91419b28,False
+258,,MLS,Philadelphia U. - Inter Miami,GOALS_H1,-1.5,1.5,,2022-05-19 00:30:00,1.433,1.501,-0.07,,fd364f8d,True
+259,,NED,Heerenveen - G.A. Eagles,GOALS,-4.5,1.22,,2022-05-15 13:30:00,1.193,1.221,-0.08,,ce9baf2d,False
+260,,NED,AZ Alkmaar - Waalwijk,HOME_GOALS,-2.5,2.1,,2022-05-15 13:30:00,2.02,2.102,-0.1,,f1df5a49,False
+261,,SUI,Servette - Basel,1X2,2.0,2.03,,2022-05-19 19:30:00,1.971,2.032,-0.1,,2e3dede9,False
+262,,ENG,Aston Villa - Crystal Palace,GOALS,-2.5,1.88,,2022-05-15 14:00:00,1.833,1.882,-0.11,,0f29cda5,False
+263,,ENG,Wolverhampton - Norwich,GOALS,2.5,1.88,,2022-05-15 14:00:00,1.826,1.883,-0.16,,c76487a1,False
+264,,IRE,St. Patrick's Athletic - Shelbourne,1X2,1.0,1.8,,2022-05-20 19:45:00,1.741,1.803,-0.17,,82cefbdb,False
+265,,ITA,Cagliari - Inter M.,AWAY_GOALS,-2.5,1.65,,2022-05-15 19:45:00,1.613,1.653,-0.18,,1973f27c,False
+266,,NED,NEC - Fortuna S.,CORNERS,-10.5,1.7,,2022-05-15 13:30:00,1.61,1.703,-0.18,,af67808d,False
+267,,ENG,Leeds - Brighton,1X2,2.0,2.7,,2022-05-15 14:00:00,2.65,2.705,-0.18,,210cc0d3,False
+268,,NED,Zwolle - PSV,GOALS,3.5,1.95,,2022-05-15 13:30:00,1.901,1.954,-0.2,,06ebe7e5,False
+269,,JPN2,Tokushima Vortis - Tochigi,GOALS,-2.5,1.4,,2022-05-21 06:00:00,1.341,1.403,-0.21,,22b837ad,False
+270,,ITA,AC Milan - Atalanta,1X2,1.0,1.85,,2022-05-15 17:00:00,1.826,1.854,-0.22,,03a8474e,False
+271,,HUN,Kisvarda - Zalaegerszeg,AWAY_HANDI,1.5,1.37,,2022-05-15 15:00:00,1.331,1.374,-0.29,,33a5ce12,False
+272,,SUI,Luzern - Young Boys,GOALS,-3.5,1.7,,2022-05-19 19:30:00,1.641,1.705,-0.29,,7f2429e5,False
+273,,ENG,Leeds - Brighton,YELLOW,3.5,1.67,,,1.571,1.675,-0.3,,fdb2ff02,False
+274,,IRE,UC Dublin - Shamrock Rovers,1X2,2.0,1.16,,2022-05-19 19:45:00,1.144,1.164,-0.34,,79e9119c,False
+275,,GER2,St.Pauli - Dusseldorf,AWAY_GOALS,-1.5,1.93,,2022-05-15 14:30:00,1.877,1.937,-0.36,,5ba57aab,False
+276,,ESP,Betis - Granada,1X2,1.0,1.57,,2022-05-15 18:30:00,1.556,1.576,-0.38,,0c47bfc5,True
+277,,GER2,Nurnberg - Schalke 04,HOME_GOALS,-1.5,1.85,,2022-05-15 14:30:00,1.8,1.857,-0.38,,57c7facd,False
+278,,TUR,Giresunspor - Basaksehir FK,1X2,2.0,1.92,,2022-05-15 17:00:00,1.893,1.928,-0.41,,04143fa2,False
+279,,ENG,Chelsea - Leicester,1X2,1.0,1.37,,2022-05-19 20:00:00,1.341,1.376,-0.44,,16723c01,False
+280,,ENG,Aston Villa - Burnley,AWAY_HANDI,1.5,1.35,,2022-05-19 20:00:00,1.31,1.356,-0.44,,6240c55c,False
+281,,IRE,Derry City - Dundalk,GOALS,1.5,1.33,,2022-05-20 19:45:00,1.294,1.336,-0.45,,4800865c,False
+282,,POL2,Polkowice - Resovia,GOALS_H1,0.5,1.45,,2022-05-16 17:00:00,1.408,1.457,-0.48,,ab35b212,True
+283,,NED,NEC - Fortuna S.,1X2,1.0,2.05,,2022-05-15 13:30:00,2.02,2.06,-0.49,,a9339303,False
+284,,POR,Famalicao - Braga,GOALS,-1.5,4.5,,2022-05-15 18:00:00,4.16,4.522,-0.49,,f24ba032,False
+285,,POL,Radomiak - W.Kraków,GOALS,-3.5,1.4,,2022-05-15 16:30:00,1.37,1.407,-0.5,,9c545f37,True
+286,,SWE2,Orgryte IS - Trelleborgs FF,GOALS,-3.5,1.4,,2022-05-18 18:00:00,1.357,1.407,-0.5,,c5684735,False
+287,,ENG,Wolverhampton - Norwich,HOME_HANDI,-1.5,2.35,,2022-05-15 14:00:00,2.28,2.362,-0.51,,851ec888,False
+288,,BRA,Sao Paulo SP - Cuiaba MT,CORNERS_H1,4.5,1.95,,2022-05-15 20:00:00,1.862,1.96,-0.51,,e9194d3e,False
+289,,ESP2,Mirandes - Ibiza,1X2,1.0,1.92,,2022-05-15 15:00:00,1.893,1.93,-0.52,,02bf8f42,False
+290,,MLS,Vancouver - Dallas,GOALS,-3.5,1.33,,2022-05-19 03:00:00,1.299,1.337,-0.52,,9ad683bb,False
+291,,ENG,Everton - Crystal Palace,HOME_GOALS,-1.5,1.7,,2022-05-19 19:45:00,1.637,1.709,-0.53,,9e7b4d03,False
+292,,ITA,Sampdoria - Fiorentina,1X2,2.0,1.85,,2022-05-16 17:30:00,1.833,1.86,-0.54,,aaba8a9b,False
+293,,MLS,Philadelphia U. - Inter Miami,1X2,1.0,1.42,,2022-05-19 00:30:00,1.398,1.428,-0.56,,7138bb88,True
+294,,TUR,Trabzonspor - Altay Izmir,1X2,1.0,1.42,,2022-05-15 14:00:00,1.407,1.428,-0.56,,95f1ec94,False
+295,,GER2,Dyn.Drezno - Aue,AWAY_HANDI,1.5,1.4,,2022-05-15 14:30:00,1.376,1.408,-0.57,,d7b9806b,False
+296,,POR,Guimaraes - Gil Vicente,CORNERS_H1,4.5,1.85,,2022-05-15 20:30:00,1.763,1.861,-0.59,,bdeb59d0,False
+297,,POL,Radomiak - W.Kraków,CORNERS,-10.5,1.85,,,1.763,1.861,-0.59,,e871faa3,False
+298,,POL2,Nowy Sącz - Głogów,1X2,1.0,1.95,,2022-05-15 14:00:00,1.917,1.962,-0.61,,e1fa058c,False
+299,,JPN2,Zwiegen Kanazawa - Montedio Yamagata,GOALS,2.5,2.25,,2022-05-21 06:00:00,2.15,2.264,-0.62,,04e70ecc,False
+300,,JPN,Cerezo Osaka - Gamba Osaka,GOALS,2.5,2.1,,2022-05-21 06:00:00,2.04,2.113,-0.62,,009128c6,False
+301,,POL2,Polkowice - Resovia,1X2_H1,2.0,3.4,,2022-05-16 17:00:00,3.24,3.422,-0.64,,e292ea7f,False
+302,,ESP2,Mirandes - Ibiza,GOALS,-3.5,1.4,,2022-05-15 15:00:00,1.372,1.409,-0.64,,a15b7a33,True
+303,,NED,Vitesse - Ajax,AWAY_GOALS,-2.5,1.8,,2022-05-15 13:30:00,1.758,1.812,-0.66,,379934e5,False
+304,,GER2,Darmstadt - Paderborn,GOALS,-4.5,1.5,,2022-05-15 14:30:00,1.467,1.51,-0.66,,058e2b28,True
+305,,POR,Famalicao - Braga,AWAY_GOALS,-1.5,1.8,,2022-05-15 18:00:00,1.758,1.812,-0.66,,38cd37b2,False
+306,,NED,NEC - Fortuna S.,CORNERS,-9.5,2.1,,2022-05-15 13:30:00,2.0,2.114,-0.66,,5914ce36,False
+307,,MLS,Philadelphia U. - Inter Miami,GOALS,-4.5,1.18,,2022-05-19 00:30:00,1.156,1.188,-0.67,,e390627c,False
+308,,SUI,Grasshoppers - St. Gallen,HOME_HANDI,-1.5,3.5,,2022-05-19 19:30:00,3.25,3.524,-0.68,,1e445165,False
+309,,CHI,Coquimbo Unido - Union Espanola,GOALS,-2.5,1.85,,2022-05-21 00:00:00,1.781,1.863,-0.7,,be68a0a9,False
+310,,MLS,Atlanta Utd - New England,GOALS,-3.5,1.55,,2022-05-15 18:30:00,1.515,1.561,-0.7,,e88bd6ac,False
+311,,SUI,Grasshoppers - St. Gallen,1X2,1.0,2.0,,2022-05-19 19:30:00,1.952,2.014,-0.7,,489270e0,False
+312,,ENG,Wolverhampton - Norwich,GOALS_H1,0.5,1.4,,2022-05-15 14:00:00,1.377,1.41,-0.71,,4903cf6c,True
+313,,ENG,Everton - Crystal Palace,GOALS,-1.5,3.5,,2022-05-19 19:45:00,3.2,3.525,-0.71,,7476d5d8,False
+314,,BIH,Sloboda Tuzla - Borac Banja Luka,1X2,0.5,3.0,,2022-05-15 14:00:00,2.84,3.022,-0.73,,9ab1f5ed,False
+315,,SWE,Goteborg - Varbergs,AWAY_HANDI,1.5,1.35,,2022-05-15 16:30:00,1.33,1.36,-0.74,,857f4308,False
+316,,GER2,Sandhausen - Holstein Kiel,HOME_GOALS,-1.5,1.85,,2022-05-15 14:30:00,1.806,1.864,-0.75,,6ce43d3d,False
+317,,BRA2,Nautico PE - CSA AL,GOALS,2.5,2.35,,2022-05-20 01:30:00,2.24,2.368,-0.76,,70ffa7cd,False
+318,,BRA2,Guarani SP - Vasco Da Gama RJ,GOALS,-3.5,1.18,,2022-05-20 01:30:00,1.154,1.189,-0.76,,98f14628,False
+319,,TUR,Trabzonspor - Altay Izmir,CORNERS_H1,4.5,1.95,,2022-05-15 14:00:00,1.862,1.965,-0.76,,929a68fb,False
+320,,LE,Eintracht F. - Rangers,GOALS_H1,-1.5,1.42,,2022-05-18 20:00:00,1.392,1.431,-0.77,,645fac6d,False
+321,,MLS,Seattle - Minnesota Utd,GOALS,-4.5,1.16,,2022-05-15 21:00:00,1.144,1.169,-0.77,,b65c2c14,False
+322,,ENG,Everton - Crystal Palace,GOALS_H1,-1.5,1.4,,2022-05-19 19:45:00,1.361,1.411,-0.78,,c339d802,False
+323,,ESP,Celta - Elche,1X2,1.0,1.5,,2022-05-15 18:30:00,1.488,1.512,-0.79,,8a4e767d,True
+324,,ITA,Napoli - Genoa,1X2,1.0,1.73,,2022-05-15 14:00:00,1.719,1.744,-0.8,,6bd484be,True
+325,,MLS,NY Red Bulls - Chicago Fire,GOALS,1.5,1.33,,2022-05-19 00:30:00,1.303,1.341,-0.82,,93f1f378,True
+326,,ENG,Aston Villa - Crystal Palace,GOALS,-3.5,1.33,,2022-05-15 14:00:00,1.307,1.341,-0.82,,0f29cda5,True
+327,,BRA,Sao Paulo SP - Cuiaba MT,GOALS,1.5,1.45,,2022-05-15 20:00:00,1.417,1.462,-0.82,,57a45792,False
+328,,KEN,Nairobi City Stars - Tusker,1X2,0.5,3.1,,2022-05-15 13:00:00,2.89,3.126,-0.83,,5de5880d,False
+329,,NED,Heerenveen - G.A. Eagles,AWAY_HANDI,1.5,1.43,,2022-05-15 13:30:00,1.407,1.442,-0.83,,088a25f6,False
+330,,NED,Zwolle - PSV,CORNERS,9.5,1.8,,2022-05-15 13:30:00,1.73,1.815,-0.83,,e2eed002,False
+331,,SUI,Servette - Basel,GOALS,-3.5,1.65,,2022-05-19 19:30:00,1.602,1.664,-0.84,,a4331960,False
+332,,TUR,C.Rizespor - Sivasspor,CORNERS,-10.5,1.53,,2022-05-16 18:00:00,1.45,1.543,-0.84,,8b47f359,False
+333,,LAT,Auda - Rigas FS,1X2,2.0,1.42,,2022-05-15 12:00:00,1.351,1.432,-0.84,,1cb42b3a,False
+334,,ENG,Leeds - Brighton,HOME_GOALS,-1.5,1.65,,2022-05-15 14:00:00,1.625,1.664,-0.84,,ad72d857,True
+335,,JPN,Shonan Bellmare - Vissel Kobe,1X2,1.0,2.8,,2022-05-21 07:00:00,2.74,2.824,-0.85,,47be3f70,False
+336,,ENG,Aston Villa - Burnley,1X2,1.0,1.87,,2022-05-19 20:00:00,1.826,1.886,-0.85,,045d78c8,False
+337,,JPN2,Mito Hollyhock - Iwate Grulla Morioka,GOALS,-3.5,1.28,,2022-05-21 08:00:00,1.256,1.291,-0.85,,48daedd1,False
+338,,ENG,Aston Villa - Crystal Palace,1X2,2.0,3.7,,2022-05-15 14:00:00,3.61,3.732,-0.86,,04a88e08,False
+339,,ESP,Mallorca - Rayo Vallecano,AWAY_HANDI,1.5,1.37,,2022-05-15 18:30:00,1.355,1.382,-0.87,,4ea6416a,False
+340,,GER2,Hannover - Ingolstadt,1X2,1.0,1.7,,2022-05-15 14:30:00,1.685,1.715,-0.87,,224744ca,False
+341,,NOR,Kristiansund - Stromsgodset,HOME_GOALS,1.5,2.05,,2022-05-16 17:00:00,2.0,2.068,-0.87,,0fc32675,False
+342,,SUI,Grasshoppers - St. Gallen,AWAY_GOALS,-1.5,1.6,,2022-05-19 19:30:00,1.549,1.614,-0.87,,e3918c70,False
+343,,GERCUP,SC Freiburg - RB Lipsk,AWAY_GOALS,-1.5,1.9,,2022-05-21 19:00:00,1.84,1.917,-0.89,,c44f0f87,False
+344,,ENG,Leeds - Brighton,GOALS,-1.5,4.2,,2022-05-15 14:00:00,3.95,4.238,-0.9,,5c9151b5,False
+345,,NED,AZ Alkmaar - Waalwijk,GOALS,-4.5,1.42,,2022-05-15 13:30:00,1.391,1.433,-0.91,,d19b618e,True
+346,,IRE,Derry City - Dundalk,GOALS_H1,0.5,1.42,,2022-05-20 19:45:00,1.391,1.433,-0.91,,98820844,False
+347,,ESP,Atl.Madryt - Sevilla,1X2,1.0,2.28,,2022-05-15 18:30:00,2.26,2.301,-0.91,,c06ac1e0,False
+348,,SWE2,AFC Eskilstuna - Norrby IF,1X2,1.0,2.7,,2022-05-19 18:00:00,2.62,2.725,-0.92,,70a7b1b1,False
+349,,SWE,Norrkoping - GIF Sundsvall,AWAY_HANDI,2.5,1.4,,2022-05-15 16:30:00,1.376,1.413,-0.92,,67dc557a,False
+350,,ITA,Bologna - Sassuolo,GOALS,-4.5,1.4,,2022-05-15 11:30:00,1.375,1.413,-0.92,,d3e7a46c,False
+351,,JPN2,Zwiegen Kanazawa - Montedio Yamagata,GOALS_H1,0.5,1.5,,2022-05-21 06:00:00,1.461,1.514,-0.92,,7820261e,False
+352,,IRE,Drogheda Utd - Finn Harps,GOALS,-3.5,1.28,,2022-05-20 19:45:00,1.243,1.292,-0.93,,e8d94c2e,False
+353,,NED,Feyenoord - Twente Enschede,GOALS,3.5,2.0,,2022-05-15 13:30:00,1.962,2.019,-0.94,,e86185ac,False
+354,,SUI,Lugano - Zurich,HOME_GOALS,-1.5,1.9,,2022-05-19 19:30:00,1.826,1.918,-0.94,,28d005d9,False
+355,,KOR,Seoul - Pohang Steelers,GOALS,-3.5,1.25,,2022-05-15 11:00:00,1.233,1.262,-0.95,,cc6dc29f,True
+356,,ENG,Newcastle - Arsenal,1X2,2.0,1.88,,2022-05-16 20:00:00,1.87,1.898,-0.95,,131a0d5e,False
+357,,BRA,Coritiba PR - America MG,CORNERS,10.5,2.2,,2022-05-15 21:30:00,2.09,2.221,-0.95,,ea3b1375,False
+358,,SUI,Lausanne - Sion,GOALS,-4.5,1.25,,2022-05-19 19:30:00,1.222,1.262,-0.95,,dc9974d1,False
+359,,ENG,West Ham - Manchester City,1X2,2.0,1.45,,2022-05-15 14:00:00,1.446,1.464,-0.96,,affd2dfb,True
+360,,MLS,Houston - Seattle,GOALS,-4.5,1.14,,2022-05-19 01:30:00,1.125,1.151,-0.96,,4cade3d5,False
+361,,NED,Groningen - Cambuur,CORNERS_H1,4.5,1.95,,2022-05-15 13:30:00,1.87,1.969,-0.96,,d55c5786,False
+362,,SUI,Servette - Basel,HOME_GOALS,-1.5,1.62,,2022-05-19 19:30:00,1.568,1.636,-0.98,,9527a38c,False
+363,,POL2,Nowy Sącz - Głogów,GOALS,-1.5,3.5,,2022-05-15 14:00:00,3.28,3.535,-0.99,,4f717b3d,False
+364,,ESP,Levante - Alaves,HOME_GOALS,-1.5,1.7,,2022-05-15 18:30:00,1.667,1.717,-0.99,,f50ead4d,False
+365,,ENG,Wolverhampton - Norwich,YELLOW,3.5,2.4,,,2.22,2.424,-0.99,,90735434,False
+366,,NOR,Odd BK - Haugesund,GOALS,-4.5,1.18,,2022-05-16 17:00:00,1.166,1.192,-1.01,,fc975884,False
+367,,NOR,Kristiansund - Stromsgodset,GOALS,2.5,1.75,,2022-05-16 17:00:00,1.719,1.768,-1.02,,63e40f2e,False
+368,,FIN,Ilves - Mariehamn,GOALS,-4.5,1.14,,2022-05-15 13:00:00,1.128,1.152,-1.04,,5f4ef1f0,False
+369,,SWE,Degerfors - Helsingborg,GOALS,-4.5,1.14,,2022-05-15 16:30:00,1.129,1.152,-1.04,,39f2fa71,False
+370,,POL,Radomiak - W.Kraków,GOALS,-4.5,1.14,,2022-05-15 16:30:00,1.129,1.152,-1.04,,9c545f37,False
+371,,SWE,Hacken - Kalmar FF,CORNERS_H1,-5.5,1.6,,2022-05-15 14:00:00,1.538,1.617,-1.05,,cf203c87,False
+372,,FIN,Ilves - Mariehamn,GOALS_H1,0.5,1.4,,2022-05-15 13:00:00,1.382,1.415,-1.06,,5acdc934,True
+373,,ESP,Villarreal - Sociedad,1X2,1.0,2.12,,2022-05-15 18:30:00,2.11,2.143,-1.07,,6b58c422,False
+374,,NOR,Viking - Jerv,AWAY_HANDI,2.5,1.55,,2022-05-16 17:00:00,1.526,1.567,-1.08,,4369b6b3,False
+375,,BRA,Avai SC - Juventude RS,1X2,1.0,2.47,,2022-05-15 22:00:00,2.43,2.497,-1.08,,36638827,False
+376,,POL2,Polkowice - Resovia,GOALS,1.5,1.35,,2022-05-16 17:00:00,1.317,1.365,-1.1,,c029989e,False
+377,,NOR,Valerenga - Ham Kam,GOALS,1.5,1.25,,2022-05-16 19:00:00,1.234,1.264,-1.11,,3750e81c,False
+378,,SUI,Lugano - Zurich,AWAY_GOALS,-1.5,1.7,,2022-05-19 19:30:00,1.645,1.719,-1.11,,3f4486c3,False
+379,,MLS,Seattle - Minnesota Utd,GOALS,-3.5,1.42,,2022-05-15 21:00:00,1.397,1.436,-1.11,,b6a26682,True
+380,,ENG,Tottenham - Burnley,HOME_GOALS,-2.5,1.7,,2022-05-15 12:00:00,1.676,1.719,-1.11,,7570ab8d,False
+381,,TUR,Giresunspor - Basaksehir FK,CORNERS_H1,4.5,2.2,,2022-05-15 17:00:00,2.09,2.225,-1.12,,094ebbfb,False
+382,,NOR,Lillestrom - Sarpsborg,1X2,1.0,1.95,,2022-05-16 17:00:00,1.935,1.972,-1.12,,efe74060,False
+383,,POR2,Rio Ave - Chaves,GOALS,-1.5,3.4,,2022-05-15 11:00:00,3.2,3.439,-1.13,,3244fe8d,False
+384,,ESP2,Oviedo - Zaragoza,GOALS,-3.5,1.22,,2022-05-16 20:00:00,1.199,1.234,-1.13,,a5af8536,False
+385,,SWE,Degerfors - Helsingborg,HOME_GOALS,-1.5,1.8,,2022-05-15 16:30:00,1.769,1.821,-1.15,,b3f80e07,False
+386,,TUR,Alanyaspor - Gaziantep,1X2,1.0,1.55,,2022-05-15 17:00:00,1.543,1.568,-1.15,,98fcb3c0,True
+387,,SUI,Luzern - Young Boys,1X2,2.0,2.05,,2022-05-19 19:30:00,2.01,2.074,-1.16,,ed35aee0,False
+388,,JPN,Shimizu S-Pulse - Nagoya Grampus,1X2,2.0,2.45,,2022-05-21 06:00:00,2.41,2.479,-1.17,,edde261d,False
+389,,ESP,Levante - Alaves,GOALS,-3.5,1.52,,2022-05-15 18:30:00,1.493,1.538,-1.17,,c9cf88f9,True
+390,,ESP,Mallorca - Rayo Vallecano,1X2,1.0,1.78,,2022-05-15 18:30:00,1.775,1.801,-1.17,,662a51f2,False
+391,,BRA,Botafogo RJ - Fortaleza CE,CORNERS_H1,4.5,1.85,,2022-05-15 22:00:00,1.775,1.872,-1.18,,d16b2bb6,False
+392,,MLS,Atlanta Utd - New England,GOALS,-1.5,5.0,,2022-05-15 18:30:00,4.61,5.06,-1.19,,ad47ac5c,False
+393,,NOR,Valerenga - Ham Kam,GOALS,2.5,1.75,,2022-05-16 19:00:00,1.719,1.771,-1.19,,3750e81c,False
+394,,NOR2,Fredrikstad - Skeid,GOALS,-4.5,1.25,,2022-05-16 17:00:00,1.225,1.265,-1.19,,b1458b77,False
+395,,GERCUP,SC Freiburg - RB Lipsk,1X2,1.0,4.0,,2022-05-21 19:00:00,3.84,4.048,-1.19,,127aa553,False
+396,,ESP,Bilbao - Osasuna,AWAY_HANDI,1.5,1.47,,2022-05-15 18:30:00,1.461,1.488,-1.21,,a19ba28c,False
+397,,GER2,Werder B. - Regensburg,GOALS,-5.5,1.22,,2022-05-15 14:30:00,1.203,1.235,-1.21,,7ed7854f,True
+398,,ENG,Watford - Leicester,GOALS,-3.5,1.47,,2022-05-15 14:00:00,1.446,1.488,-1.21,,376147cd,True
+399,,ESP2,Mirandes - Ibiza,GOALS,-4.5,1.14,,2022-05-15 15:00:00,1.13,1.154,-1.21,,a15b7a33,False
+400,,NOR,Odd BK - Haugesund,GOALS,-3.5,1.47,,2022-05-16 17:00:00,1.446,1.488,-1.21,,fc975884,True
+401,,GER2,St.Pauli - Dusseldorf,1X2,2.0,2.6,,2022-05-15 14:30:00,2.57,2.632,-1.22,,a7f6a72c,False
+402,,SWE2,Orgryte IS - Trelleborgs FF,GOALS,-1.5,4.0,,2022-05-18 18:00:00,3.66,4.05,-1.23,,32f03a1c,False
+403,,NOR,Viking - Jerv,GOALS,3.5,2.15,,2022-05-16 17:00:00,2.09,2.177,-1.24,,34b2dd3a,False
+404,,POL2,ŁKS Łódź - Opole,GOALS,-3.5,1.35,,2022-05-15 17:00:00,1.328,1.367,-1.24,,e6ab1c0b,False
+405,,MLS,Minnesota Utd - LA Galaxy,1X2,2.0,3.0,,2022-05-19 01:00:00,2.94,3.038,-1.25,,7f5de892,False
+406,,JPN,Urawa Red Diamonds - Yokohama F. Marinos,GOALS,2.5,1.9,,2022-05-18 11:30:00,1.862,1.924,-1.25,,977d98a5,False
+407,,BRA,Coritiba PR - America MG,GOALS_H1,0.5,1.5,,2022-05-15 21:30:00,1.476,1.519,-1.25,,45284312,False
+408,,MLS,D.C. United - New York City,GOALS,-4.5,1.18,,2022-05-19 00:30:00,1.166,1.195,-1.26,,513cc7ff,False
+409,,JPN2,Tokushima Vortis - Tochigi,GOALS,-1.5,2.25,,2022-05-21 06:00:00,2.13,2.279,-1.27,,79de587f,False
+410,,TUR,C.Rizespor - Sivasspor,GOALS_H1,0.5,1.4,,2022-05-16 18:00:00,1.385,1.418,-1.27,,00e1334e,True
+411,,BRA2,Vasco Da Gama RJ - Bahia BA,GOALS,-3.5,1.16,,2022-05-15 20:00:00,1.141,1.175,-1.28,,169646d1,False
+412,,ARG2,CA Temperley - CA Guemes,GOALS,-3.5,1.16,,2022-05-15 19:30:00,1.141,1.175,-1.28,,e1977620,False
+413,,MLS,Philadelphia U. - Inter Miami,GOALS,-1.5,4.4,,2022-05-19 00:30:00,4.03,4.457,-1.28,,b7061f82,False
+414,,NED,Willem II - Utrecht,GOALS,3.5,2.4,,2022-05-15 13:30:00,2.34,2.431,-1.28,,72975814,False
+415,,POL,Górnik Z. - Łęczna,GOALS,2.5,1.67,,2022-05-15 14:00:00,1.645,1.692,-1.3,,231128f9,False
+416,,POL,Mielec - Śląsk,HOME_GOALS,-1.5,1.52,,2022-05-15 11:30:00,1.5,1.54,-1.3,,818d7921,True
+417,,JPN,Cerezo Osaka - Gamba Osaka,GOALS,1.5,1.36,,2022-05-21 06:00:00,1.338,1.378,-1.31,,75b7a848,False
+418,,ENG,Leeds - Brighton,GOALS,-3.5,1.42,,2022-05-15 14:00:00,1.405,1.439,-1.32,,5c9151b5,False
+419,,ENG,Aston Villa - Burnley,GOALS,-3.5,1.35,,2022-05-19 20:00:00,1.316,1.368,-1.32,,32294f10,False
+420,,JPN,FC Tokyo - Kashiwa Reysol,GOALS,-2.5,1.65,,2022-05-21 07:00:00,1.613,1.672,-1.32,,f1035103,False
+421,,MLS,Seattle - Minnesota Utd,CORNERS_H1,4.5,1.85,,2022-05-15 21:00:00,1.781,1.875,-1.33,,d029daf6,False
+422,,SWE,Hammarby - AIK,CORNERS,-10.5,1.85,,2022-05-15 14:00:00,1.735,1.875,-1.33,,d3a9fd62,False
+423,,TUR,Fenerbahce - F.Karagumruk,AWAY_HANDI,1.5,1.7,,2022-05-15 17:00:00,1.68,1.723,-1.33,,0a3d27ec,False
+424,,TUR,Goztepe SK - Besiktas,CORNERS_H1,4.5,2.0,,2022-05-15 14:00:00,1.926,2.027,-1.33,,446fbd72,False
+425,,NED,NEC - Fortuna S.,GOALS,1.5,1.18,,2022-05-15 13:30:00,1.17,1.196,-1.34,,e475f82b,False
+426,,BRA2,Ituano SP - Gremio RS,GOALS,-3.5,1.18,,2022-05-17 00:00:00,1.161,1.196,-1.34,,342b7c5b,False
+427,,NED,AZ Alkmaar - Waalwijk,CORNERS,8.5,1.65,,2022-05-15 13:30:00,1.562,1.673,-1.37,,fd3d7de6,True
+428,,SWE2,Orgryte IS - Trelleborgs FF,GOALS,-2.5,2.0,,2022-05-18 18:00:00,1.943,2.028,-1.38,,501b98ff,False
+429,,GER2,Nurnberg - Schalke 04,GOALS,-4.5,1.35,,2022-05-15 14:30:00,1.334,1.369,-1.39,,4cb46d4c,False
+430,,TUR,Fenerbahce - F.Karagumruk,1X2,1.0,1.48,,2022-05-15 17:00:00,1.478,1.501,-1.4,,1484e408,True
+431,,GER2,Hannover - Ingolstadt,GOALS,2.5,1.55,,2022-05-15 14:30:00,1.526,1.572,-1.4,,9e89a434,False
+432,,GER2,Heidenheim - Karlsruher,AWAY_GOALS,-1.5,1.62,,2022-05-15 14:30:00,1.599,1.643,-1.4,,599fde7a,True
+433,,IRE,Drogheda Utd - Finn Harps,GOALS,-2.5,1.75,,2022-05-20 19:45:00,1.69,1.775,-1.41,,0f6a2a63,False
+434,,ESP,Atl.Madryt - Sevilla,1X2,0.5,3.05,,2022-05-15 18:30:00,3.02,3.094,-1.42,,c06ac1e0,False
+435,,SLO,Koper - Radomlje,1X2,1.0,1.53,,2022-05-16 16:30:00,1.503,1.552,-1.42,,5d8aba0f,True
+436,,ENG,Tottenham - Burnley,HOME_HANDI,-2.5,3.45,,2022-05-15 12:00:00,3.33,3.5,-1.43,,d4f9a0ab,False
+437,,ESP2,Oviedo - Zaragoza,GOALS_H1,0.5,1.52,,2022-05-16 20:00:00,1.493,1.542,-1.43,,dffef51d,True
+438,,MLS,San Jose Earthquakes - Portland T.,GOALS,2.5,1.65,,2022-05-19 03:30:00,1.621,1.674,-1.43,,3f3a143d,False
+439,,TUR,Goztepe SK - Besiktas,AWAY_GOALS,-2.5,1.57,,2022-05-15 14:00:00,1.552,1.593,-1.44,,b7472168,False
+440,,NOR,Lillestrom - Sarpsborg,HOME_HANDI,-1.5,3.5,,2022-05-16 17:00:00,3.35,3.551,-1.44,,c49be4c4,False
+441,,HUN,MTK - Debrecen,1X2,1.0,1.63,,2022-05-15 15:00:00,1.61,1.654,-1.45,,eb965608,False
+442,,SWE2,Landskrona Bois - Brommapojkarna,GOALS_H1,-1.5,1.5,,2022-05-15 12:00:00,1.478,1.522,-1.45,,5ae1ae25,True
+443,,IRE,UC Dublin - Shamrock Rovers,GOALS,1.5,1.22,,2022-05-19 19:45:00,1.199,1.238,-1.45,,f264d980,False
+444,,ENG,Southampton - Liverpool,1X2,2.0,1.5,,2022-05-17 19:45:00,1.498,1.522,-1.45,,a1194c3b,True
+445,,TUR,Konyaspor - Hatayspor,1X2,1.0,1.5,,2022-05-15 17:00:00,1.498,1.522,-1.45,,1d5c8f24,True
+446,,POL,Mielec - Śląsk,GOALS,-1.5,3.6,,2022-05-15 11:30:00,3.41,3.653,-1.45,,e433de28,False
+447,,CHI,Curico Unido - Audax Italiano,1X2,0.5,3.5,,2022-05-17 01:30:00,3.37,3.552,-1.46,,5d98c1a2,False
+448,,ESP,Villarreal - Sociedad,GOALS_H1,0.5,1.42,,2022-05-15 18:30:00,1.412,1.441,-1.46,,79f7a8c1,True
+449,,SWE2,Ostersunds FK - IK Brage,GOALS,-4.5,1.14,,2022-05-15 14:00:00,1.13,1.157,-1.47,,0def4895,False
+450,,ENG,Aston Villa - Crystal Palace,GOALS_H1,-1.5,1.4,,2022-05-15 14:00:00,1.388,1.421,-1.48,,d5e01f69,False
+451,,POL2,Legnica - Widzew Ł.,HOME_GOALS,-1.5,1.6,,2022-05-15 11:40:00,1.575,1.624,-1.48,,7e3b227f,True
+452,,SWE2,AFC Eskilstuna - Norrby IF,GOALS,3.5,3.0,,2022-05-19 18:00:00,2.82,3.045,-1.48,,ed4faf7d,False
+453,,NOR,Lillestrom - Sarpsborg,HOME_GOALS,1.5,1.93,,2022-05-16 17:00:00,1.893,1.959,-1.48,,853fa446,False
+454,,ENG,Tottenham - Burnley,GOALS,2.5,1.65,,2022-05-15 12:00:00,1.637,1.675,-1.49,,569b19c9,False
+455,,JPN2,Mito Hollyhock - Iwate Grulla Morioka,GOALS,-1.5,3.25,,2022-05-21 08:00:00,3.08,3.299,-1.49,,f58eb870,False
+456,,ENG,Everton - Brentford,GOALS,-3.5,1.32,,2022-05-15 16:30:00,1.31,1.34,-1.49,,64c2cd64,False
+457,,BRA2,CRB AL - Londrina PR,GOALS,-3.5,1.18,,2022-05-19 01:30:00,1.162,1.198,-1.5,,f5fabd5f,False
+458,,ESP,Mallorca - Rayo Vallecano,GOALS,-2.5,1.7,,2022-05-15 18:30:00,1.685,1.726,-1.51,,e8373f04,False
+459,,JPN2,Albirex Niigata - Yokohama,GOALS,-2.5,1.7,,2022-05-21 06:00:00,1.658,1.726,-1.51,,0cedd485,False
+460,,GERCUP,SC Freiburg - RB Lipsk,GOALS,-3.5,1.37,,2022-05-21 19:00:00,1.346,1.391,-1.51,,b3123f8d,False
+461,,ARG2,Estudiantes Rio Cuarto - San Telmo,1X2,0.5,3.3,,2022-05-15 20:30:00,3.18,3.351,-1.52,,b567883b,False
+462,,GER2,Heidenheim - Karlsruher,1X2,1.0,1.95,,2022-05-15 14:30:00,1.943,1.98,-1.52,,1766fb48,False
+463,,KOR,Suwon Bluewings - Gimcheon Sangmu,GOALS,1.5,1.42,,2022-05-17 11:00:00,1.403,1.442,-1.53,,aa73ea54,False
+464,,KOR,Seoul - Seongnam,GOALS,-3.5,1.22,,2022-05-21 08:30:00,1.203,1.239,-1.53,,f3b5e1a3,False
+465,,ITA,Sampdoria - Fiorentina,AWAY_GOALS,1.5,1.8,,2022-05-16 17:30:00,1.781,1.828,-1.53,,30257a1e,False
+466,,KOR,Seongnam - Suwon FC,GOALS,-3.5,1.22,,2022-05-18 11:30:00,1.207,1.239,-1.53,,510c35dc,False
+467,,SUI,Lugano - Zurich,GOALS,-4.5,1.22,,2022-05-19 19:30:00,1.2,1.239,-1.53,,00ac833a,False
+468,,TUR,Giresunspor - Basaksehir FK,AWAY_GOALS,1.5,2.05,,2022-05-15 17:00:00,2.01,2.082,-1.54,,177893b8,False
+469,,BRA,Coritiba PR - America MG,HOME_GOALS,1.5,2.5,,2022-05-15 21:30:00,2.42,2.539,-1.54,,8b63437c,False
+470,,BRA,Goias GO - Santos SP,CORNERS,-9.5,2.3,,2022-05-15 23:00:00,2.17,2.336,-1.54,,8b58c15c,False
+471,,ITA,Bologna - Sassuolo,AWAY_GOALS,-1.5,2.05,,2022-05-15 11:30:00,2.01,2.082,-1.54,,5677f0fc,False
+472,,NED,Vitesse - Ajax,GOALS_H1,1.5,2.1,,2022-05-15 13:30:00,2.07,2.133,-1.55,,5089d470,False
+473,,BRA,Sao Paulo SP - Cuiaba MT,GOALS_H1,0.5,1.52,,2022-05-15 20:00:00,1.5,1.544,-1.55,,24eca1e0,True
+474,,POR2,Varzim - Mafra,GOALS,1.5,1.33,,2022-05-15 15:30:00,1.312,1.351,-1.55,,db690b57,False
+475,,GER2,Nurnberg - Schalke 04,GOALS,-1.5,7.0,,2022-05-15 14:30:00,6.28,7.111,-1.56,,4cb46d4c,False
+476,,ENG,Chelsea - Leicester,GOALS,2.5,1.7,,2022-05-19 20:00:00,1.654,1.727,-1.56,,c7160e8b,False
+477,,ENG,Everton - Crystal Palace,GOALS,-2.5,1.83,,2022-05-19 19:45:00,1.775,1.859,-1.56,,7476d5d8,False
+478,,NED,Zwolle - PSV,HOME_GOALS,1.5,3.0,,2022-05-15 13:30:00,2.9,3.048,-1.57,,3730e87e,False
+479,,GERCUP,SC Freiburg - RB Lipsk,HOME_HANDI,1.5,1.32,,2022-05-21 19:00:00,1.304,1.341,-1.57,,29b9f1f9,False
+480,,JPN2,Zwiegen Kanazawa - Montedio Yamagata,1X2,2.0,2.5,,2022-05-21 06:00:00,2.45,2.54,-1.57,,1ff3768a,False
+481,,ESP,Bilbao - Osasuna,GOALS,-3.5,1.32,,2022-05-15 18:30:00,1.311,1.341,-1.57,,f9551db3,False
+482,,SWE2,AFC Eskilstuna - Norrby IF,GOALS_H1,0.5,1.36,,2022-05-19 18:00:00,1.338,1.382,-1.59,,6a18dc33,False
+483,,NOR,Kristiansund - Stromsgodset,GOALS_H1,1.5,2.7,,2022-05-16 17:00:00,2.62,2.744,-1.6,,d76936d1,False
+484,,GER2,Darmstadt - Paderborn,HOME_GOALS,-2.5,1.85,,2022-05-15 14:30:00,1.82,1.88,-1.6,,6c6a930f,False
+485,,ENG,Watford - Leicester,AWAY_GOALS,1.5,1.85,,2022-05-15 14:00:00,1.82,1.88,-1.6,,df2d07f4,False
+486,,ITA,Cagliari - Inter M.,GOALS,-3.5,1.65,,2022-05-15 19:45:00,1.637,1.677,-1.61,,4011c741,True
+487,,ENG,Everton - Brentford,1X2,1.0,2.08,,2022-05-15 16:30:00,2.08,2.114,-1.61,,1e3bb9c9,False
+488,,SLO,Olimpija Ljubljana - Mura,GOALS,-3.5,1.28,,2022-05-15 16:30:00,1.258,1.301,-1.61,,06b38463,False
+489,,KOR,Gangwon - Seoul,GOALS,-3.5,1.28,,2022-05-18 11:30:00,1.266,1.301,-1.61,,0a031e04,False
+490,,POL,Górnik Z. - Łęczna,HOME_HANDI,-1.5,2.5,,2022-05-15 14:00:00,2.45,2.541,-1.61,,12d9b418,False
+491,,SWE,Norrkoping - GIF Sundsvall,1X2,1.0,1.27,,2022-05-15 16:30:00,1.27,1.291,-1.63,,2db82d5f,True
+492,,SWE2,Vasteras SK - Jonkopings,GOALS,2.5,1.75,,2022-05-18 18:00:00,1.709,1.779,-1.63,,4d035ae4,False
+493,,LTU,Panevezys - Dziugas,1X2,1.0,1.33,,2022-05-15 13:00:00,1.288,1.352,-1.63,,77901b52,False
+494,,LE,Eintracht F. - Rangers,AWAY_GOALS,-1.5,1.5,,2022-05-18 20:00:00,1.481,1.525,-1.64,,c63495d2,False
+495,,TUR,Galatasaray - Adana D.,CORNERS_H1,4.5,1.85,,2022-05-16 18:00:00,1.775,1.881,-1.65,,44e01a42,False
+496,,TUR,Kasimpasa - Antaliaspor,AWAY_GOALS,1.5,2.45,,2022-05-15 17:00:00,2.39,2.491,-1.65,,05d6929b,False
+497,,POL2,ŁKS Łódź - Opole,GOALS,-1.5,3.7,,2022-05-15 17:00:00,3.48,3.763,-1.67,,e6ab1c0b,False
+498,,ARG2,Independ. Rivadavia - Atletico Rafaela,1X2,1.0,2.0,,2022-05-15 21:00:00,1.971,2.034,-1.67,,b9ae53ba,False
+499,,NOR,Aalesunds - Molde,1X2,1.0,3.3,,2022-05-16 17:00:00,3.25,3.356,-1.67,,0f1df887,False
+500,,TUR,Fenerbahce - F.Karagumruk,GOALS,-3.5,1.7,,2022-05-15 17:00:00,1.68,1.729,-1.68,,a373811c,False
+501,,GER2,St.Pauli - Dusseldorf,HOME_GOALS,-1.5,1.93,,2022-05-15 14:30:00,1.901,1.963,-1.68,,9ec25e80,False
+502,,FIN,Ilves - Mariehamn,AWAY_HANDI,1.5,1.35,,2022-05-15 13:00:00,1.342,1.373,-1.68,,781c8bd0,False
+503,,POL,Mielec - Śląsk,GOALS_H1,-1.5,1.4,,2022-05-15 11:30:00,1.391,1.424,-1.69,,3d1eddae,True
+504,,NED,Willem II - Utrecht,GOALS,2.5,1.57,,2022-05-15 13:30:00,1.556,1.597,-1.69,,72975814,False
+505,,JPN,Cerezo Osaka - Gamba Osaka,GOALS_H1,0.5,1.45,,2022-05-21 06:00:00,1.435,1.475,-1.69,,a0c62f51,False
+506,,NOR,Viking - Jerv,1X2,1.0,1.22,,2022-05-16 17:00:00,1.222,1.241,-1.69,,63ddba12,True
+507,,JPN,Sagan Tosu - Kawasaki Frontale,GOALS,1.5,1.4,,2022-05-21 09:00:00,1.377,1.424,-1.69,,4e6aefbd,False
+508,,ESP,Getafe - Barcelona,1X2,2.0,2.2,,2022-05-15 18:30:00,2.2,2.238,-1.7,,9fc67381,True
+509,,NED,Zwolle - PSV,GOALS,2.5,1.38,,2022-05-15 13:30:00,1.368,1.404,-1.71,,06ebe7e5,False
+510,,POL,Radomiak - W.Kraków,1X2,2.0,2.3,,2022-05-15 16:30:00,2.29,2.34,-1.71,,aee90065,False
+511,,GER2,Hannover - Ingolstadt,GOALS,3.5,2.35,,2022-05-15 14:30:00,2.3,2.391,-1.71,,9e89a434,False
+512,,ESP,Celta - Elche,GOALS_H1,0.5,1.42,,2022-05-15 18:30:00,1.41,1.445,-1.73,,4f0c9347,True
+513,,BRA2,Nautico PE - Cruzeiro MG,GOALS,-3.5,1.25,,2022-05-15 20:00:00,1.238,1.272,-1.73,,eb7a5ee8,False
+514,,FIN,Ilves - Mariehamn,1X2,1.0,1.82,,2022-05-15 13:00:00,1.82,1.852,-1.73,,bddd1e6c,False
+515,,GER2,Sandhausen - Holstein Kiel,GOALS,-4.5,1.25,,2022-05-15 14:30:00,1.242,1.272,-1.73,,b5c9dc2e,False
+516,,GERCUP,SC Freiburg - RB Lipsk,GOALS,-4.5,1.13,,2022-05-21 19:00:00,1.121,1.15,-1.74,,b3123f8d,False
+517,,NOR,Bodo/Glimt - Tromso,1X2,1.0,1.47,,2022-05-16 17:00:00,1.472,1.496,-1.74,,6517fc5b,True
+518,,ITA,Napoli - Genoa,1X2,2.0,4.75,,2022-05-15 14:00:00,4.65,4.834,-1.74,,6bd484be,False
+519,,GER2,Sandhausen - Holstein Kiel,AWAY_GOALS,-1.5,1.85,,2022-05-15 14:30:00,1.826,1.883,-1.75,,9ba27360,False
+520,,TUR,C.Rizespor - Sivasspor,GOALS,2.5,1.85,,2022-05-16 18:00:00,1.826,1.883,-1.75,,64bad706,False
+521,,NOR,Kristiansund - Stromsgodset,GOALS,4.5,5.5,,2022-05-16 17:00:00,5.06,5.598,-1.75,,63e40f2e,False
+522,,ARG2,Instituto AC Cordoba - Def. de Belgrano,1X2,2.0,5.0,,2022-05-15 19:00:00,4.72,5.09,-1.77,,b0762c12,False
+523,,GER2,Darmstadt - Paderborn,1X2,1.0,1.5,,2022-05-15 14:30:00,1.503,1.527,-1.77,,67db8cfd,False
+524,,ESP2,Oviedo - Zaragoza,GOALS,-1.5,3.0,,2022-05-16 20:00:00,2.85,3.054,-1.77,,a5af8536,False
+525,,KOR,Suwon Bluewings - Gimcheon Sangmu,GOALS_H1,0.5,1.5,,2022-05-17 11:00:00,1.488,1.527,-1.77,,e21d1309,False
+526,,GER2,Hansa R. - Hamburger SV,GOALS,-5.5,1.16,,2022-05-15 14:30:00,1.153,1.181,-1.78,,6f5130b8,False
+527,,LTU,FA Siauliai - Hegelmann,1X2,0.5,3.3,,2022-05-15 15:30:00,2.98,3.36,-1.79,,cb37be25,False
+528,,NED,NEC - Fortuna S.,GOALS_H1,1.5,2.45,,2022-05-15 13:30:00,2.39,2.495,-1.8,,81452604,False
+529,,POL2,Nowy Sącz - Głogów,HOME_GOALS,-1.5,1.8,,2022-05-15 14:00:00,1.769,1.833,-1.8,,313522c4,False
+530,,ENG,Aston Villa - Burnley,GOALS_H1,-1.5,1.42,,2022-05-19 20:00:00,1.394,1.446,-1.8,,ab429704,False
+531,,KOR,Pohang Steelers - Jeonbuk,GOALS,-3.5,1.25,,2022-05-18 11:00:00,1.239,1.273,-1.81,,99b24879,False
+532,,TUR,Goztepe SK - Besiktas,GOALS,-4.5,1.3,,2022-05-15 14:00:00,1.291,1.324,-1.81,,ab2310bd,False
+533,,SWE,Hacken - Kalmar FF,GOALS,-4.5,1.14,,2022-05-15 14:00:00,1.137,1.161,-1.81,,c853c1bf,False
+534,,SUI,Lugano - Zurich,GOALS,-3.5,1.57,,2022-05-19 19:30:00,1.541,1.599,-1.81,,00ac833a,False
+535,,CRO,Sibenik - Dinamo Z.,GOALS,2.5,1.62,,2022-05-15 18:05:00,1.581,1.65,-1.82,,7b5a225b,False
+536,,BRA,Avai SC - Juventude RS,GOALS_H1,0.5,1.62,,2022-05-15 22:00:00,1.599,1.65,-1.82,,fdb61d19,False
+537,,MLS,Nashville - Montreal,GOALS,1.5,1.4,,2022-05-19 01:30:00,1.383,1.426,-1.82,,c8db516b,False
+538,,BRA,Goias GO - Santos SP,GOALS,1.5,1.45,,2022-05-15 23:00:00,1.431,1.477,-1.83,,2c880689,False
+539,,ITA,Cagliari - Inter M.,1X2,2.0,1.45,,2022-05-15 19:45:00,1.459,1.477,-1.83,,e5c1acc4,True
+540,,ENG,Everton - Brentford,GOALS_H1,0.5,1.45,,2022-05-15 16:30:00,1.446,1.477,-1.83,,f5019c60,False
+541,,KOR,Ulsan Hyundai - Jeju United,GOALS,-3.5,1.28,,2022-05-18 11:00:00,1.268,1.304,-1.84,,d2e6295b,False
+542,,SWE,Goteborg - Varbergs,GOALS,-3.5,1.23,,2022-05-15 16:30:00,1.224,1.253,-1.84,,361d64c8,True
+543,,ENG,Tottenham - Burnley,GOALS,-3.5,1.55,,2022-05-15 12:00:00,1.543,1.579,-1.84,,569b19c9,False
+544,,POL,Górnik Z. - Łęczna,GOALS,1.5,1.22,,2022-05-15 14:00:00,1.214,1.243,-1.85,,231128f9,False
+545,,POR2,Leixoes - Casa Pia,GOALS,-3.5,1.33,,2022-05-15 11:00:00,1.316,1.355,-1.85,,10e323a1,True
+546,,POR,Guimaraes - Gil Vicente,GOALS,-4.5,1.17,,2022-05-15 20:30:00,1.166,1.192,-1.85,,552a09a8,False
+547,,TUR,Fenerbahce - F.Karagumruk,GOALS,-5.5,1.11,,2022-05-15 17:00:00,1.109,1.131,-1.86,,a373811c,False
+548,,LE,Eintracht F. - Rangers,GOALS,-3.5,1.37,,2022-05-18 20:00:00,1.355,1.396,-1.86,,447908c9,False
+549,,ESP,Cadiz - Real Madryt,GOALS,-3.5,1.42,,2022-05-15 18:30:00,1.412,1.447,-1.87,,60cd79bb,True
+550,,ITA,Juventus - Lazio,GOALS,-3.5,1.42,,2022-05-16 19:45:00,1.413,1.447,-1.87,,ca0b9eb7,True
+551,,GER2,Werder B. - Regensburg,1X2,1.0,1.25,,2022-05-15 14:30:00,1.254,1.274,-1.88,,2ca02ec4,False
+552,,TUR,Trabzonspor - Altay Izmir,HOME_GOALS,-2.5,1.62,,2022-05-15 14:00:00,1.606,1.651,-1.88,,47dc250f,True
+553,,SLO,Koper - Radomlje,GOALS_H1,0.5,1.36,,2022-05-16 16:30:00,1.333,1.386,-1.88,,76769fed,False
+554,,CRO,Sibenik - Dinamo Z.,1X2,2.0,1.25,,2022-05-15 18:05:00,1.244,1.274,-1.88,,7ef2bb95,True
+555,,TUR,Fenerbahce - F.Karagumruk,HOME_GOALS,-2.5,1.62,,2022-05-15 17:00:00,1.606,1.651,-1.88,,84617520,False
+556,,MLS,Houston - Seattle,GOALS,-3.5,1.36,,2022-05-19 01:30:00,1.345,1.386,-1.88,,f415ec6c,False
+557,,CRO,Sibenik - Dinamo Z.,GOALS,1.5,1.2,,2022-05-15 18:05:00,1.182,1.223,-1.88,,7b5a225b,False
+558,,NOR,Aalesunds - Molde,GOALS,2.5,1.67,,2022-05-16 17:00:00,1.654,1.702,-1.88,,694fd3ee,False
+559,,NOR2,Brann - Sandnes Ulf,1X2,1.0,1.45,,2022-05-16 17:00:00,1.442,1.478,-1.89,,40390513,False
+560,,NED,Feyenoord - Twente Enschede,GOALS,2.5,1.4,,2022-05-15 13:30:00,1.389,1.427,-1.89,,e86185ac,False
+561,,SWE,Hacken - Kalmar FF,AWAY_HANDI,1.5,1.35,,2022-05-15 14:00:00,1.345,1.376,-1.89,,fa381ac0,False
+562,,TUR,Alanyaspor - Gaziantep,AWAY_HANDI,1.5,1.6,,2022-05-15 17:00:00,1.592,1.631,-1.9,,208651b8,False
+563,,ESP2,Tenerife - Malaga,HOME_GOALS,-1.5,1.8,,2022-05-15 20:00:00,1.781,1.835,-1.91,,5b2cc656,False
+564,,SLO,Koper - Radomlje,GOALS,2.5,1.8,,2022-05-16 16:30:00,1.746,1.835,-1.91,,eade3b00,False
+565,,ESP,Levante - Alaves,AWAY_GOALS,-1.5,1.8,,2022-05-15 18:30:00,1.781,1.835,-1.91,,ea2f8428,False
+566,,BRA,Coritiba PR - America MG,CORNERS,9.5,1.75,,2022-05-15 21:30:00,1.699,1.784,-1.91,,a1324384,False
+567,,POL2,ŁKS Łódź - Opole,GOALS,-2.5,1.9,,2022-05-15 17:00:00,1.877,1.937,-1.91,,e6ab1c0b,False
+568,,JPN2,Mito Hollyhock - Iwate Grulla Morioka,GOALS,-2.5,1.75,,2022-05-21 08:00:00,1.725,1.784,-1.91,,f29a71fc,False
+569,,CRC,Jicaral - Cartagines,1X2,1.0,2.6,,2022-05-15 22:00:00,2.55,2.651,-1.92,,d46d75c9,False
+570,,JPN,Sanfrecce Hiroshima - Kyoto Sanga,GOALS,-3.5,1.28,,2022-05-21 05:00:00,1.265,1.305,-1.92,,c40ada33,False
+571,,NED,Feyenoord - Twente Enschede,1X2,1.0,1.48,,2022-05-15 13:30:00,1.485,1.509,-1.92,,790cd239,True
+572,,GER2,Heidenheim - Karlsruher,GOALS,-5.5,1.11,,2022-05-15 14:30:00,1.11,1.132,-1.94,,a82c17b4,False
+573,,NOR,Odd BK - Haugesund,AWAY_GOALS,-1.5,1.52,,2022-05-16 17:00:00,1.51,1.55,-1.94,,ab4f25ff,True
+574,,GER2,Hansa R. - Hamburger SV,1X2,2.0,1.52,,2022-05-15 14:30:00,1.521,1.55,-1.94,,fcab5749,False
+575,,NOR,Valerenga - Ham Kam,HOME_GOALS,1.5,1.72,,2022-05-16 19:00:00,1.704,1.754,-1.94,,b6cb5120,False
+576,,POL,Radomiak - W.Kraków,AWAY_GOALS,-1.5,1.72,,2022-05-15 16:30:00,1.704,1.754,-1.94,,90c7cb02,True
+577,,BRA,Sao Paulo SP - Cuiaba MT,AWAY_HANDI,1.5,1.57,,2022-05-15 20:00:00,1.559,1.601,-1.94,,5a11956f,False
+578,,TUR,Kasimpasa - Antaliaspor,1X2,2.0,3.35,,2022-05-15 17:00:00,3.31,3.417,-1.96,,cd152453,False
+579,,JPN2,Roasso Kumamoto - JEF United Chiba,GOALS,-3.5,1.2,,2022-05-21 05:00:00,1.186,1.224,-1.96,,c74ccbba,False
+580,,JPN2,Roasso Kumamoto - JEF United Chiba,1X2,2.0,2.2,,2022-05-21 05:00:00,2.17,2.244,-1.96,,a48fc9e7,False
+581,,ESP2,Mirandes - Ibiza,GOALS_H1,0.5,1.4,,2022-05-15 15:00:00,1.395,1.428,-1.96,,e663ed38,True
+582,,JPN2,Zwiegen Kanazawa - Montedio Yamagata,GOALS,1.5,1.4,,2022-05-21 06:00:00,1.377,1.428,-1.96,,e190013a,False
+583,,TUR,C.Rizespor - Sivasspor,CORNERS,-9.5,1.85,,2022-05-16 18:00:00,1.794,1.887,-1.96,,f54fe374,False
+584,,NOR,Valerenga - Ham Kam,AWAY_HANDI,1.5,1.45,,2022-05-16 19:00:00,1.442,1.479,-1.96,,31c523fd,False
+585,,ESP2,Tenerife - Malaga,GOALS,-1.5,3.0,,2022-05-15 20:00:00,2.89,3.06,-1.96,,0c3da598,False
+586,,SWE,Hacken - Kalmar FF,GOALS_H1,0.5,1.4,,2022-05-15 14:00:00,1.394,1.428,-1.96,,dad9e1de,False
+587,,GER2,Werder B. - Regensburg,HOME_GOALS_H1,1.5,2.55,,2022-05-15 14:30:00,2.46,2.602,-2.0,,746d9061,False
+588,,MLS,Minnesota Utd - LA Galaxy,GOALS,-3.5,1.42,,2022-05-19 01:00:00,1.405,1.449,-2.0,,bafe7319,False
+589,,SWE,Hacken - Kalmar FF,CORNERS_H1,-4.5,2.2,,2022-05-15 14:00:00,2.1,2.245,-2.0,,848cc9d0,False
+590,,BRA,Sao Paulo SP - Cuiaba MT,1X2,1.0,1.47,,2022-05-15 20:00:00,1.472,1.5,-2.0,,038f92fe,True
+591,,BRA,Sao Paulo SP - Cuiaba MT,HOME_GOALS,1.5,1.85,,2022-05-15 20:00:00,1.82,1.888,-2.01,,b58061cc,False
+592,,POL,Górnik Z. - Łęczna,1X2_H1,1.0,2.1,,2022-05-15 14:00:00,2.09,2.143,-2.01,,6d43f13e,False
+593,,TUR,Galatasaray - Adana D.,HOME_GOALS,-1.5,2.05,,2022-05-16 18:00:00,2.02,2.092,-2.01,,cf3a87d9,False
+594,,TUR,Kasimpasa - Antaliaspor,HOME_GOALS,-1.5,2.05,,2022-05-15 17:00:00,2.02,2.092,-2.01,,ab95247c,False
+595,,IRE,Derry City - Dundalk,GOALS,2.5,1.95,,2022-05-20 19:45:00,1.917,1.99,-2.01,,1e1da077,False
+596,,ENG,Leeds - Brighton,AWAY_GOALS,-1.5,1.65,,2022-05-15 14:00:00,1.645,1.684,-2.02,,b4dc9fd5,False
+597,,ENG,Everton - Brentford,HOME_GOALS,-1.5,1.75,,2022-05-15 16:30:00,1.741,1.786,-2.02,,124eb790,True
+598,,TUR,Trabzonspor - Altay Izmir,GOALS,-3.5,1.6,,2022-05-15 14:00:00,1.588,1.633,-2.02,,33649c2c,False
+599,,GER2,Werder B. - Regensburg,1X2_H1,1.0,1.6,,2022-05-15 14:30:00,1.595,1.633,-2.02,,13d49bbe,False
+600,,NOR2,Fredrikstad - Skeid,GOALS,-3.5,1.6,,2022-05-16 17:00:00,1.571,1.633,-2.02,,eaaa724b,False
+601,,ENG,Wolverhampton - Norwich,GOALS,-3.5,1.4,,2022-05-15 14:00:00,1.391,1.429,-2.03,,c76487a1,False
+602,,ESP,Getafe - Barcelona,CORNERS,-7.5,2.65,,,2.52,2.705,-2.03,,70eb936c,False
+603,,NED,AZ Alkmaar - Waalwijk,1X2,1.0,1.25,,2022-05-15 13:30:00,1.256,1.276,-2.04,,f036a1d6,False
+604,,TUR,Trabzonspor - Altay Izmir,GOALS,-4.5,1.25,,2022-05-15 14:00:00,1.245,1.276,-2.04,,33649c2c,False
+605,,SWE2,AFC Eskilstuna - Norrby IF,GOALS,1.5,1.25,,2022-05-19 18:00:00,1.235,1.276,-2.04,,11b0cf80,False
+606,,SWE,Hammarby - AIK,GOALS,-4.5,1.1,,2022-05-15 14:00:00,1.101,1.123,-2.05,,bb6021b2,False
+607,,KOR,Suwon Bluewings - Gimcheon Sangmu,GOALS,2.5,2.25,,2022-05-17 11:00:00,2.21,2.297,-2.05,,5004ddd5,False
+608,,ESP2,Tenerife - Malaga,1X2,1.0,1.72,,2022-05-15 20:00:00,1.725,1.756,-2.05,,f135dd1e,False
+609,,NED,Zwolle - PSV,GOALS_H1,1.5,2.05,,2022-05-15 13:30:00,2.03,2.093,-2.05,,d61da728,False
+610,,NED,Willem II - Utrecht,CORNERS_H1,4.5,1.9,,2022-05-15 13:30:00,1.84,1.94,-2.06,,5f176434,False
+611,,JPN2,Omiya Ardija - Vegalta Sendai,GOALS,-3.5,1.33,,2022-05-21 06:00:00,1.311,1.358,-2.06,,35dc0684,False
+612,,SWE2,Orgryte IS - Trelleborgs FF,GOALS,-4.5,1.14,,2022-05-18 18:00:00,1.131,1.164,-2.06,,01914dc6,False
+613,,NED,Groningen - Cambuur,AWAY_GOALS,1.5,2.75,,2022-05-15 13:30:00,2.68,2.808,-2.07,,7ad59478,False
+614,,ESP2,Gijon - Girona,AWAY_GOALS,-1.5,1.47,,2022-05-15 15:00:00,1.463,1.501,-2.07,,7aa9202b,True
+615,,NED,Willem II - Utrecht,GOALS_H1,1.5,2.4,,2022-05-15 13:30:00,2.35,2.451,-2.08,,87d24a49,False
+616,,ENG,Southampton - Liverpool,AWAY_GOALS,-2.5,1.65,,2022-05-17 19:45:00,1.637,1.685,-2.08,,5e675120,False
+617,,ESP,Villarreal - Sociedad,CORNERS,10.5,2.5,,,2.39,2.553,-2.08,,1e631f9d,False
+618,,HUN,Puskas Akad. - Honved,HOME_GOALS,1.5,2.25,,2022-05-15 15:00:00,2.18,2.298,-2.09,,37d4566b,False
+619,,SUI,Luzern - Young Boys,AWAY_GOALS,-1.5,2.2,,2022-05-19 19:30:00,2.12,2.247,-2.09,,84d06eab,False
+620,,SLO,Olimpija Ljubljana - Mura,GOALS_H1,-1.5,1.36,,2022-05-15 16:30:00,1.344,1.389,-2.09,,b246b6b8,False
+621,,ENG,Newcastle - Arsenal,AWAY_GOALS,1.5,1.9,,2022-05-16 20:00:00,1.885,1.941,-2.11,,54111d88,False
+622,,MLS,Minnesota Utd - LA Galaxy,GOALS,-4.5,1.16,,2022-05-19 01:00:00,1.156,1.185,-2.11,,648621f1,False
+623,,ESP,Cadiz - Real Madryt,1X2,1.0,2.95,,2022-05-15 18:30:00,2.95,3.014,-2.12,,38a913ef,False
+624,,ENG,Newcastle - Arsenal,GOALS,2.5,1.85,,2022-05-16 20:00:00,1.847,1.89,-2.12,,f9097ad0,False
+625,,ESP,Villarreal - Sociedad,1X2,0.5,3.65,,2022-05-15 18:30:00,3.63,3.729,-2.12,,6b58c422,False
+626,,GER2,Nurnberg - Schalke 04,AWAY_GOALS,-1.5,2.35,,2022-05-15 14:30:00,2.31,2.401,-2.12,,739a01df,False
+627,,POL,Mielec - Śląsk,GOALS,-4.5,1.11,,2022-05-15 11:30:00,1.112,1.134,-2.12,,e433de28,False
+628,,ESP,Levante - Alaves,GOALS_H1,-1.5,1.52,,2022-05-15 18:30:00,1.513,1.553,-2.12,,60311a64,False
+629,,SUI,Lugano - Zurich,1X2,0.5,3.6,,2022-05-19 19:30:00,3.49,3.678,-2.12,,9da9c209,False
+630,,POL,Radomiak - W.Kraków,HOME_GOALS,-1.5,1.52,,2022-05-15 16:30:00,1.513,1.553,-2.12,,e1389e68,True
+631,,NOR,Viking - Jerv,GOALS,2.5,1.47,,2022-05-16 17:00:00,1.455,1.502,-2.13,,34b2dd3a,False
+632,,SWE2,Vasteras SK - Jonkopings,GOALS,3.5,2.9,,2022-05-18 18:00:00,2.75,2.963,-2.13,,04cd4be4,False
+633,,ITA,Cagliari - Inter M.,GOALS_H1,-1.5,1.65,,2022-05-15 19:45:00,1.645,1.686,-2.14,,28cdf40b,False
+634,,IRE,Drogheda Utd - Finn Harps,GOALS,-1.5,3.2,,2022-05-20 19:45:00,2.97,3.27,-2.14,,dc7651d1,False
+635,,GER2,Darmstadt - Paderborn,GOALS,-3.5,2.15,,2022-05-15 14:30:00,2.12,2.197,-2.14,,058e2b28,False
+636,,ENG,Aston Villa - Burnley,GOALS_H1,0.5,1.42,,2022-05-19 20:00:00,1.398,1.451,-2.14,,52743a10,False
+637,,GER2,Werder B. - Regensburg,GOALS,-4.5,1.5,,2022-05-15 14:30:00,1.485,1.533,-2.15,,7ed7854f,True
+638,,ITA,Juventus - Lazio,AWAY_GOALS,-1.5,1.55,,2022-05-16 19:45:00,1.549,1.584,-2.15,,ab990b18,False
+639,,TUR,Giresunspor - Basaksehir FK,GOALS_H1,0.5,1.45,,2022-05-15 17:00:00,1.446,1.482,-2.16,,bf8edc6e,True
+640,,KOR,Suwon Bluewings - Gimcheon Sangmu,GOALS,3.5,4.4,,2022-05-17 11:00:00,4.14,4.497,-2.16,,d4a7a9ff,False
+641,,KOR,Seoul - Seongnam,GOALS,-1.5,2.9,,2022-05-21 08:30:00,2.77,2.964,-2.16,,01def60d,False
+642,,ITA,Juventus - Lazio,1X2,1.0,2.35,,2022-05-16 19:45:00,2.36,2.402,-2.16,,669b17b4,False
+643,,POL2,ŁKS Łódź - Opole,HOME_GOALS,-1.5,1.9,,2022-05-15 17:00:00,1.87,1.942,-2.16,,c385a3f1,False
+644,,COL,America de Cali - Union Magdalena,GOALS_H1,0.5,1.53,,2022-05-16 01:00:00,1.518,1.564,-2.17,,06782121,False
+645,,SUI,Lausanne - Sion,HOME_GOALS,-1.5,1.62,,2022-05-19 19:30:00,1.588,1.656,-2.17,,8b993f66,False
+646,,TUR,Alanyaspor - Gaziantep,GOALS,-3.5,1.62,,2022-05-15 17:00:00,1.61,1.656,-2.17,,6d3a0ada,False
+647,,MLS,NY Red Bulls - Chicago Fire,GOALS,-4.5,1.12,,2022-05-19 00:30:00,1.119,1.145,-2.18,,1df0d832,False
+648,,POL2,ŁKS Łódź - Opole,GOALS,-4.5,1.12,,2022-05-15 17:00:00,1.119,1.145,-2.18,,e6ab1c0b,False
+649,,NED,Feyenoord - Twente Enschede,GOALS_H1,1.5,2.1,,2022-05-15 13:30:00,2.08,2.147,-2.19,,c9522715,False
+650,,KOR,Pohang Steelers - Jeonbuk,GOALS,-2.5,1.7,,2022-05-18 11:00:00,1.68,1.738,-2.19,,5487e8fa,False
+651,,SWE2,Landskrona Bois - Brommapojkarna,GOALS,-1.5,4.4,,2022-05-15 12:00:00,4.1,4.499,-2.2,,7a93f7b1,False
+652,,BRA2,Guarani SP - Vasco Da Gama RJ,1X2,0.5,2.75,,2022-05-20 01:30:00,2.7,2.812,-2.2,,5847e54d,False
+653,,TUR,Konyaspor - Hatayspor,GOALS,-5.5,1.11,,2022-05-15 17:00:00,1.113,1.135,-2.2,,215eb70a,False
+654,,NOR,Lillestrom - Sarpsborg,GOALS_H1,0.5,1.37,,2022-05-16 17:00:00,1.369,1.401,-2.21,,5098de9b,True
+655,,NED,Groningen - Cambuur,GOALS,2.5,1.55,,2022-05-15 13:30:00,1.543,1.585,-2.21,,7ce3b3de,False
+656,,ENG,Leeds - Brighton,GOALS,1.5,1.28,,2022-05-15 14:00:00,1.28,1.309,-2.22,,5c9151b5,False
+657,,POR2,Leixoes - Casa Pia,GOALS,-4.5,1.1,,2022-05-15 11:00:00,1.1,1.125,-2.22,,ef46a1dc,False
+658,,SUI,Luzern - Young Boys,GOALS,-4.5,1.27,,2022-05-19 19:30:00,1.256,1.299,-2.23,,7f2429e5,False
+659,,ITA,Napoli - Genoa,AWAY_HANDI,1.5,1.45,,2022-05-15 14:00:00,1.452,1.483,-2.23,,33eafdff,False
+660,,BRA2,Vasco Da Gama RJ - Bahia BA,GOALS,-0.5,6.5,,2022-05-15 20:00:00,5.69,6.648,-2.23,,6ae7c779,False
+661,,ESP2,Gijon - Girona,GOALS,-3.5,1.27,,2022-05-15 15:00:00,1.267,1.299,-2.23,,e033a18f,False
+662,,SUI,Lugano - Zurich,GOALS_H1,-1.5,1.57,,2022-05-19 19:30:00,1.546,1.606,-2.24,,b8b5b97a,False
+663,,ESP2,Gijon - Girona,GOALS_H1,-1.5,1.35,,2022-05-15 15:00:00,1.35,1.381,-2.24,,fc32f8de,False
+664,,ESP,Atl.Madryt - Sevilla,GOALS,-2.5,1.57,,2022-05-15 18:30:00,1.568,1.606,-2.24,,ef770827,False
+665,,MLS,Philadelphia U. - Inter Miami,GOALS,-2.5,2.15,,2022-05-19 00:30:00,2.1,2.2,-2.27,,cf28da6a,False
+666,,SWE2,Orgryte IS - Trelleborgs FF,1X2,2.0,2.75,,2022-05-18 18:00:00,2.7,2.814,-2.27,,8455a580,False
+667,,GER2,Dyn.Drezno - Aue,GOALS,-3.5,1.55,,2022-05-15 14:30:00,1.546,1.586,-2.27,,836409b9,False
+668,,GER2,Hannover - Ingolstadt,GOALS,-4.5,1.25,,2022-05-15 14:30:00,1.248,1.279,-2.27,,9e89a434,True
+669,,HUN,Kisvarda - Zalaegerszeg,1X2,2.0,4.5,,2022-05-15 15:00:00,4.29,4.605,-2.28,,43b3bbbd,False
+670,,POR,Guimaraes - Gil Vicente,HOME_GOALS,-1.5,1.8,,2022-05-15 20:30:00,1.787,1.842,-2.28,,61a8bee8,False
+671,,SWE,Goteborg - Varbergs,HOME_GOALS,-1.5,1.8,,2022-05-15 16:30:00,1.787,1.842,-2.28,,64c81ec2,False
+672,,SUI,Lausanne - Sion,1X2,2.0,2.1,,2022-05-19 19:30:00,2.08,2.149,-2.28,,b15c50d4,False
+673,,KOR,Seongnam - Suwon FC,GOALS,-1.5,2.9,,2022-05-18 11:30:00,2.79,2.968,-2.29,,6d7e6e6b,False
+674,,ENG,Newcastle - Arsenal,GOALS,1.5,1.28,,2022-05-16 20:00:00,1.282,1.31,-2.29,,f9097ad0,False
+675,,ICE,Vikingur Reykjavik - Breidablik,1X2,1.0,2.8,,2022-05-16 20:15:00,2.75,2.866,-2.3,,88e623a6,False
+676,,NOR,Viking - Jerv,HOME_GOALS,-2.5,2.0,,2022-05-16 17:00:00,1.971,2.047,-2.3,,c67f645f,False
+677,,GER2,Darmstadt - Paderborn,CORNERS,10.5,2.2,,2022-05-15 14:30:00,2.12,2.252,-2.31,,a4dd57a9,False
+678,,ESP,Atl.Madryt - Sevilla,HOME_GOALS,-1.5,1.52,,2022-05-15 18:30:00,1.521,1.556,-2.31,,88ea8b41,True
+679,,POL,Radomiak - W.Kraków,GOALS,-1.5,4.1,,2022-05-15 16:30:00,3.88,4.197,-2.31,,9c545f37,False
+680,,BRA2,Nautico PE - Cruzeiro MG,GOALS,-1.5,3.0,,2022-05-15 20:00:00,2.88,3.071,-2.31,,1ce7a0a3,False
+681,,GER2,Dyn.Drezno - Aue,GOALS,-4.5,1.22,,2022-05-15 14:30:00,1.22,1.249,-2.32,,836409b9,False
+682,,ENG,Everton - Brentford,GOALS,1.5,1.35,,2022-05-15 16:30:00,1.351,1.382,-2.32,,64c2cd64,False
+683,,POL2,ŁKS Łódź - Opole,CORNERS,-9.5,2.1,,,2.01,2.15,-2.33,,ecfd47e8,False
+684,,POR2,Rio Ave - Chaves,GOALS,-2.5,1.8,,2022-05-15 11:00:00,1.781,1.843,-2.33,,477fc459,False
+685,,BRA,Botafogo RJ - Fortaleza CE,HOME_GOALS,-1.5,1.47,,2022-05-15 22:00:00,1.463,1.505,-2.33,,a46fed90,True
+686,,NOR,Aalesunds - Molde,HOME_GOALS,1.5,2.5,,2022-05-16 17:00:00,2.45,2.56,-2.34,,87fe9669,False
+687,,BRA,Coritiba PR - America MG,GOALS,-3.5,1.25,,2022-05-15 21:30:00,1.246,1.28,-2.34,,8bd04b79,True
+688,,SWE,Degerfors - Helsingborg,GOALS,-3.5,1.37,,2022-05-15 16:30:00,1.366,1.403,-2.35,,39f2fa71,False
+689,,ENG,Watford - Leicester,HOME_HANDI,1.5,1.37,,2022-05-15 14:00:00,1.37,1.403,-2.35,,f9573d3c,False
+690,,POR2,Varzim - Mafra,GOALS,-3.5,1.33,,2022-05-15 15:30:00,1.323,1.362,-2.35,,61e3434e,True
+691,,NOR,Viking - Jerv,HOME_GOALS_H1,-1.5,1.45,,2022-05-16 17:00:00,1.439,1.485,-2.36,,b30e4bb4,False
+692,,SWE,Degerfors - Helsingborg,AWAY_GOALS,-1.5,1.45,,2022-05-15 16:30:00,1.448,1.485,-2.36,,2cc3d58f,False
+693,,NOR,Odd BK - Haugesund,HOME_GOALS,-1.5,1.9,,2022-05-16 17:00:00,1.885,1.946,-2.36,,2800962a,False
+694,,MLS,Nashville - Montreal,1X2,1.0,1.85,,2022-05-19 01:30:00,1.855,1.895,-2.37,,466ee75a,False
+695,,JPN,Shonan Bellmare - Vissel Kobe,GOALS,-2.5,1.65,,2022-05-21 07:00:00,1.637,1.69,-2.37,,b6985d0a,False
+696,,POL2,Polkowice - Resovia,GOALS,4.5,7.5,,2022-05-16 17:00:00,6.46,7.682,-2.37,,c029989e,False
+697,,SWE,Degerfors - Helsingborg,GOALS_H1,0.5,1.4,,2022-05-15 16:30:00,1.4,1.434,-2.37,,86a04a9d,False
+698,,TUR,Kasimpasa - Antaliaspor,GOALS,2.5,1.6,,2022-05-15 17:00:00,1.595,1.639,-2.38,,43c52666,False
+699,,ENG,Newcastle - Arsenal,HOME_HANDI,1.5,1.35,,2022-05-16 20:00:00,1.356,1.383,-2.39,,97e837aa,False
+700,,HUN,Puskas Akad. - Honved,1X2,1.0,2.25,,2022-05-15 15:00:00,2.23,2.305,-2.39,,6b5afb63,False
+701,,TUR,C.Rizespor - Sivasspor,GOALS,-4.5,1.14,,2022-05-16 18:00:00,1.143,1.168,-2.4,,64bad706,False
+702,,ESP,Celta - Elche,GOALS,1.5,1.3,,2022-05-15 18:30:00,1.299,1.332,-2.4,,018e85a2,False
+703,,ESP2,Tenerife - Malaga,GOALS,-3.5,1.22,,2022-05-15 20:00:00,1.221,1.25,-2.4,,0c3da598,False
+704,,ENG,Wolverhampton - Norwich,GOALS,3.5,3.25,,2022-05-15 14:00:00,3.13,3.33,-2.4,,c76487a1,False
+705,,ENG,Watford - Leicester,AWAY_HANDI,-1.5,3.4,,2022-05-15 14:00:00,3.29,3.484,-2.41,,f9573d3c,False
+706,,JPN,Shimizu S-Pulse - Nagoya Grampus,1X2,1.0,3.2,,2022-05-21 06:00:00,3.16,3.279,-2.41,,edde261d,False
+707,,ESP2,Mirandes - Ibiza,GOALS_H1,-1.5,1.45,,2022-05-15 15:00:00,1.45,1.486,-2.42,,d4404d59,False
+708,,JPN2,Omiya Ardija - Iwate Grulla Morioka,GOALS,-3.5,1.25,,2022-05-18 11:00:00,1.239,1.281,-2.42,,2de14b46,False
+709,,MLS,NY Red Bulls - Chicago Fire,1X2,1.0,1.53,,2022-05-19 00:30:00,1.538,1.568,-2.42,,8072ca7c,False
+710,,ITA,Juventus - Lazio,GOALS_H1,0.5,1.37,,2022-05-16 19:45:00,1.376,1.404,-2.42,,ea750923,False
+711,,NED,NEC - Fortuna S.,AWAY_GOALS,1.5,2.45,,2022-05-15 13:30:00,2.41,2.511,-2.43,,3a274a98,False
+712,,POL2,ŁKS Łódź - Opole,1X2,1.0,1.85,,2022-05-15 17:00:00,1.855,1.896,-2.43,,1a697f69,False
+713,,GER2,Hansa R. - Hamburger SV,AWAY_GOALS,-2.5,1.72,,2022-05-15 14:30:00,1.704,1.763,-2.44,,01738b1e,True
+714,,CRC,Jicaral - Cartagines,GOALS,-4.5,1.16,,2022-05-15 22:00:00,1.154,1.189,-2.44,,e4cfd623,False
+715,,CHI,Coquimbo Unido - Union Espanola,GOALS_H1,-1.5,1.38,,2022-05-21 00:00:00,1.369,1.415,-2.47,,b353d726,False
+716,,NOR,Kristiansund - Stromsgodset,GOALS,3.5,2.8,,2022-05-16 17:00:00,2.72,2.871,-2.47,,63e40f2e,False
+717,,LE,Eintracht F. - Rangers,1X2_H1,0.5,2.2,,2022-05-18 20:00:00,2.19,2.256,-2.48,,83edcc22,False
+718,,NED,Willem II - Utrecht,GOALS,1.5,1.18,,2022-05-15 13:30:00,1.183,1.21,-2.48,,72975814,False
+719,,CHI,Coquimbo Unido - Union Espanola,GOALS,-3.5,1.3,,2022-05-21 00:00:00,1.288,1.333,-2.48,,1e16c927,False
+720,,JPN,Shimizu S-Pulse - Nagoya Grampus,GOALS,-3.5,1.18,,2022-05-21 06:00:00,1.18,1.21,-2.48,,ac5c5c8f,False
+721,,NED,Heerenveen - G.A. Eagles,CORNERS,9.5,1.8,,2022-05-15 13:30:00,1.758,1.846,-2.49,,51aff62b,False
+722,,ESP,Cadiz - Real Madryt,GOALS_H1,-1.5,1.45,,2022-05-15 18:30:00,1.455,1.487,-2.49,,4f773875,False
+723,,ITA,Bologna - Sassuolo,1X2_H1,0.5,2.65,,2022-05-15 11:30:00,2.64,2.718,-2.5,,f8a66dad,False
+724,,TUR,Goztepe SK - Besiktas,GOALS,-1.5,6.0,,2022-05-15 14:00:00,5.52,6.154,-2.5,,ab2310bd,False
+725,,GER2,Hansa R. - Hamburger SV,GOALS,3.5,1.95,,2022-05-15 14:30:00,1.935,2.0,-2.5,,6f5130b8,False
+726,,ITA,Bologna - Sassuolo,GOALS,-3.5,1.95,,2022-05-15 11:30:00,1.943,2.0,-2.5,,d3e7a46c,False
+727,,ESP,Levante - Alaves,1X2,1.0,2.85,,2022-05-15 18:30:00,2.85,2.923,-2.5,,66932dc6,False
+728,,IRE,Bohemians Dublin - Sligo Rovers,GOALS,1.5,1.4,,2022-05-20 19:45:00,1.375,1.436,-2.51,,ee6c54d4,False
+729,,MLS,San Jose Earthquakes - Portland T.,GOALS,1.5,1.2,,2022-05-19 03:30:00,1.2,1.231,-2.52,,ad49076c,False
+730,,TUR,Kasimpasa - Antaliaspor,CORNERS,9.5,2.05,,2022-05-15 17:00:00,1.99,2.103,-2.52,,f465af73,False
+731,,BRA,Avai SC - Juventude RS,GOALS,-3.5,1.16,,2022-05-15 22:00:00,1.161,1.19,-2.52,,4706ee72,False
+732,,NOR,Valerenga - Ham Kam,1X2,1.0,1.7,,2022-05-16 19:00:00,1.714,1.744,-2.52,,1e20b5cc,True
+733,,ENG,Leeds - Brighton,AWAY_GOALS,1.5,2.4,,2022-05-15 14:00:00,2.38,2.462,-2.52,,b4dc9fd5,False
+734,,SWE2,Vasteras SK - Jonkopings,1X2,1.0,2.0,,2022-05-18 18:00:00,1.99,2.052,-2.53,,b4a2279a,False
+735,,ESP2,Alcorcon - Las Palmas,GOALS,-1.5,3.5,,2022-05-15 13:00:00,3.36,3.591,-2.53,,5f8467b1,False
+736,,TUR,Alanyaspor - Gaziantep,CORNERS,9.5,1.85,,2022-05-15 17:00:00,1.806,1.898,-2.53,,ad9541b1,False
+737,,ENG,Leeds - Brighton,GOALS,2.5,1.85,,2022-05-15 14:00:00,1.855,1.898,-2.53,,5c9151b5,False
+738,,JAM,Arnett Gardens - Dunbeholden,GOALS_H1,0.5,1.5,,2022-05-15 21:00:00,1.461,1.539,-2.53,,75a97805,False
+739,,POL,Mielec - Śląsk,GOALS,-2.5,1.85,,2022-05-15 11:30:00,1.847,1.898,-2.53,,e433de28,False
+740,,ENG,Aston Villa - Crystal Palace,1X2,0.5,3.45,,2022-05-15 14:00:00,3.43,3.54,-2.54,,04a88e08,False
+741,,BRA,Botafogo RJ - Fortaleza CE,GOALS,-1.5,2.75,,2022-05-15 22:00:00,2.68,2.822,-2.55,,08ec0c80,False
+742,,TUR,Goztepe SK - Besiktas,GOALS,-3.5,1.72,,2022-05-15 14:00:00,1.714,1.765,-2.55,,ab2310bd,False
+743,,POR,Guimaraes - Gil Vicente,GOALS,-3.5,1.45,,2022-05-15 20:30:00,1.446,1.488,-2.55,,552a09a8,False
+744,,BRA,Botafogo RJ - Fortaleza CE,GOALS_H1,0.5,1.57,,2022-05-15 22:00:00,1.562,1.611,-2.55,,e6f53011,False
+745,,TUR,Giresunspor - Basaksehir FK,GOALS,-3.5,1.3,,2022-05-15 17:00:00,1.3,1.334,-2.55,,c58ac205,False
+746,,ESP2,Alcorcon - Las Palmas,HOME_HANDI,1.5,1.37,,2022-05-15 13:00:00,1.373,1.406,-2.56,,00a3c62f,False
+747,,ESP2,Alcorcon - Las Palmas,AWAY_GOALS,-1.5,1.9,,2022-05-15 13:00:00,1.885,1.95,-2.56,,afdadb89,False
+748,,NOR,Rosenborg - Sandefjord,1X2,1.0,1.52,,2022-05-16 17:00:00,1.535,1.56,-2.56,,1adf71d3,False
+749,,BRA,Goias GO - Santos SP,GOALS,-3.5,1.22,,2022-05-15 23:00:00,1.219,1.252,-2.56,,2c880689,False
+750,,CHI,Cobresal - O'Higgins,GOALS,-4.5,1.1,,2022-05-15 19:45:00,1.104,1.129,-2.57,,357caaab,False
+751,,ESP2,Mirandes - Ibiza,HOME_GOALS,1.5,1.93,,2022-05-15 15:00:00,1.917,1.981,-2.57,,4f14f735,False
+752,,NOR,Lillestrom - Sarpsborg,GOALS,1.5,1.25,,2022-05-16 17:00:00,1.252,1.283,-2.57,,da0aec48,True
+753,,TUR,Giresunspor - Basaksehir FK,GOALS,-4.5,1.1,,2022-05-15 17:00:00,1.107,1.129,-2.57,,c58ac205,False
+754,,MLS,Vancouver - Dallas,GOALS,-4.5,1.1,,2022-05-19 03:00:00,1.104,1.129,-2.57,,0d55e373,False
+755,,ENG,Everton - Brentford,GOALS,2.5,2.05,,2022-05-15 16:30:00,2.05,2.104,-2.57,,64c2cd64,False
+756,,ESP,Getafe - Barcelona,GOALS_H1,-1.5,1.4,,2022-05-15 18:30:00,1.407,1.437,-2.57,,ac6cd665,True
+757,,SUI,Lugano - Zurich,GOALS,-2.5,2.35,,2022-05-19 19:30:00,2.28,2.412,-2.57,,00ac833a,False
+758,,NOR,Aalesunds - Molde,AWAY_GOALS,1.5,1.93,,2022-05-16 17:00:00,1.917,1.981,-2.57,,8b8f6147,False
+759,,ESP,Cadiz - Real Madryt,1X2,2.0,2.5,,2022-05-15 18:30:00,2.52,2.566,-2.57,,38a913ef,False
+760,,KOR,Gangwon - Seoul,GOALS_H1,-1.5,1.36,,2022-05-18 11:30:00,1.36,1.396,-2.58,,8ec701c6,False
+761,,GER2,St.Pauli - Dusseldorf,GOALS,-3.5,1.7,,2022-05-15 14:30:00,1.694,1.745,-2.58,,f87efc03,False
+762,,ESP,Celta - Elche,HOME_GOALS,-1.5,2.3,,2022-05-15 18:30:00,2.27,2.361,-2.58,,36e6e8df,True
+763,,SWE2,Ostersunds FK - IK Brage,GOALS,-3.5,1.36,,2022-05-15 14:00:00,1.355,1.396,-2.58,,865598d6,True
+764,,NED,Willem II - Utrecht,AWAY_GOALS,1.5,2.3,,2022-05-15 13:30:00,2.27,2.361,-2.58,,ed0933fc,False
+765,,NOR2,Mjondalen - KFUM Oslo,GOALS_H1,0.5,1.36,,2022-05-15 17:00:00,1.36,1.396,-2.58,,fdef55f1,False
+766,,ENG,Watford - Leicester,GOALS,-2.5,2.15,,2022-05-15 14:00:00,2.13,2.207,-2.58,,376147cd,False
+767,,CRC,Guadalupe - Guanacasteca,1X2,0.5,3.25,,2022-05-15 22:00:00,3.18,3.336,-2.58,,d7080722,False
+768,,NED,Heerenveen - G.A. Eagles,HOME_GOALS,1.5,1.7,,2022-05-15 13:30:00,1.694,1.745,-2.58,,b1c801ef,False
+769,,GER2,Heidenheim - Karlsruher,HOME_GOALS,-1.5,2.3,,2022-05-15 14:30:00,2.27,2.361,-2.58,,c0a5838c,False
+770,,SLO,Domzale - Celje,GOALS,3.5,2.9,,2022-05-15 14:00:00,2.76,2.977,-2.59,,00654446,False
+771,,BRA2,Vasco Da Gama RJ - Bahia BA,1X2,0.5,2.9,,2022-05-15 20:00:00,2.85,2.977,-2.59,,d096235b,False
+772,,KOR,Incheon United - Daegu,GOALS_H1,0.5,1.5,,2022-05-17 11:30:00,1.5,1.54,-2.6,,1406a7ac,False
+773,,POR,Guimaraes - Gil Vicente,GOALS_H1,-1.5,1.5,,2022-05-15 20:30:00,1.5,1.54,-2.6,,9db6efb1,False
+774,,POR,Famalicao - Braga,GOALS,-4.5,1.16,,2022-05-15 18:00:00,1.165,1.191,-2.6,,f24ba032,False
+775,,BRA2,Ituano SP - Gremio RS,GOALS,2.5,2.7,,2022-05-17 00:00:00,2.6,2.772,-2.6,,d3ea46a7,False
+776,,TUR,Fenerbahce - F.Karagumruk,GOALS,1.5,1.16,,2022-05-15 17:00:00,1.165,1.191,-2.6,,a373811c,False
+777,,NED,Zwolle - PSV,GOALS,-5.5,1.16,,2022-05-15 13:30:00,1.165,1.191,-2.6,,06ebe7e5,False
+778,,ARG2,Alvarado - Chaco For Ever,GOALS_H1,0.5,1.53,,2022-05-15 20:30:00,1.513,1.571,-2.61,,6d3e83ce,False
+779,,IRE,Derry City - Dundalk,1X2,1.0,1.9,,2022-05-20 19:45:00,1.901,1.951,-2.61,,8298ebe7,False
+780,,ESP,Levante - Alaves,CORNERS,8.5,1.57,,,1.546,1.612,-2.61,,2db14dc0,False
+781,,ENG,Chelsea - Leicester,HOME_GOALS,-2.5,1.57,,2022-05-19 20:00:00,1.546,1.612,-2.61,,c3c5d9ed,False
+782,,TUR,Goztepe SK - Besiktas,1X2,2.0,1.57,,2022-05-15 14:00:00,1.585,1.612,-2.61,,e60486a9,True
+783,,ESP2,Tenerife - Malaga,CORNERS_H1,3.5,1.6,,2022-05-15 20:00:00,1.556,1.643,-2.62,,c10ec0dc,False
+784,,IRE,UC Dublin - Shamrock Rovers,GOALS,2.5,1.67,,2022-05-19 19:45:00,1.649,1.715,-2.62,,5fee9d0d,False
+785,,ESP,Villarreal - Sociedad,GOALS,1.5,1.3,,2022-05-15 18:30:00,1.305,1.335,-2.62,,b1ffc576,False
+786,,NOR,Kristiansund - Stromsgodset,GOALS,1.5,1.22,,2022-05-16 17:00:00,1.224,1.253,-2.63,,63e40f2e,False
+787,,NOR,Valerenga - Ham Kam,GOALS_H1,1.5,2.7,,2022-05-16 19:00:00,2.65,2.773,-2.63,,57987319,False
+788,,BRA,Avai SC - Juventude RS,1X2_H1,1.0,3.4,,2022-05-15 22:00:00,3.33,3.492,-2.63,,3bf5d5e9,False
+789,,NED,Zwolle - PSV,GOALS,1.5,1.11,,2022-05-15 13:30:00,1.117,1.14,-2.63,,06ebe7e5,False
+790,,NOR,Viking - Jerv,GOALS,-5.5,1.11,,2022-05-16 17:00:00,1.115,1.14,-2.63,,34b2dd3a,False
+791,,ENG,Watford - Leicester,GOALS,2.5,1.78,,2022-05-15 14:00:00,1.775,1.828,-2.63,,376147cd,False
+792,,TUR,Goztepe SK - Besiktas,GOALS,-5.5,1.11,,2022-05-15 14:00:00,1.117,1.14,-2.63,,ab2310bd,False
+793,,ITA,AC Milan - Atalanta,HOME_HANDI,-1.5,3.25,,2022-05-15 17:00:00,3.18,3.338,-2.64,,af9fb50c,False
+794,,TUR,Fenerbahce - F.Karagumruk,CORNERS,9.5,2.1,,2022-05-15 17:00:00,2.03,2.157,-2.64,,79592fad,False
+795,,MLS,Atlanta Utd - New England,GOALS_H1,-1.5,1.55,,2022-05-15 18:30:00,1.549,1.592,-2.64,,0c813f85,False
+796,,SWE2,Vasteras SK - Jonkopings,GOALS,-4.5,1.18,,2022-05-18 18:00:00,1.175,1.212,-2.64,,6e3b16d8,False
+797,,SWE,Norrkoping - GIF Sundsvall,GOALS,1.5,1.18,,2022-05-15 16:30:00,1.181,1.212,-2.64,,b5b8e377,False
+798,,KOR,Seoul - Pohang Steelers,CORNERS_H1,3.5,1.65,,2022-05-15 11:00:00,1.602,1.695,-2.65,,8a10b573,False
+799,,ITA,Juventus - Lazio,1X2,0.5,3.6,,2022-05-16 19:45:00,3.6,3.698,-2.65,,669b17b4,False
+800,,POL2,Legnica - Widzew Ł.,GOALS,-4.5,1.1,,2022-05-15 11:40:00,1.105,1.13,-2.65,,93ffe17d,False
+801,,NED,Vitesse - Ajax,HOME_HANDI,1.5,1.8,,2022-05-15 13:30:00,1.8,1.849,-2.65,,f28f589e,False
+802,,POL,Mielec - Śląsk,GOALS,-3.5,1.32,,2022-05-15 11:30:00,1.322,1.356,-2.65,,e433de28,True
+803,,FIN,Ilves - Mariehamn,GOALS,1.5,1.28,,2022-05-15 13:00:00,1.282,1.315,-2.66,,5f4ef1f0,False
+804,,ENG,Everton - Crystal Palace,1X2,1.0,2.15,,2022-05-19 19:45:00,2.13,2.209,-2.67,,ee4d7654,False
+805,,POR,Guimaraes - Gil Vicente,GOALS_H1,0.5,1.35,,2022-05-15 20:30:00,1.356,1.387,-2.67,,2fad7a3e,False
+806,,NED,Heerenveen - G.A. Eagles,GOALS,-3.5,1.53,,2022-05-15 13:30:00,1.532,1.572,-2.67,,ce9baf2d,False
+807,,CRC,AD San Carlos - Sporting San Jose,GOALS,-4.5,1.16,,2022-05-15 22:00:00,1.157,1.192,-2.68,,fad6afec,False
+808,,ENG,Everton - Brentford,1X2,2.0,3.85,,2022-05-15 16:30:00,3.84,3.956,-2.68,,1e3bb9c9,False
+809,,POL,Radomiak - W.Kraków,GOALS_H1,-1.5,1.45,,2022-05-15 16:30:00,1.452,1.49,-2.68,,a426a8b2,False
+810,,BRA,Coritiba PR - America MG,1X2,2.0,3.3,,2022-05-15 21:30:00,3.27,3.391,-2.68,,662a7234,False
+811,,NED,Heerenveen - G.A. Eagles,1X2,1.0,1.77,,2022-05-15 13:30:00,1.787,1.819,-2.69,,1a97b402,False
+812,,POR2,Estrela Amadora - Covilha,GOALS,-1.5,3.4,,2022-05-15 15:30:00,3.25,3.494,-2.69,,10c11210,False
+813,,ICE,Hafnarfjordur - Vestmannaeyjar,1X2,1.0,1.55,,2022-05-15 15:00:00,1.562,1.593,-2.7,,11328104,False
+814,,MLS,Vancouver - Dallas,GOALS,-2.5,1.8,,2022-05-19 03:00:00,1.787,1.85,-2.7,,f5bf3803,False
+815,,BRA,Coritiba PR - America MG,GOALS,1.5,1.4,,2022-05-15 21:30:00,1.395,1.439,-2.71,,8bd04b79,False
+816,,NOR,Viking - Jerv,HOME_HANDI,-1.5,1.65,,2022-05-16 17:00:00,1.649,1.696,-2.71,,6bafb9e5,False
+817,,SUI,Luzern - Young Boys,GOALS_H1,-1.5,1.65,,2022-05-19 19:30:00,1.629,1.696,-2.71,,1ec95097,False
+818,,SUI,Servette - Basel,GOALS,-2.5,2.5,,2022-05-19 19:30:00,2.42,2.57,-2.72,,a4331960,False
+819,,NED,Willem II - Utrecht,GOALS,-4.5,1.25,,2022-05-15 13:30:00,1.254,1.285,-2.72,,72975814,False
+820,,JPN,Sanfrecce Hiroshima - Kyoto Sanga,GOALS,1.5,1.36,,2022-05-21 05:00:00,1.352,1.398,-2.72,,4ee51a63,False
+821,,ITA,Juventus - Lazio,1X2_H1,1.0,3.0,,2022-05-16 19:45:00,3.0,3.084,-2.72,,870f24c5,False
+822,,JPN2,Blaublitz Akita - Tokyo Verdy,GOALS,-3.5,1.25,,2022-05-21 06:00:00,1.243,1.285,-2.72,,624a3475,False
+823,,POR,Famalicao - Braga,GOALS,2.5,1.75,,2022-05-15 18:00:00,1.746,1.799,-2.72,,f24ba032,False
+824,,TUR,C.Rizespor - Sivasspor,AWAY_GOALS,1.5,2.35,,2022-05-16 18:00:00,2.32,2.416,-2.73,,548109b1,False
+825,,CRC,Municipal Grecia - Deportivo Saprissa,1X2,2.0,1.85,,2022-05-15 22:00:00,1.847,1.902,-2.73,,d59d303c,False
+826,,TUR,Galatasaray - Adana D.,AWAY_HANDI,1.5,1.32,,2022-05-16 18:00:00,1.327,1.357,-2.73,,8298c6ae,False
+827,,JPN,Shimizu S-Pulse - Nagoya Grampus,GOALS,2.5,2.6,,2022-05-21 06:00:00,2.54,2.673,-2.73,,1e847faa,False
+828,,NOR,Odd BK - Haugesund,GOALS_H1,0.5,1.35,,2022-05-16 17:00:00,1.356,1.388,-2.74,,74239293,False
+829,,MLS,Sp. Kansas City - Colorado,GOALS,-3.5,1.28,,2022-05-19 01:30:00,1.28,1.316,-2.74,,d70b2a1b,True
+830,,TUR,C.Rizespor - Sivasspor,GOALS,1.5,1.28,,2022-05-16 18:00:00,1.283,1.316,-2.74,,64bad706,False
+831,,BRA2,Ituano SP - Gremio RS,GOALS_H1,0.5,1.6,,2022-05-17 00:00:00,1.581,1.645,-2.74,,aa1ebc38,False
+832,,ITA,Sampdoria - Fiorentina,GOALS_H1,0.5,1.35,,2022-05-16 17:30:00,1.361,1.388,-2.74,,6b93a957,False
+833,,ESP2,Tenerife - Malaga,AWAY_HANDI,1.5,1.35,,2022-05-15 20:00:00,1.356,1.388,-2.74,,5d7b3518,False
+834,,CRO,Sibenik - Dinamo Z.,AWAY_HANDI,-1.5,1.77,,2022-05-15 18:05:00,1.746,1.82,-2.75,,62528901,False
+835,,NED,Heracles - Sparta R.,CORNERS_H1,4.5,2.05,,2022-05-15 13:30:00,1.99,2.108,-2.75,,9681b07d,False
+836,,ESP,Cadiz - Real Madryt,AWAY_GOALS,-1.5,1.7,,2022-05-15 18:30:00,1.704,1.748,-2.75,,2caf2d78,False
+837,,TUR,Konyaspor - Hatayspor,GOALS,-3.5,1.7,,2022-05-15 17:00:00,1.699,1.748,-2.75,,215eb70a,False
+838,,NOR,Aalesunds - Molde,GOALS,-4.5,1.2,,2022-05-16 17:00:00,1.205,1.234,-2.76,,694fd3ee,False
+839,,NED,Heracles - Sparta R.,1X2,0.5,3.0,,2022-05-15 13:30:00,3.0,3.085,-2.76,,98af35ce,False
+840,,SWE,Norrkoping - GIF Sundsvall,1X2_H1,0.5,2.75,,2022-05-15 16:30:00,2.72,2.828,-2.76,,7f4bd1e2,False
+841,,SWE2,Landskrona Bois - Brommapojkarna,GOALS,-2.5,2.15,,2022-05-15 12:00:00,2.12,2.211,-2.76,,cf419dc6,False
+842,,NED,Groningen - Cambuur,HOME_GOALS,1.5,1.62,,2022-05-15 13:30:00,1.621,1.666,-2.76,,c124b4cf,False
+843,,SWE,Norrkoping - GIF Sundsvall,HOME_GOALS,-2.5,1.72,,2022-05-15 16:30:00,1.709,1.769,-2.77,,0eca1083,False
+844,,NED,Vitesse - Ajax,GOALS,-4.5,1.37,,2022-05-15 13:30:00,1.372,1.409,-2.77,,8cdd72d4,False
+845,,GER2,St.Pauli - Dusseldorf,1X2,1.0,2.6,,2022-05-15 14:30:00,2.61,2.674,-2.77,,a7f6a72c,False
+846,,IRE,Bohemians Dublin - Sligo Rovers,GOALS_H1,-1.5,1.3,,2022-05-20 19:45:00,1.262,1.337,-2.77,,e8ed8f86,False
+847,,POL2,Nowy Sącz - Głogów,GOALS_H1,-1.5,1.37,,2022-05-15 14:00:00,1.372,1.409,-2.77,,5420ec6a,False
+848,,NOR2,Stabaek - Grorud,1X2,1.0,1.47,,2022-05-16 17:00:00,1.474,1.512,-2.78,,394b6d3d,False
+849,,NED,Heracles - Sparta R.,GOALS,1.5,1.4,,2022-05-15 13:30:00,1.402,1.44,-2.78,,c05fa444,False
+850,,CHI,Huachipato - Nublense,1X2,1.0,2.55,,2022-05-15 22:30:00,2.55,2.623,-2.78,,55f9afff,False
+851,,KOR,Gangwon - Seoul,1X2,2.0,2.45,,2022-05-18 11:30:00,2.45,2.52,-2.78,,95656f91,False
+852,,JPN2,Albirex Niigata - Yokohama,1X2,0.5,3.2,,2022-05-21 06:00:00,3.14,3.292,-2.79,,898a13e9,False
+853,,NOR,Odd BK - Haugesund,GOALS_H1,-1.5,1.5,,2022-05-16 17:00:00,1.503,1.543,-2.79,,2b4a7b66,False
+854,,POR,Guimaraes - Gil Vicente,AWAY_GOALS,-1.5,1.57,,2022-05-15 20:30:00,1.571,1.615,-2.79,,ea0e9094,False
+855,,TUR,Alanyaspor - Gaziantep,HOME_GOALS,-2.5,1.52,,2022-05-15 17:00:00,1.524,1.564,-2.81,,4b53a3ca,False
+856,,MLS,Philadelphia U. - Inter Miami,GOALS,-3.5,1.42,,2022-05-19 00:30:00,1.412,1.461,-2.81,,b5e98216,False
+857,,ENG,Watford - Leicester,GOALS_H1,0.5,1.35,,2022-05-15 14:00:00,1.357,1.389,-2.81,,c94b6276,False
+858,,SWE,Hacken - Kalmar FF,HOME_GOALS,1.5,1.9,,2022-05-15 14:00:00,1.893,1.955,-2.81,,fc2c813f,False
+859,,POL2,Legnica - Widzew Ł.,CORNERS,-9.5,2.1,,,2.03,2.161,-2.82,,44b3aa8f,False
+860,,TUR,Kasimpasa - Antaliaspor,GOALS_H1,1.5,2.45,,2022-05-15 17:00:00,2.42,2.521,-2.82,,071c46af,False
+861,,ESP,Atl.Madryt - Sevilla,GOALS,-1.5,2.75,,2022-05-15 18:30:00,2.72,2.83,-2.83,,ef770827,False
+862,,ESP2,Oviedo - Zaragoza,GOALS,-2.5,1.65,,2022-05-16 20:00:00,1.637,1.698,-2.83,,a5af8536,False
+863,,TUR,Galatasaray - Adana D.,GOALS,1.5,1.2,,2022-05-16 18:00:00,1.207,1.235,-2.83,,2f02eecd,False
+864,,NOR,Bodo/Glimt - Tromso,GOALS,-4.5,1.2,,2022-05-16 17:00:00,1.206,1.235,-2.83,,852ee41d,False
+865,,NED,Heracles - Sparta R.,1X2_H1,0.5,2.05,,2022-05-15 13:30:00,2.06,2.11,-2.84,,2f3d86de,False
+866,,BRA2,Guarani SP - Vasco Da Gama RJ,GOALS,-2.5,1.47,,2022-05-20 01:30:00,1.461,1.513,-2.84,,b79b8639,False
+867,,JPN2,Omiya Ardija - Iwate Grulla Morioka,GOALS,1.5,1.4,,2022-05-18 11:00:00,1.388,1.441,-2.85,,052b3593,False
+868,,JPN,Sanfrecce Hiroshima - Kyoto Sanga,GOALS_H1,-1.5,1.33,,2022-05-21 05:00:00,1.302,1.369,-2.85,,66a8a96f,False
+869,,SUI,Lausanne - Sion,GOALS,-3.5,1.6,,2022-05-19 19:30:00,1.585,1.647,-2.85,,dc9974d1,False
+870,,TUR,Fenerbahce - F.Karagumruk,GOALS,2.5,1.5,,2022-05-15 17:00:00,1.5,1.544,-2.85,,a373811c,False
+871,,ESP,Betis - Granada,GOALS,-3.5,1.5,,2022-05-15 18:30:00,1.505,1.544,-2.85,,30722386,False
+872,,NOR2,Brann - Sandnes Ulf,GOALS,2.5,1.6,,2022-05-16 17:00:00,1.585,1.647,-2.85,,919a2d24,False
+873,,KOR,Seoul - Seongnam,GOALS_H1,0.5,1.53,,2022-05-21 08:30:00,1.524,1.575,-2.86,,4fcaecaf,False
+874,,GER2,Sandhausen - Holstein Kiel,GOALS,-1.5,5.5,,2022-05-15 14:30:00,5.11,5.662,-2.86,,b5c9dc2e,False
+875,,NOR,Lillestrom - Sarpsborg,1X2_H1,1.0,2.55,,2022-05-16 17:00:00,2.55,2.625,-2.86,,361ee281,False
+876,,ENG,Aston Villa - Burnley,HOME_GOALS,-1.5,1.9,,2022-05-19 20:00:00,1.862,1.956,-2.86,,5bae577b,False
+877,,CHI,Huachipato - Nublense,GOALS_H1,0.5,1.42,,2022-05-15 22:30:00,1.422,1.462,-2.87,,9296e080,False
+878,,GER2,Nurnberg - Schalke 04,1X2,2.0,2.1,,2022-05-15 14:30:00,2.12,2.162,-2.87,,8e18a164,False
+879,,NOR,Kristiansund - Stromsgodset,1X2_H1,1.0,2.9,,2022-05-16 17:00:00,2.89,2.986,-2.88,,c914c3b4,False
+880,,TUR,Fenerbahce - F.Karagumruk,GOALS,-4.5,1.28,,2022-05-15 17:00:00,1.285,1.318,-2.88,,a373811c,False
+881,,SWE,Hacken - Kalmar FF,GOALS,1.5,1.28,,2022-05-15 14:00:00,1.285,1.318,-2.88,,c853c1bf,False
+882,,ESP,Levante - Alaves,GOALS,-2.5,2.25,,2022-05-15 18:30:00,2.23,2.317,-2.89,,c9cf88f9,False
+883,,ESP,Mallorca - Rayo Vallecano,1X2,0.5,3.6,,2022-05-15 18:30:00,3.6,3.707,-2.89,,662a51f2,False
+884,,NOR,Odd BK - Haugesund,1X2,1.0,2.15,,2022-05-16 17:00:00,2.17,2.214,-2.89,,9da8a4a9,False
+885,,NOR,Aalesunds - Molde,GOALS,3.5,2.65,,2022-05-16 17:00:00,2.61,2.729,-2.89,,694fd3ee,False
+886,,GER2,St.Pauli - Dusseldorf,GOALS,-5.5,1.11,,2022-05-15 14:30:00,1.12,1.143,-2.89,,f87efc03,False
+887,,NOR,Viking - Jerv,GOALS,1.5,1.14,,2022-05-16 17:00:00,1.146,1.174,-2.9,,34b2dd3a,False
+888,,ESP2,Gijon - Girona,1X2,2.0,2.75,,2022-05-15 15:00:00,2.76,2.832,-2.9,,5b4b0307,False
+889,,ESP2,Alcorcon - Las Palmas,GOALS,-4.5,1.1,,2022-05-15 13:00:00,1.111,1.133,-2.91,,5f8467b1,False
+890,,ESP,Atl.Madryt - Sevilla,1X2_H1,0.5,2.0,,2022-05-15 18:30:00,2.02,2.06,-2.91,,cbcc899d,False
+891,,ESP,Bilbao - Osasuna,GOALS_H1,-1.5,1.4,,2022-05-15 18:30:00,1.412,1.442,-2.91,,b1a2a409,False
+892,,GERCUP,SC Freiburg - RB Lipsk,GOALS_H1,0.5,1.4,,2022-05-21 19:00:00,1.398,1.442,-2.91,,5d883651,False
+893,,ESP,Cadiz - Real Madryt,HOME_GOALS,-1.5,1.57,,2022-05-15 18:30:00,1.578,1.617,-2.91,,7b32b3d9,False
+894,,SUI,Grasshoppers - St. Gallen,GOALS,-5.5,1.1,,2022-05-19 19:30:00,1.103,1.133,-2.91,,4cc2c268,False
+895,,POL,Radomiak - W.Kraków,1X2,1.0,3.1,,2022-05-15 16:30:00,3.1,3.193,-2.91,,aee90065,False
+896,,NOR,Kristiansund - Stromsgodset,AWAY_GOALS,1.5,2.5,,2022-05-16 17:00:00,2.47,2.575,-2.91,,ef271c90,False
+897,,ENG,West Ham - Manchester City,1X2,0.5,4.9,,2022-05-15 14:00:00,4.84,5.048,-2.93,,affd2dfb,False
+898,,BRA,Botafogo RJ - Fortaleza CE,1X2,0.5,3.15,,2022-05-15 22:00:00,3.13,3.245,-2.93,,96f02f76,False
+899,,MLS,Atlanta Utd - New England,GOALS,-2.5,2.35,,2022-05-15 18:30:00,2.33,2.421,-2.93,,12f51dbd,False
+900,,MLS,Houston - Seattle,GOALS_H1,-1.5,1.42,,2022-05-19 01:30:00,1.424,1.463,-2.94,,678bdc23,False
+901,,FIN,Ilves - Mariehamn,HOME_GOALS,-1.5,1.95,,2022-05-15 13:00:00,1.943,2.009,-2.94,,6a7bf4f3,False
+902,,ESP,Getafe - Barcelona,GOALS,-3.5,1.32,,2022-05-15 18:30:00,1.329,1.36,-2.94,,12870800,False
+903,,TUR,Konyaspor - Hatayspor,CORNERS,9.5,1.85,,2022-05-15 17:00:00,1.813,1.906,-2.94,,5e8ace75,False
+904,,ESP,Bilbao - Osasuna,GOALS_H1,0.5,1.42,,2022-05-15 18:30:00,1.433,1.463,-2.94,,c4e568b1,True
+905,,GERCUP,SC Freiburg - RB Lipsk,GOALS_H1,-1.5,1.42,,2022-05-21 19:00:00,1.418,1.463,-2.94,,3eace0cc,False
+906,,ENG,Everton - Brentford,GOALS,-2.5,1.85,,2022-05-15 16:30:00,1.862,1.906,-2.94,,64c2cd64,False
+907,,TUR,Kasimpasa - Antaliaspor,CORNERS,8.5,1.65,,2022-05-15 17:00:00,1.606,1.7,-2.94,,bed75b60,False
+908,,NED,Feyenoord - Twente Enschede,GOALS,4.5,3.3,,2022-05-15 13:30:00,3.19,3.4,-2.94,,e86185ac,False
+909,,BRA,Coritiba PR - America MG,1X2,1.0,2.3,,2022-05-15 21:30:00,2.31,2.37,-2.95,,662a7234,False
+910,,SLO,Koper - Radomlje,GOALS,1.5,1.25,,2022-05-16 16:30:00,1.239,1.288,-2.95,,0047c9a1,False
+911,,MLS,Nashville - Montreal,GOALS,-3.5,1.25,,2022-05-19 01:30:00,1.253,1.288,-2.95,,5b0dc1a6,False
+912,,MLS,San Jose Earthquakes - Portland T.,GOALS,3.5,2.6,,2022-05-19 03:30:00,2.55,2.679,-2.95,,b1afa43d,False
+913,,IRE,Bohemians Dublin - Sligo Rovers,GOALS,-3.5,1.25,,2022-05-20 19:45:00,1.239,1.288,-2.95,,52c8b7a2,False
+914,,KOR,Incheon United - Daegu,GOALS,3.5,4.4,,2022-05-17 11:30:00,4.17,4.534,-2.96,,d8e02a4b,False
+915,,ESP,Betis - Granada,GOALS,2.5,1.67,,2022-05-15 18:30:00,1.68,1.721,-2.96,,30722386,False
+916,,TUR,Konyaspor - Hatayspor,GOALS,-4.5,1.28,,2022-05-15 17:00:00,1.286,1.319,-2.96,,215eb70a,False
+917,,ITA,Sampdoria - Fiorentina,HOME_HANDI,1.5,1.37,,2022-05-16 17:30:00,1.383,1.412,-2.97,,17bedb83,False
+918,,CRO,Osijek - Lokomotiva Z.,GOALS,-4.5,1.11,,2022-05-15 16:00:00,1.113,1.144,-2.97,,efa2b46a,False
+919,,CRO,Sibenik - Dinamo Z.,GOALS,3.5,2.55,,2022-05-15 18:05:00,2.46,2.628,-2.97,,7b5a225b,False
+920,,GER2,Dyn.Drezno - Aue,AWAY_GOALS,-1.5,1.47,,2022-05-15 14:30:00,1.476,1.515,-2.97,,e3e74065,False
+921,,TUR,Kasimpasa - Antaliaspor,GOALS,3.5,2.45,,2022-05-15 17:00:00,2.42,2.525,-2.97,,43c52666,False
+922,,GER2,Hansa R. - Hamburger SV,GOALS_H1,1.5,2.05,,2022-05-15 14:30:00,2.04,2.113,-2.98,,704af5f3,False
+923,,ENG,Leeds - Brighton,GOALS,-2.5,2.05,,2022-05-15 14:00:00,2.06,2.113,-2.98,,5c9151b5,False
+924,,CRC,Municipal Grecia - Deportivo Saprissa,GOALS_H1,-1.5,1.5,,2022-05-15 22:00:00,1.49,1.546,-2.98,,bf9ca406,False
+925,,JPN2,Omiya Ardija - Vegalta Sendai,GOALS,1.5,1.33,,2022-05-21 06:00:00,1.323,1.371,-2.99,,fb2c5721,False
+926,,SWE,Hacken - Kalmar FF,GOALS,2.5,1.85,,2022-05-15 14:00:00,1.855,1.907,-2.99,,c853c1bf,False
+927,,ESP2,Alcorcon - Las Palmas,1X2,0.5,3.6,,2022-05-15 13:00:00,3.58,3.711,-2.99,,884320ed,False
+928,,ESP,Levante - Alaves,1X2,2.0,2.47,,2022-05-15 18:30:00,2.49,2.546,-2.99,,66932dc6,False
+929,,MLS,NY Red Bulls - Chicago Fire,GOALS,-3.5,1.33,,2022-05-19 00:30:00,1.332,1.371,-2.99,,cdf1fd01,True
+930,,NED,Willem II - Utrecht,HOME_GOALS,1.5,1.85,,2022-05-15 13:30:00,1.847,1.907,-2.99,,a2a61ff5,False
